@@ -1,0 +1,804 @@
+# Translation of Themes - VW Photography in Russian
+# This file is distributed under the same license as the Themes - VW Photography package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-30 14:09:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Photography\n"
+
+#. Theme Name of the theme
+msgid "VW Photography"
+msgstr "VW Photography"
+
+#. Description of the theme
+msgid "VW Photography is a mesmerising, well-structured, modern and bold WordPress photography theme for photographers, photo studios, wildlife and wedding photographers, portfolios, graphic designers, space decorators, magazines and event decorators. Its versatility let it to be used by bloggers who have food blog, travel and adventure blog, fashion and lifestyle blog and many other types of blogs where images play a vital role in attracting visitors. The theme has immense space to let your creativity flow all over your website. It is responsive, cross-browser compatible, multilingual, SEO ready and supports RTL writing. Banners and large sliders are used to decorate the space and grab some eyeballs. It is embedded with social media icons to reach maximum target audience. It is built on Bootstrap framework and coded from scratch to give a strong base to the website. VW Photography can be deeply customized to give personalized look and feel to it. It presents plethora of options to style the header, footer and sidebars with multiple layouts. It has clean and secure coding maintaining WordPress standards to ensure a bug-free website. Demo: https://www.vwthemes.net/vw-photography-pro/"
+msgstr "VW Photography - это завораживающая, хорошо структурированная, современная и смелая WordPress тема фотографий для фотографов, фотостудий, фотографов дикой природы и свадеб, фото-портфолио, графических дизайнеров, декораторов помещений, журналов и декораторов событий. Ее универсальность позволяет использовать ее блоггерам, у которых есть блог о еде, блог о путешествиях и приключениях, блог о моде и образе жизни и многие другие блоги, где изображения играют важную роль в привлечении посетителей. Тема имеет огромное пространство, чтобы ваш творческий потенциал пронизывал весь ваш сайт. Она адаптивная, кросс-браузерная, многоязычный, оптимизирована для SEO и поддерживает запись RTL. Баннеры и большие слайдеры используются для украшения пространства и привлечения внимания. Есть встроеные иконки социальных сетей для достижения максимальной целевой аудитории. Она построена на основе Bootstrap и написана с нуля, чтобы создать прочную основу для веб-сайта. VW Photography имеет множество настроек, чтобы придать ей индивидуальный вид. В ней представлено множество вариантов стилизации шапки, подвала и боковых колонк с множеством макетов. Она имеет простой и безопасное код, поддерживающий стандарты WordPress, чтобы обеспечить работу сайта без ошибок. Демо: https://www.vwthemes.net/vw-photography-pro/"
+
+#: inc/themes-widgets/social-profile.php:60
+#: inc/themes-widgets/about-us-widget.php:56
+#: inc/themes-widgets/contact-us-widget.php:59
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/customizer.php:828
+msgid "Customize Home Page"
+msgstr "Настроить домашнюю страницу"
+
+#: inc/getstart/getstart.php:361
+msgid "Contact Us"
+msgstr "Обратная связь"
+
+#: inc/getstart/getstart.php:359
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Если у вас есть вопросы после покупки, вы можете связаться с нами. Мы всегда готовы помочь вам."
+
+#: inc/getstart/getstart.php:358
+msgid "Support Queries"
+msgstr "Запросы в поддержку"
+
+#: inc/getstart/getstart.php:353
+msgid "View FAQ"
+msgstr "Посмотрите \"Частые вопросы\""
+
+#: inc/getstart/getstart.php:351
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Мы собрали самые популярные, часто задаваемые вопросы и ответили на них, для того что бы вы лучше понимали. Мы будем добавлять больше ответов, поскольку у нас появятся новые интересные вопросы. Проверяйте их чаще."
+
+#: inc/customizer.php:841
+msgid "First select static page in homepage setting for front page.Below given edit button is to customize Home Page. Just click on the edit option, add whatever elements you want to include in the homepage, save the changes and you are good to go."
+msgstr "Сначала выберите статическую страницу в настройках домашней страницы для главной страницы. Ниже находиться кнопка редактирования для настройки домашней страницы. Просто нажмите на опцию редактирования, добавьте все элементы, которые вы хотите включить в домашнюю страницу, сохраните изменения, и все готово."
+
+#: inc/getstart/getstart.php:350
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/getstart/getstart.php:345
+msgid "About Child Theme"
+msgstr "Про дочернюю тему"
+
+#: inc/getstart/getstart.php:343
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для настроек файла темы внесите изменения в дочернюю тему, а не в файл основной темы."
+
+#: inc/getstart/getstart.php:342
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/getstart/getstart.php:338
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/getstart/getstart.php:336
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Если у вас есть предпродажный вопрос, мы готовы на него ответить."
+
+#: inc/getstart/getstart.php:335
+msgid "Pre-purchase Queries"
+msgstr "Предпродажные вопросы"
+
+#: inc/getstart/getstart.php:331
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/getstart/getstart.php:329
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Чтобы получить доступ к дополнительным параметрам темы и более интересным функциям, выполните обновление до версии pro."
+
+#: inc/getstart/getstart.php:328
+msgid "Pro Version"
+msgstr "Версия PRO"
+
+#: inc/getstart/getstart.php:311
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/getstart/getstart.php:306
+msgid "All Access Theme Pass"
+msgstr "Все доступы темы проверены"
+
+#: inc/getstart/getstart.php:301
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/getstart/getstart.php:296
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/getstart/getstart.php:291
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/getstart/getstart.php:286
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/getstart/getstart.php:281
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, шапка, логотип и меню"
+
+#: inc/getstart/getstart.php:276
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/getstart/getstart.php:271
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/getstart/getstart.php:266
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки простого и Mega Menu"
+
+#: inc/getstart/getstart.php:261
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getstart/getstart.php:256
+msgid "Section Google Font Choices"
+msgstr "Раздел выбора Google шрифтов"
+
+#: inc/getstart/getstart.php:251
+msgid "Section Enable / Disable"
+msgstr "Раздел Включить / выключить"
+
+#: inc/getstart/getstart.php:246
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/getstart/getstart.php:241
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/getstart/getstart.php:236
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/getstart/getstart.php:231
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с Woo-Commerce"
+
+#: inc/getstart/getstart.php:226
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/getstart/getstart.php:221
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/getstart/getstart.php:218
+msgid "2(Left/Right Sidebar)"
+msgstr "2(Левая/Правая боковая панель)"
+
+#: inc/getstart/getstart.php:216
+msgid "Page Templates & Layout"
+msgstr "Шаблон и разметка страницы"
+
+#: inc/getstart/getstart.php:213
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3(Полноэкранный/Левая/Правая боковая панель)"
+
+#: inc/getstart/getstart.php:211
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и разметка блога"
+
+#: inc/getstart/getstart.php:206
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы \"Свяжитесь с нами\""
+
+#: inc/getstart/getstart.php:202 inc/getstart/getstart.php:203
+#: inc/getstart/getstart.php:208
+msgid "1"
+msgstr "1"
+
+#: inc/getstart/getstart.php:201
+msgid "Home Page Template"
+msgstr "Шаблон домашней страницы"
+
+#: inc/getstart/getstart.php:198
+msgid "6"
+msgstr "6"
+
+#: inc/getstart/getstart.php:197 inc/customizer.php:611
+msgid "3"
+msgstr "3"
+
+#: inc/getstart/getstart.php:196
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/getstart/getstart.php:192
+msgid "4"
+msgstr "4"
+
+#: inc/getstart/getstart.php:191
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/getstart/getstart.php:181
+msgid "Social Media Links"
+msgstr "Ссылки на социальные сети"
+
+#: inc/getstart/getstart.php:176
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: inc/getstart/getstart.php:171
+msgid "Responsive Design"
+msgstr "Отзывчивый дизайн"
+
+#: inc/getstart/getstart.php:166
+msgid "Theme Customization"
+msgstr "Настройка темы"
+
+#: inc/getstart/getstart.php:161
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/getstart/getstart.php:160
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/getstart/getstart.php:153
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/getstart/getstart.php:146
+msgid "Pro Documentation"
+msgstr "Профессиональная документация"
+
+#: inc/getstart/getstart.php:145
+msgid "Buy Pro"
+msgstr "Купить ПРО версию"
+
+#: inc/getstart/getstart.php:144
+msgid "Live Demo"
+msgstr "Демонстрация"
+
+#: inc/getstart/getstart.php:139
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getstart/getstart.php:133
+msgid " Once you are done with this, you can see all the demo content on front page. "
+msgstr "Как только вы закончите с этим, вы сможете увидеть весь демонстрационный контент на первой странице."
+
+#: inc/getstart/getstart.php:131
+msgid " Settings -&gt; Reading --&gt; Set the front page display static page to home page "
+msgstr "Насткройки -&gt; Чтение --&gt; Установите статическую страницу как домашнюю страницу "
+
+#: inc/getstart/getstart.php:130
+msgid " Go to "
+msgstr "Перейти"
+
+#: inc/getstart/getstart.php:130
+msgid "2. Set the front page:"
+msgstr "2. Установить главную страницу:"
+
+#: inc/getstart/getstart.php:128
+msgid "Label it \"home\" or anything as you wish. Then select template \"home-page\" from template dropdown."
+msgstr "Пометьте ее как «главная» или как вам больше нравиться. Затем выберите шаблон «домашняя страница» из раскрывающегося списка шаблонов."
+
+#: inc/getstart/getstart.php:127
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Консоль &gt;&gt; Страницы &gt;&gt; Добавить новую страницу"
+
+#: inc/getstart/getstart.php:126
+msgid "1. Create a Page to set template:  Go to "
+msgstr "1. Создайте страницу для установки шаблона: Перейдите в "
+
+#: inc/getstart/getstart.php:124
+msgid "Follow these instructions to setup Home page."
+msgstr "Следуйте этим инструкциям, чтобы настроить домашнюю страницу."
+
+#: inc/getstart/getstart.php:122
+msgid "How to set up Home Page Template"
+msgstr "Как настроить шаблон домашней страницы"
+
+#: inc/getstart/getstart.php:115
+msgid "Footer Text"
+msgstr "Текст подвала"
+
+#: inc/getstart/getstart.php:112
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: inc/getstart/getstart.php:107
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/getstart/getstart.php:96
+msgid "Upload your logo"
+msgstr "Загрузите ваше лого"
+
+#: inc/getstart/getstart.php:91
+msgid "Link to customizer"
+msgstr "Ссылка на настройщик"
+
+#: inc/getstart/getstart.php:88
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/getstart/getstart.php:86
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все функции и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/getstart/getstart.php:85
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/getstart/getstart.php:82
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/getstart/getstart.php:80
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/getstart/getstart.php:79
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/getstart/getstart.php:76
+msgid "Customizing"
+msgstr "Настройка"
+
+#: inc/getstart/getstart.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: inc/getstart/getstart.php:73
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/getstart/getstart.php:70
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/getstart/getstart.php:68
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/getstart/getstart.php:67
+msgid "Theme Documentation"
+msgstr "Документация темы"
+
+#: inc/getstart/getstart.php:63
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/getstart/getstart.php:58
+msgid "Support"
+msgstr "Техподдержка"
+
+#: inc/getstart/getstart.php:57
+msgid "Get Premium"
+msgstr "Приобрести Премиум"
+
+#: inc/getstart/getstart.php:56
+msgid "Getting Started"
+msgstr "Приступаем к работе"
+
+#: inc/getstart/getstart.php:49 inc/getstart/getstart.php:318
+msgid "Upgrade to Pro"
+msgstr "Обновиться до PRO-версии"
+
+#: inc/getstart/getstart.php:39
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: functions.php:71
+msgid "Warm Greetings to you!!"
+msgstr "Теплый привет вам!!"
+
+#: inc/getstart/getstart.php:38
+msgid "Welcome to VW Photography Theme"
+msgstr "Добро пожаловать в тему VW Photography"
+
+#: inc/getstart/getstart.php:5
+msgid "About VW Photography"
+msgstr "Про VW Photography"
+
+#: functions.php:346
+msgid "Photography WordPress Theme"
+msgstr "WordPress тема Photography"
+
+#: inc/getstart/getstart.php:104
+msgid "Photography Section"
+msgstr "Раздел фотографии"
+
+#: inc/getstart/getstart.php:193
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: functions.php:73
+msgid "GET STARTED"
+msgstr "НАЧАТЬ РАБОТУ"
+
+#: functions.php:72
+msgid "Thank you for choosing VW Photography Theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Photography Theme."
+msgstr "Спасибо, что выбрали тему VW Photography. Пожалуйста, посетите нашу страницу приветствия, чтобы вы могли воспользоваться всеми преимуществами нашей темы VW Photography."
+
+#: inc/getstart/getstart.php:65
+msgid "VW Photography is a mesmerising, well-structured, modern and bold WordPress photography theme for photographers, photo studios, wildlife and wedding photographers, portfolios, graphic designers, space decorators, magazines and event decorators. Its versatility let it to be used by bloggers who have food blog, travel and adventure blog, fashion and lifestyle blog and many other types of blogs where images play a vital role in attracting visitors. The theme has immense space to let your creativity flow all over your website. It is responsive, cross-browser compatible, multilingual, SEO ready and supports RTL writing. Banners and large sliders are used to decorate the space and grab some eyeballs. It is embedded with social media icons to reach maximum target audience. It is built on Bootstrap framework and coded from scratch to give a strong base to the website. VW Photography can be deeply customized to give personalized look and feel to it. It presents plethora of options to style the header, footer and sidebars with multiple layouts. It has clean and secure coding maintaining WordPress standards to ensure a bug-free website."
+msgstr "VW Photography - это завораживающая, хорошо структурированная, современная и смелая WordPress тема фотографий для фотографов, фотостудий, фотографов дикой природы и свадеб, фото-портфолио, графических дизайнеров, декораторов помещений, журналов и декораторов событий. Ее универсальность позволяет использовать ее блоггерам, у которых есть блог о еде, блог о путешествиях и приключениях, блог о моде и образе жизни и многие другие блоги, где изображения играют важную роль в привлечении посетителей. Тема имеет огромное пространство, чтобы ваш творческий потенциал пронизывал весь ваш сайт. Она адаптивная, кросс-браузерная, многоязычный, оптимизирована для SEO и поддерживает запись RTL. Баннеры и большие слайдеры используются для украшения пространства и привлечения внимания. Есть встроеные иконки социальных сетей для достижения максимальной целевой аудитории. Она построена на основе Bootstrap и написана с нуля, чтобы создать прочную основу для веб-сайта. VW Photography имеет множество настроек, чтобы придать ей индивидуальный вид. В ней представлено множество вариантов стилизации шапки, подвала и боковых колонк с множеством макетов. Она имеет простой и безопасное код, поддерживающий стандарты WordPress, чтобы обеспечить работу сайта без ошибок."
+
+#: inc/getstart/getstart.php:142
+msgid "The WordPress photography themes is stylish, charming, engaging, robust and bold with a beautifully designed space to show your art. It is specifically created for photographers, photo studios, graphic designers, event decorators, photo frame shops, printing agency, magazines, travel and photo journalists and similar image-centred website. It can be used by bloggers having food blog or travel and adventure blog, fashion and clothing blog and all those who want to entice their visitors with charming and eye-catching photos and images. Display images in any shape and size such is its flexibility. Colours play a vital role in any photography website and this theme provides unlimited colours to open vast opportunities to choose any colour scheme. This WordPress photography themes gives so many options of blog, pages and template layouts, header and footer styles and sidebar layouts to design the theme that you can never end up with a cliched design."
+msgstr "WordPress тема photography - стильная, очаровательная, привлекательная, надежная и смелая, с красиво оформленным пространством для демонстрации вашего искусства. Она специально создана для фотографов, фотостудий, графических дизайнеров, декораторов событий, магазинов фоторамок, полиграфического агентства, журналов, журналистов по путешествиям и фотографии и аналогичного сайта, ориентированного на изображения. Ее могут использовать блоггеры, ведущие блог о еде или блог о путешествиях и приключениях, блог о моде и одежде, а также все те, кто хочет соблазнить своих посетителей очаровательными и привлекательными фотографиями и изображениями. Отображение изображения в любой форме и размере, такова ее гибкость. Цвета играют жизненно важную роль на любом веб-сайте, посвященном фотографии, и эта тема предоставляет неограниченные цвета, открывающие широкие возможности выбора любой цветовой схемы. Эта WordPress тема photography предоставляет множество вариантов макетов блогов, страниц и шаблонов, стилей верхнего и нижнего колонтитулов и макетов боковых панелей, чтобы создать тему, которую вы никогда не получите в итоге с стандартным дизайном."
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: template-parts/single-post-layout.php:61
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:60
+#: page-template/custom-home-page.php:54
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:58
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:57
+#: page-template/custom-home-page.php:58
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:52
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:78
+#: template-parts/content.php:117 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:78 template-parts/content-image.php:117
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:78
+#: template-parts/content.php:117 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:78 template-parts/content-image.php:117
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/single-post-layout.php:29 template-parts/content-audio.php:51
+#: template-parts/content.php:38 template-parts/content.php:78
+#: template-parts/content.php:117 template-parts/content-gallery.php:40
+#: template-parts/content-video.php:51 template-parts/content-image.php:38
+#: template-parts/content-image.php:78 template-parts/content-image.php:117
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: template-parts/image-layout.php:32 inc/customizer.php:845
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Найти"
+
+#. translators: %s: search term
+#: search.php:18 search.php:46 search.php:73 search.php:100 search.php:129
+#: search.php:158 search.php:188
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: page-template/custom-home-page.php:115 inc/customizer.php:419
+msgid "Read More"
+msgstr "Подробнее"
+
+#: template-parts/content-audio.php:70 template-parts/content.php:57
+#: template-parts/content.php:97 template-parts/content.php:136
+#: template-parts/content-gallery.php:59 template-parts/content-video.php:70
+#: template-parts/grid-layout.php:29 template-parts/content-image.php:57
+#: template-parts/content-image.php:97 template-parts/content-image.php:136
+#: page-template/custom-home-page.php:40 inc/customizer.php:253
+#: inc/customizer.php:563
+msgid "READ MORE"
+msgstr "Подробнее"
+
+#: no-results.php:23
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/themes-widgets/social-profile.php:92
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/themes-widgets/social-profile.php:88
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/themes-widgets/social-profile.php:84
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/themes-widgets/social-profile.php:80
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/themes-widgets/social-profile.php:76
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/themes-widgets/social-profile.php:72
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/themes-widgets/social-profile.php:68
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/themes-widgets/social-profile.php:64
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/themes-widgets/social-profile.php:11
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных сетей"
+
+#: inc/customizer.php:866
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:851
+msgid "This section will appear in the footer"
+msgstr "Этот раздел появится в футере"
+
+#: inc/customizer.php:850
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:386
+msgid "Select post"
+msgstr "Выберите запись"
+
+#: inc/customizer.php:240
+msgid "Slider image size (1500 x 600)"
+msgstr "Размер изображения слайдера (1500 x 600)"
+
+#: inc/customizer.php:239
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#: inc/customizer.php:222 inc/customizer.php:766
+msgid "Show / Hide Slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/getstart/getstart.php:99 inc/getstart/getstart.php:186
+#: inc/customizer.php:209
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:83
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:82
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:81
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:80 inc/customizer.php:88 inc/customizer.php:99
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:78 inc/customizer.php:97
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer.php:69 inc/customizer.php:79 inc/customizer.php:98
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/customizer.php:48
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: functions.php:141
+msgid "Appears on footer 4"
+msgstr "Появится в футере 4"
+
+#: functions.php:140
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:131
+msgid "Appears on footer 3"
+msgstr "Появится в футере 3"
+
+#: functions.php:130
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:120
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:111
+msgid "Appears on footer 1"
+msgstr "Появится в футере 1"
+
+#: functions.php:110
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:100
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:91 functions.php:101
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: functions.php:90
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:81
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:80
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: archive.php:40 archive.php:71 archive.php:101 archive.php:131
+#: archive.php:163 archive.php:197 archive.php:228 single.php:34 single.php:61
+#: single.php:87 single.php:113 single.php:141 single.php:171 single.php:198
+#: search.php:35 search.php:63 search.php:90 search.php:117 search.php:146
+#: search.php:177 search.php:205 index.php:39 index.php:66 index.php:92
+#: index.php:118 index.php:146 index.php:176 index.php:203 image.php:34
+#: image.php:61 image.php:87 image.php:113 image.php:141 image.php:171
+#: image.php:198
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:39 archive.php:70 archive.php:100 archive.php:130
+#: archive.php:162 archive.php:196 archive.php:227 single.php:33 single.php:60
+#: single.php:86 single.php:112 single.php:140 single.php:170 single.php:197
+#: search.php:34 search.php:62 search.php:89 search.php:116 search.php:145
+#: search.php:176 search.php:204 index.php:38 index.php:65 index.php:91
+#: index.php:117 index.php:145 index.php:175 index.php:202 image.php:33
+#: image.php:60 image.php:86 image.php:112 image.php:140 image.php:170
+#: image.php:197
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:38 archive.php:69 archive.php:99 archive.php:129 archive.php:161
+#: archive.php:195 archive.php:226 single.php:32 single.php:59 single.php:85
+#: single.php:111 single.php:139 single.php:169 single.php:196 search.php:33
+#: search.php:61 search.php:88 search.php:115 search.php:144 search.php:175
+#: search.php:203 index.php:37 index.php:64 index.php:90 index.php:116
+#: index.php:144 index.php:174 index.php:201 image.php:32 image.php:59
+#: image.php:85 image.php:111 image.php:139 image.php:169 image.php:196
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17 inc/customizer.php:658
+msgid "Return to the home page"
+msgstr "Вернуться на главную страницу"
+
+#: no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: functions.php:34
+msgid "Responsive Menu"
+msgstr "Адаптивное меню"
+
+#: functions.php:33
+msgid "Primary Right Menu"
+msgstr "Основное правое меню"
+
+#: functions.php:32
+msgid "Primary Left Menu"
+msgstr "Основное левое меню"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: functions.php:121
+msgid "Appears on footer 2"
+msgstr "Появится в футере 2"
+
+#: inc/customizer.php:336
+msgid "Photography Category"
+msgstr "Рубрика фотографии"
+
+#: inc/customizer.php:366
+msgid "Category Page"
+msgstr "Рубрика страницы"
+
+#: inc/customizer.php:1143
+msgid "Photography Pro"
+msgstr "Photography Pro"
+
+#: inc/customizer.php:387
+msgid "Image Size (290 x 440)"
+msgstr "Размер изображения (290 x 440)"
+
+#: page-template/custom-home-page.php:89
+msgid "View all Categories"
+msgstr "Посмотреть все рубрики"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+#: functions.php:342
+msgid "https://www.vwthemes.com/themes/free-wordpress-photography-themes/"
+msgstr "https://www.vwthemes.com/themes/free-wordpress-photography-themes/"

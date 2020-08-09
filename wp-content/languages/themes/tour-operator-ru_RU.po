@@ -1,0 +1,194 @@
+# Translation of Themes - Tour Operator in Russian
+# This file is distributed under the same license as the Themes - Tour Operator package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-27 17:34:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Tour Operator\n"
+
+#. Theme Name of the theme
+msgid "Tour Operator"
+msgstr "Tour Operator"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:72
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:583
+msgid "Tour Operator | Developed By "
+msgstr "Tour Operator | Разработано "
+
+#: functions.php:586
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:586
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: functions.php:203
+msgid "Phone Label"
+msgstr "Метка телефона"
+
+#: functions.php:178
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: functions.php:153
+msgid "Email"
+msgstr "Электронная почта"
+
+#: functions.php:28
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: sections/banner.php:10 sections/banner.php:11 functions.php:220
+#: functions.php:358
+msgid "Get Started"
+msgstr "Начать "
+
+#: functions.php:498
+msgid "View documentation"
+msgstr "Просмотр документации"
+
+#: functions.php:497 functions.php:498 functions.php:499 functions.php:500
+msgid "here"
+msgstr "здесь"
+
+#: functions.php:497
+msgid "View demo"
+msgstr "Смотреть возможности"
+
+#: functions.php:496
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: functions.php:451
+msgid "MENU"
+msgstr "МЕНЮ"
+
+#: functions.php:292
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: functions.php:274
+msgid "Button Url"
+msgstr "URL кнопки"
+
+#: functions.php:247
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: functions.php:230
+msgid "Button Label"
+msgstr "Название кнопки"
+
+#: functions.php:549
+msgid "Click here"
+msgstr "Нажмите сюда"
+
+#: functions.php:549
+msgid "Download Demo Content"
+msgstr "Скачать демо-контент"
+
+#: functions.php:546
+msgid "Rara One Click Demo Import"
+msgstr "Rara  один клик Демо-импорт"
+
+#: functions.php:546
+msgid "Plugin required"
+msgstr "Требуется плагин"
+
+#: functions.php:517
+msgid "Demo Content Import"
+msgstr "Импорт демо-контента"
+
+#: functions.php:500
+msgid "More Details"
+msgstr "Детали"
+
+#: functions.php:499
+msgid "Support ticket"
+msgstr "Служба поддержки"
+
+#: functions.php:293
+msgid "Enable to show social links in header."
+msgstr "Включить для показа ссылок на соц. сети в шапке."
+
+#: functions.php:248
+msgid "Enable to show search form in header."
+msgstr "Включить отображение формы поиска в шапке."
+
+#: functions.php:536
+msgid "About Demo Import"
+msgstr "О демонстрационном импорте"
+
+#: functions.php:529
+msgid "Tour Operator comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "В комплект поставки Tour Operator входит функция импорта демонстрационного контента. Вы можете импортировать демо-контент всего одним щелчком мыши. Для пошагового видео-урока, %1$sНажмите тут%2$s"
+
+#: functions.php:506
+msgid "About Tour Package"
+msgstr "Про пакет Tour"
+
+#: functions.php:389
+msgid "Call us, we are open 24/7"
+msgstr "Позвоните нам, мы открыты 24 часа в сутки 7 дней в неделю."
+
+#: functions.php:388
+msgid "(888) 123-45678"
+msgstr "(888) 123-45678"
+
+#: functions.php:204
+msgid "Add phone label in header."
+msgstr "Добавьте ярлык телефона в шапку."
+
+#: functions.php:179
+msgid "Add phone number in header."
+msgstr "Добавьте номер телефона в шапку."
+
+#: functions.php:154
+msgid "Add email in header."
+msgstr "Добавьте емейл в шапку."
+
+#: functions.php:129
+msgid "Add working hour in header."
+msgstr "Добавьте часы роботы в шапку."
+
+#: functions.php:128
+msgid "Work Hour"
+msgstr "Часы роботы"
+
+#: sections/banner.php:9
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Найдите для себя отличные приключенческие праздники и развлечения по всей планете."
+
+#: sections/banner.php:8
+msgid "Find Your Best Holiday"
+msgstr "Найдите ваши идеальные выходные"
+
+#: functions.php:483
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:584
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/tour-operator/"
+msgstr "https://rarathemes.com/wordpress-themes/tour-operator/"

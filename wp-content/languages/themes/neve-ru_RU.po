@@ -1,0 +1,1072 @@
+# Translation of Themes - Neve in Russian
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-10 09:57:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve - сверхбыстрая, легко настраиваемая, многоцелевая тема. Она идеально подходит для блогов, малого бизнеса, стартапов, агентств, фирм, магазинов электронной коммерции (WooCommerce storefront), а также личных сайтов портфолио и большинства типов проектов. Полностью оптимизированная и адаптивная тема с поддержкой AMP, Neve будет загружаться за считанные секунды и идеально адаптироваться на любом устройстве. Хотя она легкая и имеет минималистский дизайн, тема очень расширяема, она имеет очень оптимизированный для SEO код, что приводит к лучшему ранжированию в результатах поиска Google. Neve отлично работает с Gutenberg и самыми популярными разработчиками страниц (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve также готова к WooCommerce, адаптивная, RTL и готова к переводу. Не стоит больше ничего искать. Neve - идеальная для вас тема!"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:113
+msgid "Select from the Media Library or upload a new image"
+msgstr "Выберите из библиотеки мультимедиа или загрузите новое изображение"
+
+#: dashboard/inc/Main.php:391
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit(Adobe) Шрифты"
+
+#: dashboard/inc/Main.php:387
+msgid "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customizations."
+msgstr "Сделайте ваши страницы LifterLMS потрясающими с нашими ПРО вариантами дизайна. Специально созданными, чтобы помочь вам запустить онлайн-курсы с минимум настроек."
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:46
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:110
+msgid "Image"
+msgstr "Изображение"
+
+#: dashboard/inc/Main.php:392
+msgid "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+msgstr "Модуль позволяет легко включить новые потрясающие шрифты Adobe (ранее Typekit) в опциях типографии Neve."
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:156
+msgid "Fixed Background"
+msgstr "Фиксированный фон"
+
+#: inc/customizer/controls/react/src/common/Responsive.js:29
+msgid "Desktop"
+msgstr "Настольный ПК"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:69
+msgid "Reset all Values"
+msgstr "Сбросить все значения"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:27
+msgid "Unlink Values"
+msgstr "Отключить значения"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:27
+msgid "Link Values"
+msgstr "Подключить значения"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:175
+msgid "Overlay Opacity"
+msgstr "Затемнение наложения"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:168
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: dashboard/inc/Main.php:386
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Усилитель"
+
+#: dashboard/inc/Main.php:367
+msgid "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+msgstr "Мощный конструктор пользовательских макетов, который позволяет вам легко создавать свой собственную шапку или подвал или пользовательский контент в любом месте хуков, доступных в теме."
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:377
+msgid "Row Background"
+msgstr "Фон рядка"
+
+#: dashboard/inc/Main.php:362
+msgid "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+msgstr "Шапка страницы - это горизонтальная область, которая расположена непосредственно под заголовком и содержит заголовок страницы/записи. Легко спроектируйте привлекательную шапку страницы с помощью нашего специального конструктора."
+
+#: dashboard/inc/Main.php:361
+msgid "Page Header Builder"
+msgstr "Конструктор шапки страницы"
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Header.php:45
+#: header-footer-grid/Core/Builder/Footer.php:41
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "Создайте свой %1$s, перетаскивая и изменяя размеры всех элементов в режиме реального времени. %2$s."
+
+#: inc/customizer/options/layout_blog.php:463
+msgid "Show Author Avatar"
+msgstr "Показать аватар автора"
+
+#: inc/views/partials/post_meta.php:85
+msgid "by"
+msgstr "автор:"
+
+#: inc/customizer/options/layout_blog.php:444
+msgid "Author Avatar"
+msgstr "Аватар автора"
+
+#: dashboard/inc/Main.php:401
+msgid "Scroll To Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "Про"
+
+#: dashboard/inc/Main.php:381 inc/customizer/options/upsells.php:91
+msgid "WooCommerce Booster"
+msgstr "Ускоритель WooCommerce"
+
+#: inc/customizer/options/upsells.php:69
+msgid "View PRO Features"
+msgstr "Особенности ПРО-версии"
+
+#: dashboard/inc/Main.php:396
+msgid "White Label"
+msgstr "Белая метка"
+
+#: dashboard/inc/Main.php:346
+msgid "Header/Footer builder"
+msgstr "Конструктор шапки/подвала"
+
+#: inc/customizer/options/upsells.php:93
+msgid "White Label module"
+msgstr "Модуль Белой метки"
+
+#: dashboard/inc/Main.php:366 inc/customizer/options/upsells.php:92
+msgid "Custom Layouts"
+msgstr "Пользовательский макет"
+
+#: dashboard/inc/Main.php:371 inc/customizer/options/upsells.php:90
+msgid "Blog Booster"
+msgstr "Ускоритель блога"
+
+#: dashboard/inc/Main.php:356 inc/customizer/options/upsells.php:89
+msgid "Header Booster"
+msgstr "Ускоритель шапки"
+
+#: dashboard/inc/Main.php:351
+msgid "Page Builder Compatibility"
+msgstr "Совместимость конструктора страниц"
+
+#: dashboard/inc/Main.php:376 inc/customizer/options/upsells.php:95
+msgid "Elementor Booster"
+msgstr "Ускоритель Elementor-а"
+
+#: inc/customizer/options/upsells.php:94
+msgid "Scroll to Top module"
+msgstr "Модуль \"Пролистать наверх\""
+
+#: dashboard/inc/Main.php:402
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "Простой, но эффективный модуль, который поможет вам вернуться к началу действительно длинных страниц."
+
+#: dashboard/inc/Main.php:397
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "Для любого разработчика или агентства, создающего веб-сайты для своих клиентов, мы упростили представление темы как вашей собственной."
+
+#: dashboard/inc/Main.php:382
+msgid "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+msgstr "Список пожеланий, быстрый просмотр, видео товары, расширенные обзоры, несколько выделенных макетов и многое другое."
+
+#: dashboard/inc/Main.php:382
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Расширьте возможности своего интернет-магазина с помощью потрясающих новых функций, специально разработанных для плавной интеграции с WooCommerce."
+
+#: dashboard/inc/Main.php:372
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Поделиться в соц. сетях, пользовательская сортировка статей, интеграция комментариев, количество минут, необходимое для чтения статьи и многое другое."
+
+#: dashboard/inc/Main.php:372
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Дайте огромный импульс вашему блогу с помощью функций, специально разработанных для повышения удобства пользователей."
+
+#: dashboard/inc/Main.php:357
+msgid "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+msgstr "Поднимите конструктор шапки на новый уровень с новыми удивительными компонентами: социальными сетями, контактами, хлебными крошками, переключателем языка, множественным HTML, закрепленным и прозрачным меню, конструктором заголовков страниц и многими другими."
+
+#: dashboard/inc/Main.php:352
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Neve полностью совместима с Gutenberg, новым редактором WordPress, и для всех вас, поклонников конструкторов страниц, Neve полностью совместима с Elementor, Beaver Builder и всеми другими популярными конструкторами страниц."
+
+#: dashboard/inc/Main.php:347
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Легко создайте свои верхний и нижний колонтитулы, перетаскивая все важные элементы в настройщике WordPress в реальном времени. Более продвинутые опции доступны в PRO."
+
+#: dashboard/inc/Main.php:377 inc/customizer/options/upsells.php:100
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Используйте истинную гибкость Elementor с мощными дополнениями и шаблонами, которые вы можете импортировать одним щелчком мыши."
+
+#: inc/customizer/options/upsells.php:99
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Легко создавайте пользовательские верхние и нижние колонтитулы, а также добавляйте свой собственный код или содержимое в любом месте хуков."
+
+#: inc/customizer/options/upsells.php:46 inc/customizer/options/upsells.php:98
+msgid "Add new awesome header components, sticky and transparent menu, socials, and many more."
+msgstr "Добавляйте новые классные компоненты для шапки, закрепленное и прозрачное меню, социальные сети и многое другое."
+
+#: inc/customizer/options/buttons.php:148
+msgid "Border radius"
+msgstr "Радиус границы"
+
+#: header-footer-grid/Core/Components/CartIcon.php:167
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: header-footer-grid/Core/Components/CartIcon.php:141
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:45
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:89
+msgid "Color"
+msgstr "Цвет"
+
+#: header-footer-grid/Core/Components/Search.php:284
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer/options/buttons.php:61 assets/js/src/gutenberg.js:19
+msgid "Secondary"
+msgstr "Дополнительно"
+
+#: inc/customizer/options/buttons.php:58 assets/js/src/gutenberg.js:14
+msgid "Primary"
+msgstr "Основной"
+
+#: inc/customizer/options/buttons.php:42
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:274
+msgid "Style"
+msgstr "Стиль"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+msgid "Left"
+msgstr "Слева"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:866
+msgid "Bottom"
+msgstr "Снизу"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+msgid "Right"
+msgstr "Справа"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:858
+msgid "Top"
+msgstr "Сверху"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:302
+msgid "Toggle Dropdown"
+msgstr "Переключить выпадающее меню"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "Все"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "Заголовок"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "Выберите меню"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Уникальные товары"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:544
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: inc/customizer/options/buttons.php:129
+#: header-footer-grid/Core/Components/Abstract_Component.php:518
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:301
+msgid "Slide from Left"
+msgstr "Выезжать слева"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "Каталог боковой панели"
+
+#: header-footer-grid/Core/Builder/Footer.php:125
+msgid "Footer Bottom"
+msgstr "Нижний подвал"
+
+#: header-footer-grid/Core/Builder/Header.php:185
+msgid "Header Bottom"
+msgstr "Низ шапки"
+
+#: header-footer-grid/Core/Builder/Footer.php:121
+msgid "Footer Top"
+msgstr "Верхний подвал"
+
+#: header-footer-grid/Core/Builder/Header.php:177
+msgid "Header Top"
+msgstr "Верх шапки"
+
+#: header-footer-grid/Core/Builder/Header.php:181
+msgid "Header Main"
+msgstr "Основная шапка"
+
+#: header-footer-grid/Core/Components/Button.php:101
+msgid "Link"
+msgstr "Ссылка"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "Последний пункт меню"
+
+#: header-footer-grid/Core/Components/Nav.php:134
+msgid "Active Item Color"
+msgstr "Цвет активного элемента"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "Иконка поиска"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:348
+msgid "Letter Spacing"
+msgstr "Межбуквенный интервал"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:235
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:236
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:234
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: header-footer-grid/Core/Components/Search.php:66
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: inc/core/front_end.php:73
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+msgid "Secondary Menu"
+msgstr "Дополнительное меню"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "Иконка корзины"
+
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+msgid "Button"
+msgstr "Кнопка"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "Показать подзаголовок сайта"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "Показать заголовок сайта"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:76
+msgid "Menu Icon"
+msgstr "Иконка меню"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "Логотип и айдентика сайта"
+
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:86
+#: header-footer-grid/Core/Components/Nav.php:113
+msgid "Items Color"
+msgstr "Цвет элементов"
+
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+msgid "Search for..."
+msgstr "Искать..."
+
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/SecondNav.php:109
+#: header-footer-grid/Core/Components/Nav.php:155
+msgid "Items Hover Color"
+msgstr "Цвет элемента при наведении"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:142
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/views/pluggable/pagination.php:162
+msgid "next"
+msgstr "следующая"
+
+#: inc/views/pluggable/pagination.php:157
+msgid "previous"
+msgstr "предыдущая"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:113
+msgid "%s Settings"
+msgstr "%s настройки"
+
+#: inc/core/admin.php:217
+msgid "Return to your dashboard"
+msgstr "Вернуться в вашу панель управления"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:204
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s теперь установлена и готова к использованию. Мы собрали несколько ссылок, чтобы вы начали."
+
+#: inc/core/admin.php:201
+msgid "Congratulations!"
+msgstr "Поздравления!"
+
+#: inc/core/admin.php:223
+msgid "or go to the theme settings"
+msgstr "или зайдите в настройки темы"
+
+#: inc/core/admin.php:212
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Попробуйте один из наших готовых к использованию Стартовых Сайтов"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:186
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#: inc/customizer/options/upsells.php:45 inc/customizer/options/upsells.php:103
+msgid "Get the PRO version!"
+msgstr "Купить профессиональную версию!"
+
+#: dashboard/inc/Main.php:127 dashboard/inc/Main.php:128
+msgid "Options"
+msgstr "Настройки"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "Начнем отсюда"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "Готовы опубликовать свою первую запись? %s."
+
+#: inc/views/template_parts.php:258
+msgid "Read More"
+msgstr "Подробнее"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:200
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "Ответить"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "Далее"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "Навигация по комментариям"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: search result
+#: inc/views/page_header.php:73
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:36
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+msgid "Toggle Navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:26
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: inc/views/layouts/layout_sidebar.php:148 inc/views/header.php:130
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:273
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:301
+msgid "Line Height"
+msgstr "Высота рядка"
+
+#: header-footer-grid/Core/Components/Search.php:120
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:257
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer/options/typography.php:107
+#: header-footer-grid/Core/Settings/Manager.php:177
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer/options/main.php:55
+#: header-footer-grid/Core/Components/Abstract_Component.php:777
+msgid "Typography"
+msgstr "Типография"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:507
+msgid "Header"
+msgstr "Верхний колонтитул"
+
+#: inc/customizer/options/layout_sidebar.php:323
+msgid "Content Width (%)"
+msgstr "Ширина содержимого (%)"
+
+#: inc/customizer/options/layout_sidebar.php:224
+msgid "Sidebar Layout"
+msgstr "Расположение сайдбаров"
+
+#: inc/customizer/options/layout_single_product.php:52
+#: inc/customizer/options/layout_sidebar.php:161
+msgid "Single Product"
+msgstr "Единичный товар"
+
+#: inc/customizer/options/layout_sidebar.php:153
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/typography.php:306
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Работает на %2$s"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:182
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:189
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:201
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:233
+msgid "None"
+msgstr "Ничего"
+
+#: inc/customizer/options/layout_single_post.php:69
+msgid "Content"
+msgstr "Текст записи"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:75
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer/options/layout_blog.php:286
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/views/partials/post_meta.php:144
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/customizer/options/layout_blog.php:285
+#: inc/views/partials/post_meta.php:143
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:284
+#: inc/views/partials/post_meta.php:142
+msgid "Category"
+msgstr "Категория"
+
+#: inc/customizer/options/layout_blog.php:283
+#: inc/views/partials/post_meta.php:141
+#: header-footer-grid/Core/Magic_Tags.php:438
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customizer/options/layout_blog.php:235
+msgid "Post Content Order"
+msgstr "Порядок содержимого записей"
+
+#: inc/customizer/options/layout_blog.php:224
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer/options/layout_blog.php:223
+#: inc/customizer/options/layout_single_post.php:67
+msgid "Title & Meta"
+msgstr "Заголовок и Мета"
+
+#: inc/customizer/options/layout_blog.php:222
+#: inc/customizer/options/layout_single_post.php:68
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: inc/customizer/options/layout_blog.php:172
+msgid "Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+#: inc/customizer/options/layout_blog.php:171
+msgid "Number"
+msgstr "Число"
+
+#: inc/customizer/options/layout_blog.php:166
+msgid "Post Pagination"
+msgstr "Пагинация записи"
+
+#: inc/customizer/options/layout_blog.php:138
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer/options/layout_blog.php:100
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: inc/customizer/options/layout_blog.php:99
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: inc/customizer/options/layout_blog.php:98
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: inc/customizer/options/layout_blog.php:97
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: inc/customizer/options/layout_blog.php:95
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer/options/main.php:51 inc/customizer/options/layout_blog.php:66
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:296
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:319
+#: header-footer-grid/Core/Settings/Manager.php:181
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer/options/layout_blog.php:66
+#: inc/customizer/options/typography.php:115
+msgid "Blog"
+msgstr "Блог"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265 assets/js/src/gutenberg.js:9
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:59
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:169
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/core/front_end.php:502
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+msgid "Footer Four"
+msgstr "Подвал четыре"
+
+#: inc/core/front_end.php:501
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+msgid "Footer Three"
+msgstr "Подвал Три"
+
+#: inc/core/front_end.php:500
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+msgid "Footer Two"
+msgstr "Подвал Два"
+
+#: inc/core/front_end.php:499
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+msgid "Footer One"
+msgstr "Подвал Один"
+
+#: inc/core/front_end.php:493
+msgid "Shop Sidebar"
+msgstr "Боковая панель магазина"
+
+#: inc/core/front_end.php:179 inc/customizer/options/colors_background.php:66
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:401
+#: header-footer-grid/Core/Components/Logo.php:205
+#: header-footer-grid/Core/Components/CustomHtml.php:158
+#: header-footer-grid/Core/Components/Copyright.php:84
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/core/front_end.php:175 inc/customizer/options/colors_background.php:61
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/core/front_end.php:171 inc/customizer/options/colors_background.php:56
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/core/front_end.php:167
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/core/front_end.php:158
+msgid "White"
+msgstr "Белый"
+
+#: inc/core/front_end.php:149
+msgid "Black"
+msgstr "Чёрный"
+
+#: inc/core/front_end.php:72
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: inc/core/front_end.php:71
+#: header-footer-grid/templates/components/component-nav.php:25
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: dashboard/inc/Main.php:332 inc/customizer/options/layout_sidebar.php:43
+msgid "Content / Sidebar"
+msgstr "Содержимое / Боковая панель"
+
+#: dashboard/inc/Main.php:328
+msgid "Footer Options"
+msgstr "Настройки нижнего блока"
+
+#: dashboard/inc/Main.php:320
+msgid "Header Options"
+msgstr "Настройки заголовка"
+
+#: dashboard/inc/Main.php:316
+msgid "Layout Options"
+msgstr "Настройки Макета"
+
+#: dashboard/inc/Main.php:304
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: inc/core/admin.php:246 header-footer-grid/Core/Builder/Header.php:51
+#: header-footer-grid/Core/Builder/Footer.php:47
+msgid "Read full documentation"
+msgstr "Прочитать полную документацию"
+
+#: inc/core/admin.php:242
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/views/header.php:165
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Components/Nav.php:182
+#: header-footer-grid/Core/Magic_Tags.php:493
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/compatibility/woocommerce.php:356
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/admin/plugin_install/main.php:176
+msgid "Activating "
+msgstr "Активация"
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Портфолио Jetpack"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "Установить и активировать"
+
+#: inc/core/front_end.php:492 inc/admin/metabox/main.php:56
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer/options/layout_container.php:43 inc/admin/metabox/main.php:41
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer/options/layout_container.php:134
+#: inc/admin/metabox/main.php:39
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:324
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:325
+msgid "Full Width"
+msgstr "Вся ширина"
+
+#: inc/customizer/options/layout_container.php:133
+#: inc/admin/metabox/main.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:324
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:326
+msgid "Contained"
+msgstr "Ограниченный"
+
+#: inc/admin/metabox/main.php:76
+msgid "Disable Title"
+msgstr "Отключить заголовок"
+
+#: inc/admin/metabox/main.php:71
+msgid "Disable Header"
+msgstr "Отключить верхний колонтитул"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "Компоненты"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Порядок элементов"
+
+#: inc/customizer/options/layout_sidebar.php:165
+msgid "Others"
+msgstr "Другие"
+
+#: inc/customizer/options/layout_sidebar.php:160
+msgid "Shop / Archive"
+msgstr "Магазин / Архив"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:120
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/options/layout_blog.php:119
+msgid "Enable Masonry"
+msgstr "Включить плитку"
+
+#: inc/customizer/options/layout_blog.php:47
+#: inc/customizer/options/layout_sidebar.php:152
+msgid "Blog / Archive"
+msgstr "Блог / Архив"
+
+#: inc/customizer/options/colors_background.php:42
+msgid "Colors & Background"
+msgstr "Цвета и фон"
+
+#: dashboard/inc/Main.php:324
+msgid "Blog Layouts"
+msgstr "Макеты блога"
+
+#: dashboard/inc/Main.php:312
+msgid "Customize Fonts"
+msgstr "Настройка шрифтов"
+
+#: dashboard/inc/Main.php:308
+msgid "Set Colors"
+msgstr "Установить цвет"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "Настройки настройщика"
+
+#: inc/admin/metabox/main.php:88
+msgid "Disable Footer"
+msgstr "Отключить подвал"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "Отключить изображение записи"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "Включить индивидуальную ширину содержимого"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "Включить расширенные настройки"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Макет боковой панели всего сайта"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Ширина содержимого всего сайта (%)"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "Стиль контейнера отдельного товара"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "Стиль контейнера магазина / архива"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "Стиль контейнера отдельной записи"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "Стиль контейнера блога / архива"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "Стиль контейнера по-умолчанию"
+
+#: inc/customizer/options/layout_blog.php:298
+msgid "Meta Order"
+msgstr "Порядок мета данных"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Конструктор страниц на всю ширину (Neve)"
+
+#: inc/core/admin.php:234
+msgid "Sites Library"
+msgstr "Библиотека сайтов"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "Комментарий ожидает модерации."
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "Эй! Мы заметили, что вы используете устаревшую версию PHP, которая больше не поддерживается. Чтобы убедиться, что ваш сайт быстрый и защищенный, %s. Минимальное требование Neve - PHP 5.4.0."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:201
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "С %s, вы можете выбрать из нескольких уникальных демонстраций, специально разработанных для вас, которые можно установить одним щелчком мыши. Вам просто нужно выбрать своего фаворита, и мы позаботимся обо всем остальном."
+
+#. translators: %s - Theme name
+#. translators: %s - theme name
+#: dashboard/inc/Main.php:205 inc/core/admin.php:244
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Необходимо больше информации? Подробную информацию о том, как использовать %s, можно найти в нашей полной документации."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:203
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "Мы хотим убедиться, что вам понравится использовать %1$s, и именно поэтому мы собрали всю необходимую информацию здесь для вас. Мы надеемся, что вам понравится использовать %1$s так же, как нам нравится создавать отличные продукты."
+
+#. translators: %s - Theme name
+#. translators: %s - theme name
+#: dashboard/inc/Main.php:197 inc/core/admin.php:236
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "В %s теперь есть библиотека сайтов с различными дизайнами. Посетите нашу коллекцию демонстраций, которые постоянно добавляются."
+
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:156
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:595
+msgid "Section Content"
+msgstr "Содержимое раздела"
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"

@@ -1,0 +1,1477 @@
+# Translation of Themes - Benevolent in Russian
+# This file is distributed under the same license as the Themes - Benevolent package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-28 15:22:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Benevolent\n"
+
+#. Theme Name of the theme
+msgid "Benevolent"
+msgstr "Благотворительный"
+
+#: inc/extras.php:679 inc/extras.php:684
+msgid "Email"
+msgstr "Email"
+
+#: inc/extras.php:678 inc/extras.php:682
+msgid "Name"
+msgstr "Имя"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Бесплатная или Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "ЧаВо и поддержка"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Ниже вы найдете все необходимое для начала работы с %1$s."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Начать работать с %1$s версия %2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Активация"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Приступаем к работе"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Портфолио Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Установить и активировать"
+
+#: inc/getting-started/tabs/plugins-panel.php:50
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:40
+msgid "These Free Plugins might be handy for you."
+msgstr "Эти бесплатные плагины могут быть полезны для вас."
+
+#: inc/getting-started/tabs/plugins-panel.php:39
+msgid "Free Plugins"
+msgstr "Бесплатные плагины"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRara One Click Demo%3$s Import to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "Вот список рекомендуемых плагинов, которые необходимо установить, чтобы получить максимальную отдачу от %1$s. Хотя каждый плагин является необязательным, мы рекомендуем вам установить как минимум %2$sRara One Click Demo%3$s Import для создания сайта, похожего на демо-версию %1$s, а также для того, чтобы убедиться, что все функции темы работают корректно."
+
+#: inc/getting-started/tabs/plugins-panel.php:10
+#: inc/getting-started/getting-started.php:118
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details possible so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Кроме того, при подаче заявки в службу поддержки, пожалуйста, постарайтесь предоставить максимально подробную информацию, чтобы мы могли детально изучить вашу проблему и решить ее в кратчайшие сроки. Мы рекомендуем вам прислать нам скриншот(ы) с объяснением проблемы и адресом (URL) вашего сайта."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Пожалуйста, убедитесь, что вы обновились до последней версии темы, прежде чем отправлять заявку в службу поддержки по любому вопросу. Возможно, мы уже исправили ошибку в предыдущем обновлении темы."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Как я могу быстро решить свои проблемы и получить быструю поддержку?"
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Если это не помогло, пожалуйста, свяжитесь с нами через наш %1$sЗапрос в поддержку%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Чтобы решить эту проблему, сначала отключите все плагины, кроме рекомендованных темой. Затем перезагрузите ваш сайт, используя %1$s\"Ctrl+Shift+R\"%2$s в Windows и %1$s\"Cmd+Shift+R\"%2$s на Mac. Если проблемы устранены, начните активировать плагины один за другим, и каждый раз перезагружайте и проверяйте свой сайт. Это поможет вам найти плагин, который вызывает проблему."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Если ваш настройщик загружается неправильно или у вас есть проблемы с темой, это может быть связано с конфликтом плагинов."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Почему моя тема не работает нормально?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Вы можете изменить текст авторского права, выбрав  %1$sВид > Настройка > Настройки подвала %2$s. Однако, если вы хотите скрыть текст авторского права, пожалуйста, %3$sобновитесь до Pro версии %4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Как мне изменить текст авторского права?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Pro версия построена с большой гибкостью для будущих обновлений. Поэтому она немного отличается от бесплатной темы, но чрезвычайно гибка и проста в использовании."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Однако, поскольку версия Pro поставляется с дополнительными функциями и настройками, вам нужно будет настроить дополнительные функции в настройщике. Этот процесс прост и занимает всего несколько минут."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "При обновлении до темы Pro ваши записи, страницы, мультимедиа, рубрики и другие данные останутся без изменений-- все ваши данные будут сохранены."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Обновление до версии Pro - потеряю ли я свои изменения?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Наряду с дополнительными функциями и регулярными обновлениями, вы получаете специальную и быструю поддержку с премиум-темой. Если во время создания сайта с премиум-темой вы столкнетесь с какой-либо проблемой, вы получите более быстрый ответ по сравнению с бесплатной поддержкой."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Каковы преимущества обновления до версии Premium?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "В целом, вы будете иметь больше контроля над настройкой и редактированием вашего сайта с помощью Pro версии."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "Как Бесплатная, так и Про-версия тем хорошо закодированы и разработаны с использованием лучших практик кодирования. Тем не менее, Pro-версия темы поставляется с расширенными возможностями и специальной командой поддержки, чтобы помочь вам решить ваши запросы. Pro тема поставляется с несколькими разделами главной страницы, которые вы можете сортировать и скрывать в соответствии с вашими требованиями. Кроме того, Pro тема поставляется с несколькими предопределенными шаблонами страниц."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Какая разница между Бесплатной и Pro версией?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Посетите базу знаний"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Наша документация поставляется с пошаговым руководством, начиная с установки WordPress и заканчивая настройкой темы и созданием привлекательного и увлекательного сайта."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Нужна помощь с WordPress и нашей темой как можно быстрее? Посетите нашу хорошо организованную документацию."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Посетите базу знаний"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Подробнее об особенностях здесь"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Кроме того, Pro-версия регулярно обновляется и имеет специальную службу поддержки для решения ваших запросов."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern as well as fonts of the website with the Pro version. Also, the Pro theme features more homepage sections than free version to allow you to showcase your organization services in a better way boosting the growth of the organization. Furthermore, the premium theme comes with multiple predefined page templates."
+msgstr "Pro-версия темы позволяет изменить внешний вид сайта всего за несколько кликов. Вы можете легко изменить цвет, фоновое изображение и рисунок, а также шрифты сайта с помощью Pro версии. Кроме того, в Pro-версии темы больше разделов главной страницы, чем в бесплатной версии, что позволяет лучше представить услуги вашей организации, способствуя росту организации. Кроме того, премиум-тема поставляется с несколькими предопределенными шаблонами страниц."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Обновиться до PRO-версии"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Посмотрите Демо"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Посетите демо-версию, чтобы узнать больше о нашем тематическом дизайне и его особенностях."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "View Our %1$s Demo"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Перейдите на поддержку"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Если руководство по документации вам не помогло, свяжитесь с нами через наш %1$sЗапрос в поддержку%2$s. Мы отвечаем на все запросы поддержки в течение одного рабочего дня, кроме выходных."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Всегда лучше посетить наш %1$sСправочник%2$s перед тем, как отправить нам запрос в службу поддержки."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Запрос в поддержку"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Посмотрите документацию"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Вы новичок в мире WordPress? Наше пошаговое руководство по документации поможет Вам создать привлекательный и увлекательный сайт без каких-либо предварительных знаний и опыта в области кодирования."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Ссылка на просмотр нашей документации"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Ознакомиться с Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Посмотрите премиальную версию"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Бесплатная или Pro"
+
+#: functions.php:280
+msgid "Dismiss"
+msgstr "Закрыть"
+
+#: functions.php:279
+msgid "Go to the getting started."
+msgstr "Перейдите для начала работы"
+
+#: functions.php:278
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s теперь установлена и готова к использованию. Чтобы начать, нажмите ниже, чтобы увидеть документацию темы, плагины для установки и другие детали."
+
+#: functions.php:277
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти к содержимому (нажмите Enter)"
+
+#: inc/widget-featured-post.php:120
+msgid "Excerpt Word Count"
+msgstr "Количество слов в отрывке"
+
+#: inc/extras.php:552
+msgid "Benevolent | Developed By "
+msgstr "Benevolent | Разработанный "
+
+#: inc/customizer.php:392
+msgid "Open in new tab"
+msgstr "Открыть в новой вкладке"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: inc/tgmpa/recommended-plugins.php:54
+msgid "Rara One Click Demo Import"
+msgstr "Rara  один клик Демо-импорт"
+
+#: inc/extras.php:117 inc/extras.php:119 inc/extras.php:125 inc/extras.php:130
+#: inc/extras.php:544
+msgid "Y"
+msgstr "Y"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновление: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установленный"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Каталог WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Внешний пакет плагина содержит более одного файла вне отдельной папки."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/customizer.php:1784
+msgid "Static Front Page"
+msgstr "Статическая главная страница"
+
+#: inc/info.php:149
+msgid "VIEW PRO THEME"
+msgstr "ПОСМОТРЕТЬ ТЕМУ PRO"
+
+#: inc/info.php:147
+msgid "Pro Available"
+msgstr "PRO доступна"
+
+#: inc/customizer.php:1723
+msgid "Copyright Info"
+msgstr "Информация об авторских правах"
+
+#: inc/customizer.php:1706
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/info.php:30
+msgid "About Benevolent"
+msgstr "О благотворительности"
+
+#: inc/info.php:26
+msgid "More Details"
+msgstr "Подробно "
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr "Служба поддержки"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Просмотр документации"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:25 inc/info.php:26
+msgid "here"
+msgstr "Здесь"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Смотреть возможности"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:42 template-parts/content.php:51
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:58 template-parts/content-page.php:35
+msgid "Pages:"
+msgstr "Страницы"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:24
+msgid "Showing Results for %s"
+msgstr "Показать результаты для %s"
+
+#: search.php:19
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/widget-social-links.php:62
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/extras.php:251 inc/widget-social-links.php:60
+#: inc/widget-social-links.php:112 inc/customizer.php:1592
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:41 inc/widget-social-links.php:85
+#: inc/widget-social-links.php:152
+msgid "Subscribe & Follow"
+msgstr "Подписаться и следовать"
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Виджет социальных связей"
+
+#: inc/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Социальные ссылки"
+
+#: inc/widget-recent-post.php:42 inc/widget-recent-post.php:104
+#: inc/widget-recent-post.php:147
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+#: inc/widget-recent-post.php:28
+msgid "A Recent Post Widget"
+msgstr "Недавний почтовый виджет"
+
+#: inc/widget-recent-post.php:27
+msgid "RARA: Recent Post"
+msgstr "RARA: Новые записи"
+
+#: inc/widget-popular-post.php:128 inc/widget-recent-post.php:128
+msgid "Show Post Date"
+msgstr "Показать дату публикации"
+
+#: inc/widget-popular-post.php:117 inc/widget-recent-post.php:117
+msgid "Number of Posts"
+msgstr "Число записей"
+
+#: inc/widget-social-links.php:97 inc/widget-popular-post.php:112
+#: inc/widget-recent-post.php:112
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/widget-popular-post.php:41 inc/widget-popular-post.php:104
+#: inc/widget-popular-post.php:147
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Популярный почтовый виджет"
+
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Популярная запись"
+
+#: inc/widget-featured-post.php:126 inc/widget-popular-post.php:123
+#: inc/widget-recent-post.php:123
+msgid "Show Post Thumbnail"
+msgstr "Показать эскиз сообщения"
+
+#: inc/widget-featured-post.php:116
+msgid "Read More Text"
+msgstr "Текст Читать далее"
+
+#: inc/widget-featured-post.php:106
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/widget-featured-post.php:87
+msgid "--choose--"
+msgstr "--выбрать--"
+
+#: inc/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "Специально разработанный почтовый виджет"
+
+#: inc/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "RARA - Избранные записи"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:46 inc/template-tags.php:59
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: inc/template-tags.php:52
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/template-tags.php:46
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:44 inc/template-tags.php:50
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:30
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/template-tags.php:30
+msgid "Leave a comment"
+msgstr "Добавить комментарий"
+
+#: inc/metabox.php:39
+msgid "Choose Sidebar Template"
+msgstr "Выберите шаблон боковой панели"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Без боковой панели"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Правая боковая панель (по умолчанию)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Расположение сайдбаров"
+
+#: inc/extras.php:554
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/extras.php:554
+msgid "Powered by %s"
+msgstr "При поддержке %s"
+
+#: inc/extras.php:544
+msgid "&copy; "
+msgstr "&copy; "
+
+#: inc/extras.php:299
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/extras.php:293
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/customizer.php:1695
+msgid "Put your custom CSS"
+msgstr "Положите ваш пользовательский CSS"
+
+#: inc/customizer.php:1693
+msgid "Custom Css"
+msgstr "Пользовательские CSS"
+
+#: inc/customizer.php:1675
+msgid "Custom CSS Settings"
+msgstr "Пользовательские настройки CSS"
+
+#: inc/extras.php:259 inc/widget-social-links.php:68
+#: inc/widget-social-links.php:132 inc/customizer.php:1664
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/extras.php:257 inc/widget-social-links.php:66
+#: inc/widget-social-links.php:127 inc/customizer.php:1646
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/extras.php:255 inc/widget-social-links.php:64
+#: inc/widget-social-links.php:122 inc/customizer.php:1628
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/extras.php:253 inc/widget-social-links.php:117 inc/customizer.php:1610
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/extras.php:249 inc/widget-social-links.php:58
+#: inc/widget-social-links.php:107 inc/customizer.php:1574
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/extras.php:247 inc/widget-social-links.php:56
+#: inc/widget-social-links.php:102 inc/customizer.php:1556
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:1538
+msgid "Enable Social Icons in Header"
+msgstr "Включить социальные иконы в заголовке"
+
+#: inc/customizer.php:1520
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Оставьте пустым, если не хотите показывать социальную связь."
+
+#: inc/customizer.php:1519
+msgid "Social Settings"
+msgstr "Социальные параметры"
+
+#: inc/customizer.php:1508
+msgid "Breadcrumb Separator"
+msgstr "Разделитель хлебных крошек"
+
+#: inc/extras.php:69 inc/customizer.php:1500
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:1490
+msgid "Breadcrumb Home Text"
+msgstr "Текст хлебных крошек домашней страницы"
+
+#: inc/extras.php:70 inc/customizer.php:1482
+msgid "Home"
+msgstr "Главная"
+
+#: inc/customizer.php:1472
+msgid "Show current"
+msgstr "Показать текущую"
+
+#: inc/customizer.php:1454
+msgid "Enable Breadcrumb"
+msgstr "Включить хлебные крошки"
+
+#: inc/customizer.php:1436
+msgid "Breadcrumb Settings"
+msgstr "Настройки хлебных крошек"
+
+#: inc/customizer.php:1423
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/customizer.php:1367
+msgid "Promotional Section Title"
+msgstr "Название раздела рекламы"
+
+#: inc/customizer.php:1349
+msgid "Enable Promotional Section"
+msgstr "Активировать секцию продвижения"
+
+#: inc/customizer.php:1331
+msgid "Promotional Section"
+msgstr "Рекламная секция"
+
+#: inc/customizer.php:1320
+msgid "Logo Five Url"
+msgstr "Логотип 5 Урл"
+
+#: inc/customizer.php:1302
+msgid "Upload Logo Five"
+msgstr "Загрузить логотип 5"
+
+#: inc/customizer.php:1282
+msgid "Logo Four Url"
+msgstr "Ссылка логотипа четыре"
+
+#: inc/customizer.php:1264
+msgid "Upload Logo Four"
+msgstr "Загрузить логотип 4"
+
+#: inc/customizer.php:1244
+msgid "Logo Three Url"
+msgstr "Ссылка логотипа три"
+
+#: inc/customizer.php:1226
+msgid "Upload Logo Three"
+msgstr "Загрузить логотип три"
+
+#: inc/customizer.php:1206
+msgid "Logo Two Url"
+msgstr "Ссылка логотипа два"
+
+#: inc/customizer.php:1188
+msgid "Upload Logo Two"
+msgstr "Загрузить логотип 2"
+
+#: inc/customizer.php:1168
+msgid "Logo One Url"
+msgstr "Ссылка логотипа один"
+
+#: inc/customizer.php:1150
+msgid "Upload Logo One"
+msgstr "Загрузить логотип один"
+
+#: inc/customizer.php:1130
+msgid "Sponsor Section Title"
+msgstr "Название спонсорского отдела"
+
+#: inc/customizer.php:1112
+msgid "Enable Sponsor Section"
+msgstr "Включить спонсорскую секцию"
+
+#: inc/customizer.php:1094
+msgid "Sponsor Section"
+msgstr "Спонсорская секция"
+
+#: inc/customizer.php:1083
+msgid "Blog Section Read More Text"
+msgstr "Текст \"Читать далее\" раздела Блог"
+
+#: template-parts/content.php:66 sections/section-blog.php:11
+#: inc/widget-featured-post.php:41 inc/widget-featured-post.php:99
+#: inc/widget-featured-post.php:146 inc/customizer.php:1075
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer.php:1065
+msgid "Blog Section Content"
+msgstr "Содержание раздела блога"
+
+#: inc/customizer.php:1047
+msgid "Blog Section Title"
+msgstr "Название раздела блога"
+
+#: inc/customizer.php:1029
+msgid "Show Blog Date"
+msgstr "Показать дату блога"
+
+#: inc/customizer.php:1011
+msgid "Enable Blog Section"
+msgstr "Разрешить раздел блога"
+
+#: inc/customizer.php:993
+msgid "Blog Section"
+msgstr "Раздел блога"
+
+#: inc/customizer.php:982
+msgid "Fourth Stat Counter Title"
+msgstr "Заголовок Четвертый Счетчик посещений"
+
+#: inc/customizer.php:964
+msgid "Fourth Stat Counter Number"
+msgstr "Число Четвертого Счетчика посещений"
+
+#: inc/customizer.php:946
+msgid "Third Stat Counter Title"
+msgstr "Заголовок Третий Счетчик посещений"
+
+#: inc/customizer.php:928
+msgid "Third Stat Counter Number"
+msgstr "Число Третьего Счетчика посещений"
+
+#: inc/customizer.php:910
+msgid "Second Stat Counter Title"
+msgstr "Название второго счетчика статистики"
+
+#: inc/customizer.php:892
+msgid "Second Stat Counter Number"
+msgstr "Число Второго Счетчика посещений"
+
+#: inc/customizer.php:874
+msgid "First Stat Counter Title"
+msgstr "Заголовок Первый Счетчик посещений"
+
+#: inc/customizer.php:856
+msgid "First Stat Counter Number"
+msgstr "Число Первого Счетчика посещений"
+
+#: inc/customizer.php:838
+msgid "Enable Stat Counter Section"
+msgstr "Включить раздел счетчик посещений"
+
+#: inc/customizer.php:820
+msgid "Stat Counter Section"
+msgstr "Раздел счетчик посещений"
+
+#: inc/customizer.php:808
+msgid "Select Post Four"
+msgstr "Выберите запись четыре"
+
+#: inc/customizer.php:789
+msgid "Select Post Three"
+msgstr "Выберите запись три"
+
+#: inc/customizer.php:770
+msgid "Select Post Two"
+msgstr "Выберите запись два"
+
+#: inc/customizer.php:751
+msgid "Select Post One"
+msgstr "Выберите запись один"
+
+#: inc/customizer.php:733
+msgid "Community Section Title"
+msgstr "Название раздела Сообщества"
+
+#: inc/customizer.php:715
+msgid "Enable Community Section"
+msgstr "Включить раздел \"Общество\""
+
+#: inc/customizer.php:697
+msgid "Community Section"
+msgstr "Раздел сообщества"
+
+#: inc/customizer.php:684
+msgid "Upload a Image Three"
+msgstr "Загрузить третье  изображение"
+
+#: inc/customizer.php:662
+msgid "Upload a Logo Three"
+msgstr "Загрузить логотип три"
+
+#: inc/customizer.php:642
+msgid "Intro Three Url"
+msgstr "Ссылка интро три"
+
+#: inc/customizer.php:624
+msgid "Intro Three Link Label"
+msgstr "Метка ссылки интро три"
+
+#: inc/customizer.php:606
+msgid "Intro Three Title"
+msgstr "Заголовок интро три"
+
+#: inc/customizer.php:586
+msgid "Upload a Image Two"
+msgstr "Загрузить второе изображение"
+
+#: inc/customizer.php:564
+msgid "Upload a Logo Two"
+msgstr "Загрузить логотип 2"
+
+#: inc/customizer.php:544
+msgid "Intro Two Url"
+msgstr "Ссылка интро два"
+
+#: inc/customizer.php:526
+msgid "Intro Two Link Label"
+msgstr "Метка ссылки интро два"
+
+#: inc/customizer.php:508
+msgid "Intro Two Title"
+msgstr "Заголовок интро два"
+
+#: inc/customizer.php:488
+msgid "Upload a Image One"
+msgstr "Загрузить Первое изображение"
+
+#: inc/customizer.php:466
+msgid "Upload a Logo One"
+msgstr "Загрузить логотип один"
+
+#: inc/customizer.php:446
+msgid "Intro One Url"
+msgstr "Ссылка интро один"
+
+#: inc/customizer.php:428
+msgid "Intro One Link Label"
+msgstr "Метка ссылки интро один"
+
+#: inc/customizer.php:410
+msgid "Intro One Title"
+msgstr "Заголовок интро один"
+
+#: inc/customizer.php:374
+msgid "Intro Section Content"
+msgstr "Содержание раздела интро"
+
+#: inc/customizer.php:356
+msgid "Intro Section Title"
+msgstr "Заголовок раздела интро"
+
+#: inc/customizer.php:338
+msgid "Enable Intro Section"
+msgstr "Включить вводную часть"
+
+#: inc/customizer.php:320
+msgid "Intro Section"
+msgstr " Вводная часть"
+
+#: inc/customizer.php:312
+msgid "Customize Home Page Settings"
+msgstr "Настройка параметров домашней страницы"
+
+#: inc/customizer.php:311
+msgid "Home Page Settings"
+msgstr "Главная страница Настройки"
+
+#: inc/customizer.php:297
+msgid "Choose Slider Category"
+msgstr "Выберите категорию Слайдер"
+
+#: inc/customizer.php:279
+msgid "Readmore Text"
+msgstr "Текст \"читать далее\""
+
+#: inc/extras.php:362 inc/customizer.php:271
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/customizer.php:261
+msgid "Animation Speed"
+msgstr "Скорость анимации"
+
+#: inc/customizer.php:243
+msgid "Slider Speed"
+msgstr "Скорость ползунка"
+
+#: inc/customizer.php:226
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/customizer.php:225
+msgid "Fade"
+msgstr "Затемнение"
+
+#: inc/customizer.php:221
+msgid "Choose Slider Animation"
+msgstr "Выберите анимацию слайдера"
+
+#: inc/customizer.php:203
+msgid "Enable Slider Caption"
+msgstr "Включить слайдер подпись"
+
+#: inc/customizer.php:185
+msgid "Enable Slider Pager"
+msgstr "Включить слайдер пейджер"
+
+#: inc/customizer.php:167
+msgid "Enable Slider Loop"
+msgstr "Включить слайдер Петля"
+
+#: inc/customizer.php:149
+msgid "Enable Slider Auto Transition"
+msgstr "Включить автоматический переход слайдера."
+
+#: inc/customizer.php:131
+msgid "Enable Home Page Slider"
+msgstr "Включить слайдер домашней страницы"
+
+#: inc/customizer.php:113
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:102 inc/customizer.php:1403
+msgid "Button Url"
+msgstr "URL кнопки"
+
+#: inc/customizer.php:84 inc/customizer.php:1385
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer.php:66
+msgid "Donate Button"
+msgstr "Кнопка пожертвования"
+
+#: inc/customizer.php:47
+msgid "Default section provided by WordPress customizer."
+msgstr "Раздел по умолчанию, предоставляемый кастомизатором WordPress."
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "Выберите рубрику"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "Выберите запись"
+
+#: inc/customizer.php:76 header.php:57 header.php:142
+msgid "Donate Now"
+msgstr "Поддержать проект"
+
+#: header.php:91 header.php:149
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:188
+msgid "Footer Four"
+msgstr "Подвал четыре"
+
+#: functions.php:178
+msgid "Footer Three"
+msgstr "Подвал Три"
+
+#: functions.php:168
+msgid "Footer Two"
+msgstr "Подвал Два"
+
+#: functions.php:158
+msgid "Footer One"
+msgstr "Подвал Один"
+
+#: functions.php:148
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: functions.php:53
+msgid "Secondary"
+msgstr "Дополнительно"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Основной"
+
+#: inc/extras.php:699
+msgid "Comment"
+msgstr "Комментировать"
+
+#: inc/extras.php:686
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: inc/extras.php:679
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/extras.php:678
+msgid "Name*"
+msgstr "Имя*"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "Комментарии"
+
+#: index.php:46 archive.php:40 search.php:42
+msgid "Page"
+msgstr "Страница"
+
+#: 404.php:21
+msgid "Return to Homepage"
+msgstr "Вернуться на главную"
+
+#: 404.php:20
+msgid "This page could not be found on the server."
+msgstr "Эта страница не может быть найдена на сервере."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:16 404.php:18
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/extras.php:553
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/benevolent/"
+msgstr "https://rarathemes.com/wordpress-themes/benevolent/"

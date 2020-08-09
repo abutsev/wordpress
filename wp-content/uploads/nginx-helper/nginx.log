@@ -1,0 +1,106 @@
+
+2020-07-28 22:52:52  | INFO | Purge post on transition post STATUS from pending to publish
+2020-07-28 22:52:52  | INFO | * * * * *
+2020-07-28 22:52:52  | INFO | * Blog :: DC++ ( 1 ).
+2020-07-28 22:52:52  | INFO | * Custom post type 'post' :: 435 ( 842 ).
+2020-07-28 22:52:52  | INFO | * CPT 'post' ( 842 ) published or edited and its status is published
+2020-07-28 22:52:52  | INFO | * * * * *
+2020-07-28 22:52:52  | INFO | Function purge_post BEGIN ===
+2020-07-28 22:52:52  | INFO | РћС‡РёСЃС‚РєР° РіР»Р°РІРЅРѕР№http://sitehome.ml/
+2020-07-28 22:52:52  | INFO | - Purging URL | http://sitehome.ml/
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/feed/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/feed/atom/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/feed/rdf/ is currently not cached
+2020-07-28 22:52:52  | INFO | Purging post ( id 842, blog id 1 ) 
+2020-07-28 22:52:52  | INFO | - Purging URL | http://sitehome.ml/435-3/
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/435-3/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/435-3/feed/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/435-3/feed/atom/ is currently not cached
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge/435-3/feed/rdf/ is currently not cached
+2020-07-28 22:52:52  | INFO | Purging post type archive ( post )
+2020-07-28 22:52:52  | INFO | - Purging URL | http://sitehome.ml
+2020-07-28 22:52:52  | INFO | - - http://sitehome.ml/purge is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | Purging date
+2020-07-28 22:52:53  | INFO | - Purging URL | http://sitehome.ml/2020/
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | - Purging URL | http://sitehome.ml/2020/07/
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | - Purging URL | http://sitehome.ml/2020/07/29/
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/29/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/29/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/29/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/2020/07/29/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | Purging category archives
+2020-07-28 22:52:53  | INFO | Purging category 1
+2020-07-28 22:52:53  | INFO | - Purging URL | http://sitehome.ml/category/dc/
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/category/dc/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/category/dc/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/category/dc/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/category/dc/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | Purging author archive
+2020-07-28 22:52:53  | INFO | - Purging URL | http://sitehome.ml/author/lilly4117/
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/author/lilly4117/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/author/lilly4117/feed/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/author/lilly4117/feed/atom/ is currently not cached
+2020-07-28 22:52:53  | INFO | - - http://sitehome.ml/purge/author/lilly4117/feed/rdf/ is currently not cached
+2020-07-28 22:52:53  | INFO | Function purge_post END ^^^
+2020-07-28 22:53:28  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:53:31  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:53:47  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:53:55  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:06  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:06  | INFO | Purge post on transition post STATUS from pending to publish
+2020-07-28 22:54:06  | INFO | * * * * *
+2020-07-28 22:54:07  | INFO | * Blog :: DC++ ( 1 ).
+2020-07-28 22:54:07  | INFO | * Custom post type 'post' :: 435345345 ( 845 ).
+2020-07-28 22:54:07  | INFO | * CPT 'post' ( 845 ) published or edited and its status is published
+2020-07-28 22:54:07  | INFO | * * * * *
+2020-07-28 22:54:07  | INFO | Function purge_post BEGIN ===
+2020-07-28 22:54:07  | INFO | РћС‡РёСЃС‚РєР° РіР»Р°РІРЅРѕР№http://sitehome.ml/
+2020-07-28 22:54:07  | INFO | - Purging URL | http://sitehome.ml/
+2020-07-28 22:54:09  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:09  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/
+2020-07-28 22:54:09  | INFO | Purging post ( id 845, blog id 1 ) 
+2020-07-28 22:54:09  | INFO | - Purging URL | http://sitehome.ml/435345345-2/
+2020-07-28 22:54:11  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:11  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/435345345-2/
+2020-07-28 22:54:11  | INFO | Purging post type archive ( post )
+2020-07-28 22:54:11  | INFO | - Purging URL | http://sitehome.ml
+2020-07-28 22:54:13  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:13  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml
+2020-07-28 22:54:13  | INFO | Purging date
+2020-07-28 22:54:13  | INFO | - Purging URL | http://sitehome.ml/2020/
+2020-07-28 22:54:15  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:15  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/2020/
+2020-07-28 22:54:15  | INFO | - Purging URL | http://sitehome.ml/2020/07/
+2020-07-28 22:54:17  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:17  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/2020/07/
+2020-07-28 22:54:17  | INFO | - Purging URL | http://sitehome.ml/2020/07/29/
+2020-07-28 22:54:19  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:19  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/2020/07/29/
+2020-07-28 22:54:19  | INFO | Purging category archives
+2020-07-28 22:54:19  | INFO | Purging category 1
+2020-07-28 22:54:19  | INFO | - Purging URL | http://sitehome.ml/category/dc/
+2020-07-28 22:54:21  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:21  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/category/dc/
+2020-07-28 22:54:21  | INFO | Purging author archive
+2020-07-28 22:54:21  | INFO | - Purging URL | http://sitehome.ml/author/lilly4117/
+2020-07-28 22:54:23  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:23  | ERROR | - Cache Not Found | nginx-cache:httpGETsitehome.ml/author/lilly4117/
+2020-07-28 22:54:23  | INFO | Function purge_post END ^^^
+2020-07-28 22:54:29  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:31  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:31  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:54:40  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:55:06  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]
+2020-07-28 22:55:09  | ERROR | Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. [tcp://127.0.0.1:6379]

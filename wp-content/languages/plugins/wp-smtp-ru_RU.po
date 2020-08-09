@@ -1,0 +1,112 @@
+# Translation of Plugins - WP SMTP - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP SMTP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-05 11:31:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP SMTP - Stable (latest release)\n"
+
+#: wp_smtp_admin.php:257
+msgid "Send Test"
+msgstr "Отправить тестовое письмо"
+
+#: wp_smtp_admin.php:244
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: wp_smtp_admin.php:234
+msgid "Subject:"
+msgstr "Тема:"
+
+#: wp_smtp_admin.php:224
+msgid "To:"
+msgstr "Кому:"
+
+#: wp_smtp_admin.php:220
+msgid "Test your settings"
+msgstr "Проверка настроек"
+
+#: wp_smtp_admin.php:214
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: wp_smtp_admin.php:205
+msgid "Delete options while deactivate this plugin."
+msgstr "Удалять настройки при деактивации плагина"
+
+#: wp_smtp_admin.php:199
+msgid "Delete Options"
+msgstr "Удалить настройки"
+
+#: wp_smtp_admin.php:188
+msgid "Password"
+msgstr "Пароль"
+
+#: wp_smtp_admin.php:177
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: wp_smtp_admin.php:159
+msgid "SMTP Authentication"
+msgstr "SMTP авторизация"
+
+#: wp_smtp_admin.php:148
+msgid "SMTP Port"
+msgstr "SMTP порт"
+
+#: wp_smtp_admin.php:124
+msgid "SMTP Secure"
+msgstr "Безопасный SMTP"
+
+#: wp_smtp_admin.php:113
+msgid "SMTP Host"
+msgstr "SMTP сервер"
+
+#: wp_smtp_admin.php:102
+msgid "From Name"
+msgstr "Имя отправителя"
+
+#: wp_smtp_admin.php:91
+msgid "From"
+msgstr "От кого"
+
+#: wp_smtp_admin.php:56
+msgid "Message sent!"
+msgstr "Сообщение отправлено!"
+
+#: wp_smtp_admin.php:51
+msgid "Some of the test fields are empty or an invalid email supplied"
+msgstr "Некоторые поля для проверки не заполнены или указан неверный адрес email"
+
+#: wp_smtp_admin.php:27
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: wp_smtp_admin.php:25
+msgid "The field \"SMTP Host\" can not be left blank!"
+msgstr "Поле \"SMTP сервер\" не может быть пустым!"
+
+#: wp_smtp_admin.php:23
+msgid "The field \"From\" must be a valid email address!"
+msgstr "Поле \"От кого\" должно быть действительным адресом email!"
+
+#: wp-smtp.php:96
+msgid "Settings"
+msgstr "Настройки"
+
+#. Author of the plugin
+msgid "Yehuda Hassine"
+msgstr "Yehuda Hassine"
+
+#. Description of the plugin
+msgid "WP SMTP can help us to send emails via SMTP instead of the PHP mail() function."
+msgstr "Плагин WP SMTP посылает почту через SMTP вместо функции PHP mail(),"
+
+#. Plugin Name of the plugin
+msgid "WP SMTP"
+msgstr "WP SMTP"
