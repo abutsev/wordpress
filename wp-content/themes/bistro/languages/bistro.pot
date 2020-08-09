@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bistro\n"
+"POT-Creation-Date: 2015-05-24 13:04+0200\n"
+"PO-Revision-Date: 2015-05-24 13:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\Programe\\InstantWP\\InstantWP_4.3.1\\iwpserver"
+"\\htdocs\\wordpress\\wp-content\\themes\\bistro\n"
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/inc/builder.php:12
+msgid "Columns padding"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/inc/builder.php:14
+msgid "Remove padding between columns for this row?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/inc/styles.php:11
+msgid "Welcome to our bistro"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/inc/styles.php:12
+msgid "Ready to see what we offer?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/inc/styles.php:13
+msgid "Click the button below"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:10
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:10
+msgid "Show menu items from a particular tag"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:11
+msgid "Bistro: Menu Type A"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:131
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:131
+msgid ""
+"This widget shows menu items created with the recommended Restaurant plugin."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:132
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:132
+msgid "Title:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:135
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:135
+msgid "Number of menu items to show:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:139
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:139
+msgid "Show the item price?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-a.php:141
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:141
+msgid ""
+"Enter the slug for your tag or leave empty to show menu items from all tags."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\bistro/widgets/menus-type-b.php:11
+msgid "Bistro: Menu Type B"
+msgstr ""

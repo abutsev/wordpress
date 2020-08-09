@@ -1,0 +1,483 @@
+# Translation of Themes - Rara Journal in Russian
+# This file is distributed under the same license as the Themes - Rara Journal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-27 17:35:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Rara Journal\n"
+
+#. Description of the theme
+msgid "Rara Journal is a clean and elegant WordPress blog theme. It is perfect for food, storytelling, personal, travel, lifestyle blog, etc.  It is responsive and adopts to various screen sizes, ensuring that your content is perfectly displayed to the visitors using tablets and mobile devices. If you are looking for a clean and professional blog theme that compliments your visuals and also provides you ample space for text, Rara Journal is perfect for you. Along with the clean design the theme comes with advance featured Slider to highlight your posts. Check demo at https://demo.rarathemes.com/rara-journal/, read the documentation at https://docs.rarathemes.com/docs/rara-journal/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Rara Journal - это чистая и элегантная тема блога WordPress. Она идеально подходит для еды, рассказывания историй, личного общения, путешествий, блогов о стиле жизни и т.д. Она адаптивна и адаптируется к экранам различных размеров, благодаря чему ваш контент идеально отображается для посетителей с планшетов и мобильных устройств. Если вы ищете чистую и профессиональную тему блога, которая дополняет ваши визуальные эффекты, а также предоставляет вам достаточно места для текста, Rara Journal идеально подходит для вас. Наряду с чистым дизайном тема поставляется с продвинутым слайдером, чтобы выделить ваши сообщения. Проверьте демо на https://demo.rarathemes.com/rara-journal/, прочтите документацию на https://docs.rarathemes.com/docs/rara-journal/ и получите поддержку на https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Rara Journal"
+msgstr "Rara Journal"
+
+#: inc/extras.php:355 inc/extras.php:360
+msgid "Email"
+msgstr "Электронная почта"
+
+#: inc/extras.php:354 inc/extras.php:358
+msgid "Name"
+msgstr "Имя"
+
+#: header.php:28
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти к содержимому (нажмите Enter)"
+
+#: inc/customizer.php:36
+msgid "Important Links"
+msgstr "Важные ссылки"
+
+#: inc/customizer.php:30
+msgid "<li>More WordPress Themes: %1$sClick here.%2$s</li>"
+msgstr "<li>Больше WordPress тем: %1$sНажмите тут.%2$s</li>"
+
+#: inc/customizer.php:29
+msgid "<li>Support ticket: %1$sClick here.%2$s</li>"
+msgstr "<li>Запрос в поддержку: %1$sНажмите тут.%2$s</li>"
+
+#: inc/customizer.php:28
+msgid "<li>Theme info: %1$sClick here.%2$s</li>"
+msgstr "<li>Информация про тему: %1$sНажмите тут.%2$s</li>"
+
+#: inc/customizer.php:27
+msgid "<li>View documentation: %1$sClick here.%2$s</li>"
+msgstr "<li>Посмотреть документацию: %1$sНажмите тут.%2$s</li>"
+
+#: inc/customizer.php:26
+msgid "<li>View demo: %1$sClick here.%2$s</li>"
+msgstr "<li>Посмотреть демо: %1$sНажмите тут.%2$s</li>"
+
+#: inc/customizer.php:12
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:31 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:330
+msgid "Rara Journal by: "
+msgstr "Rara Journal от: "
+
+#: inc/extras.php:328
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:163
+msgid "<b class=\"fn\"><a href=\"<?php get_the_author(); ?>\">%s</a></b>"
+msgstr "<b class=\"fn\"><a href=\"<?php get_the_author(); ?>\">%s</a></b>"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:50 template-parts/content.php:64
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:43
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: template-parts/content.php:73 template-parts/content-page.php:31
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:19
+msgid " 404: Page Not Found"
+msgstr "Ошибка 404: страница не найдена"
+
+#: inc/widget-social-links.php:118
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:65 inc/widget-social-links.php:123
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-social-links.php:63
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:61 inc/widget-social-links.php:113
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:59 inc/widget-social-links.php:108
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widget-social-links.php:57 inc/widget-social-links.php:103
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:55 inc/widget-social-links.php:98
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Виджет социальных связей"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Социальные ссылки"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Недавний почтовый виджет"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Новые записи"
+
+#: inc/widget-recent-post.php:122 inc/widget-popular-post.php:126
+msgid "Show Post Date"
+msgstr "Показать дату публикации"
+
+#: inc/widget-recent-post.php:111 inc/widget-popular-post.php:115
+msgid "Number of Posts"
+msgstr "Число записей"
+
+#: inc/widget-social-links.php:93 inc/widget-recent-post.php:106
+#: inc/widget-popular-post.php:110
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Популярный почтовый виджет"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Популярная запись"
+
+#: inc/widget-recent-post.php:117 inc/widget-popular-post.php:121
+#: inc/widget-featured-post.php:116
+msgid "Show Post Thumbnail"
+msgstr "Показать эскиз сообщения"
+
+#: inc/widget-featured-post.php:110
+msgid "Read More Text"
+msgstr "Текст Читать далее"
+
+#: inc/widget-featured-post.php:100
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/widget-featured-post.php:95 inc/widget-featured-post.php:135
+msgid "Read More"
+msgstr "Подробнее"
+
+#: inc/widget-featured-post.php:83
+msgid "&mdash;Choose&mdash;"
+msgstr "&mdash;Выберите&mdash;"
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "Специально разработанный почтовый виджет"
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA - Избранные записи"
+
+#: inc/template-tags.php:64
+msgid "Edit"
+msgstr "Правка"
+
+#: inc/template-tags.php:43
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: inc/template-tags.php:43
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/template-tags.php:43
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: inc/metabox.php:42
+msgid "Choose Sidebar Template"
+msgstr "Выберите шаблон боковой панели"
+
+#: inc/metabox.php:30
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/metabox.php:25
+msgid "Right Sidebar(default)"
+msgstr "Правая боковая панель (по умолчанию)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Расположение сайдбаров"
+
+#: inc/extras.php:375
+msgid "Comment"
+msgstr "Прокомментировать"
+
+#: inc/extras.php:362
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: inc/extras.php:355
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/extras.php:354
+msgid "Name*"
+msgstr "Имя*"
+
+#: inc/extras.php:332
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/extras.php:332
+msgid "Powered by: %s"
+msgstr "При поддержке: %s"
+
+#: inc/extras.php:328
+msgid "Copyright &copy; "
+msgstr "Авторские права &copy;"
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:173
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/extras.php:166
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/extras.php:122
+msgid "%s Results Found"
+msgstr "%s Результатов найдено"
+
+#: inc/extras.php:120
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/extras.php:102
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/extras.php:93
+msgid "Author"
+msgstr "Автор"
+
+#: inc/extras.php:84
+msgid "Tag"
+msgstr "Метка"
+
+#: inc/extras.php:75
+msgid "Category"
+msgstr "Рубрика"
+
+#: inc/customizer.php:494
+msgid "Posts Read More Button"
+msgstr "Кнопка записей Читать далее"
+
+#: inc/customizer.php:486 template-parts/content.php:9
+msgid "Continue Reading"
+msgstr "Читать далее"
+
+#: inc/customizer.php:477
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer.php:466
+msgid "Instagram Url"
+msgstr "Instagram URL"
+
+#: inc/customizer.php:448
+msgid "Pinterest Url"
+msgstr "Pinterest URL"
+
+#: inc/customizer.php:430
+msgid "Youtube Url"
+msgstr "YouTube URL"
+
+#: inc/customizer.php:412
+msgid "Google Plus Url"
+msgstr "URL-адрес на Google+"
+
+#: inc/customizer.php:394
+msgid "Rss Feed Url"
+msgstr "Ссылка на Rss"
+
+#: inc/customizer.php:376
+msgid "Linkedin Page Url"
+msgstr "Ссылка на страницу Linkedin"
+
+#: inc/customizer.php:358
+msgid "Twitter Page Url"
+msgstr "URL страницы Twitter"
+
+#: inc/customizer.php:340
+msgid "Facebook Page Url"
+msgstr "URL-адрес страницы Facebook"
+
+#: inc/customizer.php:322
+msgid "Enable Social Links"
+msgstr "Включить соц. сети"
+
+#: inc/customizer.php:304
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Оставьте пустым, если не хотите показывать социальную связь."
+
+#: inc/customizer.php:303
+msgid "Social Settings"
+msgstr "Социальные параметры"
+
+#: inc/customizer.php:291
+msgid "Choose Slider Category"
+msgstr "Выберите категорию Слайдер"
+
+#: inc/customizer.php:273
+msgid "Animation Speed"
+msgstr "Скорость анимации"
+
+#: inc/customizer.php:255
+msgid "Slider Speed"
+msgstr "Скорость ползунка"
+
+#: inc/customizer.php:238
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/customizer.php:237
+msgid "Fade"
+msgstr "Затемнение"
+
+#: inc/customizer.php:233
+msgid "Choose Slider Animation"
+msgstr "Выберите анимацию слайдера"
+
+#: inc/customizer.php:215
+msgid "Enable Slider Caption"
+msgstr "Включить слайдер подпись"
+
+#: inc/customizer.php:197
+msgid "Enable Slider Pager"
+msgstr "Включить слайдер пейджер"
+
+#: inc/customizer.php:179
+msgid "Enable Slider Loop"
+msgstr "Включить слайдер Петля"
+
+#: inc/customizer.php:161
+msgid "Enable Slider Auto Transition"
+msgstr "Включить автоматический переход слайдера."
+
+#: inc/customizer.php:143
+msgid "Enable Home Page Slider"
+msgstr "Включить слайдер домашней страницы"
+
+#: inc/customizer.php:125
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:105
+msgid "Default section provided by WordPress customizer."
+msgstr "Раздел по умолчанию, предоставляемый кастомизатором WordPress."
+
+#: inc/customizer.php:104
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+#: inc/customizer.php:92
+msgid "Choose Category"
+msgstr "Выберите рубрику"
+
+#: inc/customizer.php:76
+msgid "Choose Post"
+msgstr "Выберите почту"
+
+#: functions.php:184
+msgid "Footer Four"
+msgstr "Подвал четыре"
+
+#: functions.php:174
+msgid "Footer Three"
+msgstr "Подвал Три"
+
+#: functions.php:164
+msgid "Footer Two"
+msgstr "Подвал Два"
+
+#: functions.php:154
+msgid "Footer One"
+msgstr "Подвал Один"
+
+#: functions.php:144
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: functions.php:49
+msgid "Secondary"
+msgstr "Дополнительно"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Основной"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:44
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Комментарии"
+
+#: 404.php:32 template-parts/content-none.php:32
+msgid "Home"
+msgstr "Главная страница"
+
+#: 404.php:32 template-parts/content-none.php:32
+msgid "The page you were looking for cannot be found, it may have been moved or no longer exists. The search below may help you find the desired page, or you can navigate back to the homepage by clicking&nbsp;"
+msgstr "Страница, которую вы искали, не найдена, возможно, она была перемещена или больше не существует. Поиск ниже может помочь вам найти нужную страницу, или вы можете вернуться на главную страницу, нажав&nbsp;"
+
+#: 404.php:28 template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: 404.php:25 template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: 404.php:20
+msgid "404: Page Not Found"
+msgstr "Ошибка 404: страница не найдена"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/extras.php:331
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/rara-journal/"
+msgstr "https://rarathemes.com/wordpress-themes/rara-journal/"

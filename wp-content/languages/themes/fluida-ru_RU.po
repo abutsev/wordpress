@@ -1,0 +1,2053 @@
+# Translation of Themes - Fluida in Russian
+# This file is distributed under the same license as the Themes - Fluida package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-11 14:50:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Fluida\n"
+
+#. Theme Name of the theme
+msgid "Fluida"
+msgstr "Fluida"
+
+#. Description of the theme
+msgid "Fluida is a modern, crystal clear and squeaky clean theme. It shines bright with a fluid and responsive layout and carries under its hood a light and powerful framework. All the theme's graphics are created using HTML5, CSS3 and icon fonts so it's extremely fast to load. It's also SEO ready, using microformats and Google readable Schema.org microdata. Fluida also provides over 100 customizer theme settings that enable you to take full control of your site. You can change everything starting with layout (content and up to 2 sidebars), site and sidebar widths, colors, (Google) fonts and font sizes for all the important elements of your blog, featured images, post information metas, post excerpts, comments and much more. Fluida also features social menus with over 100 social network icons available in 4 locations, 3 menus, 6 widget areas, 8 page templates, all post formats, is translation ready, RTL and compatible with older browsers. If you want to take things further via a child theme you'll find clean code, either hookable or pluggable functions with clear descriptions and over 25 action hooks ready for action. Fluida - because solid is so overrated! Now with full Gutenberg support. * DEMO: http://demos.cryoutcreations.eu/wp/fluida/ *"
+msgstr "Fluida — это современная, кристально чистая тема. Она может похвастаться гибкой компоновкой и построена на лёгком и мощном каркасе. Вся графическая часть темы создана с использованием технологий HTML5, CSS3 и символьных шрифтов, поэтому она очень быстро загружается. Также, тема оптимизирована для SEO, используя микроформаты и распознаваемые Google микроданные Schema.org. Fluida также предоставляет более 100 настраиваемых параметров, которые позволяют вам полностью контролировать ваш сайт. Вы можете изменить всё, начиная с макета (основное содержимое и до 2 дополнительных боковых колонок), ширины сайта и боковых колонок, цвета, (Google) шрифты и размеры шрифтов для всех важных элементов вашего блога, изображений записей, метаданных, цитат, комментариев и многое другое. Тему Fluida также отличает наличие меню ссылок на ваши аккаунты социальных сетей с более чем сотней значков социальных сетей, которые можно разместить в 4 местах, 3 меню, 6 областей виджетов, 8 шаблонов страниц, все доступные форматы сообщений, возможность локализации, отображение текста справа налево и совместимость со старыми браузерами. Если вы хотите пойти ещё дальше через создание дочерней темы, вы найдете чистый код с чёткими описанием — будь то перехватываемые или подключаемые функции — и более 25 готовых к использованию событий. Выбирайте Fluida, потому что сплошной дизайн слишком переоценён! Теперь с полной поддержкой редактора Gutenberg. * Образец: http://demos.cryoutcreations.eu/wp/fluida/ *"
+
+#: comments.php:23
+msgid "One comment"
+msgstr "Один комментарий"
+
+#: includes/comments.php:95 comments.php:25
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: admin/main.php:103
+msgid "Fluida Theme v%1$s by %2$s"
+msgstr "Тема оформления Fluida версии %1$s от %2$s"
+
+#: admin/main.php:125
+msgid "Customize"
+msgstr "Настроить"
+
+#: admin/options.php:1640
+msgid "Default Pages Menu"
+msgstr "Меню страницы по умолчанию"
+
+#: admin/options.php:1681
+msgid "Force mobile menu on iOS mobile devices"
+msgstr "Включить мобильное меню на устройствах с мобильной версией iOS"
+
+#: admin/main.php:133 admin/main.php:137
+msgid "Upgrade to Plus"
+msgstr "Обновитесь до версии Plus"
+
+#: admin/options.php:209
+msgid "General Layout"
+msgstr "Основной макет"
+
+#: admin/options.php:210
+msgid "Other Layouts"
+msgstr "Другие макеты"
+
+#: admin/options.php:213
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/options.php:232
+msgid "Content Images"
+msgstr "Иллюстрации в основном содержимом"
+
+#: admin/options.php:331
+msgid "Posts Layout"
+msgstr "Макет размещения записей в блоге"
+
+#: admin/options.php:418
+msgid "Fixed Menu"
+msgstr "Фиксированное меню"
+
+#: admin/options.php:436
+msgid "Menu Alignment"
+msgstr "Выравнивание меню"
+
+#: admin/options.php:571
+msgid "To create an advanced slider, use our <a href='%s' target='_blank'>Serious Slider</a> plugin or any other slider plugin."
+msgstr "Для создания многофункционального слайдера воспользуйтесь нашим плагином <a href='%s' target='_blank'>Serious Slider</a>, или каким-либо другим."
+
+#: admin/options.php:840
+msgid "The width is a percentage dependent on total site width and number of columns per row."
+msgstr "Ширина зависит в процентном соотношении от общей ширины сайта и количества колонок в одной строке."
+
+#: admin/options.php:860
+msgid "Box Stacking"
+msgstr "Расположение блоков"
+
+#: admin/options.php:862
+msgid "Joined"
+msgstr "Слитно"
+
+#: admin/options.php:862
+msgid "Apart"
+msgstr "Раздельно"
+
+#: admin/options.php:893
+msgid "Content Length (words)"
+msgstr "Длина содержимого (слов)"
+
+#: admin/options.php:1021
+msgid "Blocks"
+msgstr "Фон секции Преимущества"
+
+#: admin/options.php:1027
+msgid "Boxes"
+msgstr "Избранные записи"
+
+#: admin/options.php:1064
+msgid "The fonts under the <em>Preferred Theme Fonts</em> list are recommended because they have all the font weights used throughout the theme."
+msgstr "Рекомендуется использовать шрифты из списка <em>Preferred Theme Fonts</em>, так как они имеют все варианты насыщенности шрифтов, используемые в теме."
+
+#: admin/options.php:1065 admin/options.php:1095 admin/options.php:1124
+#: admin/options.php:1154 admin/options.php:1183 admin/options.php:1213
+#: admin/options.php:1242
+msgid "or enter Google Font Identifier"
+msgstr "или введите идентификатор Google Font"
+
+#: admin/options.php:1249
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: admin/options.php:1256
+msgid "Text Alignment"
+msgstr "Выключка"
+
+#: admin/options.php:1264
+msgid "Paragraph Spacing"
+msgstr "Интервал между абзацами"
+
+#: admin/options.php:1271
+msgid "Paragraph Indentation"
+msgstr "Отступ абзаца"
+
+#: admin/options.php:1288
+msgid "Numbered Pagination"
+msgstr "Нумерация страниц"
+
+#: admin/options.php:1412
+msgid "Post Captions"
+msgstr "Подпись к иллюстрации"
+
+#: admin/options.php:1455
+msgid "Choose meta information to show on posts."
+msgstr "Выберите какую информацию отображать для записей"
+
+#: admin/options.php:1462
+msgid "Standard Posts On Homepage"
+msgstr "Стандартная запись на Главной"
+
+#: admin/options.php:1465
+msgid "Post formats always display full posts."
+msgstr "Форматы записей всегда показывают полную запись."
+
+#: admin/options.php:1478
+msgid "Standard Posts in Categories/Archives"
+msgstr "Стандартная запись в Рубрике/Архиве"
+
+#: admin/options.php:1489
+msgid "Excerpt Length (words)"
+msgstr "Длина цитаты (слов)"
+
+#: admin/options.php:1509
+msgid "'Comments Are Closed' Text"
+msgstr "Текст «Обсуждение закрыто»"
+
+#: admin/options.php:1519
+msgid "Specific"
+msgstr "Точный"
+
+#: admin/options.php:1519
+msgid "Relative"
+msgstr "Относительный"
+
+#: admin/options.php:1528
+msgid "Change to labels for better compatibility with comment-related plugins."
+msgstr "Для лучшей совместимости с плагинами для комментариев выберите «Надпись»"
+
+#: admin/options.php:1552
+msgid "Auto Select Image From Content"
+msgstr "Автоматически выбирать изображение из содержимого"
+
+#: admin/options.php:1580
+msgid "<strong>Contained</strong> will scale depending on the viewed resolution<br><strong>Cropped</strong> will try to keep the configured height."
+msgstr "<strong>Вместить</strong> будет масштабировать в зависимости от просматриваемого разрешения.<br><strong>С обрезкой</strong> будет пытаться учитывать настроенную высоту."
+
+#: admin/options.php:1585
+msgid "Featured Image Crop Position"
+msgstr "Положение изображения записи при обрезке"
+
+#: admin/options.php:1673
+msgid "Header image size requirements"
+msgstr "Изображения заголовка должны соответствовать по размеру"
+
+#: includes/setup.php:172
+msgid "Accent #1"
+msgstr "Акцент #1"
+
+#: includes/setup.php:177
+msgid "Accent #2"
+msgstr "Акцент #2"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:71
+msgid "The following plugin should be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins should be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин должен быть обновлен до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[1] "Следующие плагины должны быть обновлены до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[2] "Следующие плагины должны быть обновлены до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:334 includes/tgmpa.php:59
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Этой теме требуются следующие плагины: %1$s."
+msgstr[2] "Этой теме требуются следующие плагины: %1$s."
+
+#: includes/setup.php:218
+msgid "XL"
+msgstr "XL"
+
+#: includes/setup.php:212
+msgid "L"
+msgstr "L"
+
+#: includes/setup.php:211
+msgid "large"
+msgstr "большой"
+
+#: includes/setup.php:206
+msgid "M"
+msgstr "M"
+
+#: includes/setup.php:205
+msgid "regular"
+msgstr "обычный"
+
+#: includes/setup.php:200
+msgid "S"
+msgstr "S"
+
+#: includes/setup.php:199
+msgid "small"
+msgstr "маленький"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:364 includes/tgmpa.php:89
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:358 includes/tgmpa.php:83
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:352 includes/tgmpa.php:77
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступно обновление плагинов: %1$s."
+msgstr[2] "Доступно обновление плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последнюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последнюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последнюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:340 includes/tgmpa.php:65
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#: includes/setup.php:217
+msgid "larger"
+msgstr "очень большой"
+
+#: admin/options.php:677
+msgid "No Text"
+msgstr "Без текста"
+
+#: cryout/back-compat-php.php:15
+msgid "<strong>%1$s requires at least PHP version %2$s. Your site is running version %3$s.</strong><br>The theme will not be able to function correctly on the curent setup. Please upgrade or change the hosting provider."
+msgstr "<strong>%1$s требуется хотя бы версия PHP %2$s. На вашем сайте работает версия %3$s.</strong><br>Тема не сможет правильно работать в текущей настройке. Пожалуйста, обновите или смените хостинг-провайдера."
+
+#: cryout/back-compat.php:15
+msgid "<strong>%1$s requires at least WordPress version %2$s. Your site is running version %3$s.</strong><br>The theme will not be able to function on the curent setup. Please upgrade."
+msgstr "<strong>%1$s требует как минимум версию WordPress %2$s. На вашем сайте установлена версия%3$s.</strong><br> Тема не сможет работать при текущей настройке. Пожалуйста, обновите."
+
+#: admin/options.php:407
+msgid "Fine tune the visibility of these elements in the theme's Header options"
+msgstr "Тонкая настройка отображения этих элементов в разделе Заголовок сайта"
+
+#: admin/options.php:465
+msgid "Edit the site's title, tagline and logo from WordPress' Site Identity panel."
+msgstr "Измените Название сайта, Краткое описание и Логотип через стандартную панель настроек Свойства сайта WordPress"
+
+#: includes/comments.php:137
+msgid "Save my name, email, and site URL in my browser for next time I post a comment."
+msgstr "Сохранить мои имя, адреса электронной почты и сайта в моём браузере для использования в следующий раз."
+
+#: includes/loop.php:169
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: admin/options.php:703 admin/options.php:722 admin/options.php:741
+#: admin/options.php:760
+msgid "Block %d"
+msgstr "Блок %d"
+
+#: admin/options.php:1387 admin/options.php:1391 admin/options.php:1395
+#: admin/options.php:1399 admin/options.php:1403
+msgid "Style %d"
+msgstr "Стиль %d"
+
+#: admin/options.php:1700
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br>Используйте эти опции только для решения проблем."
+
+#: admin/options.php:2222
+msgid "You can configure how many columns the footer displays from the theme options"
+msgstr "Вы можете изменить количество отображаемых колонок в разделе Макет \t Другие макеты \t Расположение Виджетов в Подвале сайта"
+
+#: includes/core.php:219
+msgid "Back to Top"
+msgstr "Вернуться наверх"
+
+#: admin/options.php:113
+msgid "Get Plus"
+msgstr "Получить Plus"
+
+#: admin/options.php:120 admin/main.php:114
+msgid "Upgrade to PLUS"
+msgstr "Обновитесь до версии Plus"
+
+#: admin/options.php:121 admin/main.php:135
+msgid "Find out what features you're missing out on and how the Plus version of %1$s can improve your site."
+msgstr "Узнайте какие возможности вы упускаете и как версия %1$s Plus может улучшить ваш сайт."
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "700 bold"
+msgstr "700 жирное"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "800 extra-bold"
+msgstr "800 сверхжирное"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "900 black"
+msgstr "900 чёрный"
+
+#: admin/options.php:1564
+msgid "Set to 0 to disable image processing"
+msgstr "Установите в 0 чтобы отключить обработку изображений"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "600 semi-bold"
+msgstr "600 полужирный"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "500 medium"
+msgstr "500 средний"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "400 regular"
+msgstr "400 нормальный"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "100 thin"
+msgstr "100 тонкий"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "200 extra-light"
+msgstr "200 сверхсветлое"
+
+#: admin/options.php:546
+msgid "Static Page"
+msgstr "Статическая страница"
+
+#: admin/options.php:222 admin/options.php:544
+msgid "Featured Content"
+msgstr "Рекомендуемые статьи"
+
+#: admin/options.php:530
+msgid "To activate the Landing Page, make sure to set the WordPress <strong>Front Page displays</strong> option to %s"
+msgstr "Для активации Целевой страницы убедитесь, что в <strong>Настройках главной страницы</strong> WordPress выбран пункт %s"
+
+#: admin/options.php:530
+msgid "use a static page"
+msgstr "На главной странице отображать Статическую страницу"
+
+#: admin/options.php:1356
+msgid "Slide"
+msgstr "Скольжение"
+
+#: admin/options.php:481 admin/options.php:1571 admin/options.php:1596
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr "Изменение этого параметра может потребовать пересоздания миниатюр загруженных изображений."
+
+#: includes/setup.php:134
+msgid "Glows"
+msgstr "Свечение"
+
+#: admin/options.php:298
+msgid "Site Width"
+msgstr "Ширина сайта"
+
+#: admin/options.php:386
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: admin/options.php:387
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: admin/options.php:388
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: admin/options.php:389
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: admin/options.php:214 admin/options.php:236
+msgid "Content"
+msgstr "Содержимое"
+
+#: admin/options.php:219
+msgid "Featured Boxes"
+msgstr "Избранные записи"
+
+#: admin/options.php:315
+msgid "Left Sidebar Width"
+msgstr "Ширина Левой боковой колонки"
+
+#: admin/options.php:322
+msgid "Right Sidebar Width"
+msgstr "Ширина Правой боковой колонки"
+
+#: admin/options.php:385
+msgid "All in a row"
+msgstr "Все в ряд"
+
+#: admin/options.php:622 admin/options.php:638
+msgid "CTA Button"
+msgstr "Кнопка Призыв к действию"
+
+#: admin/options.php:869
+msgid "Box Appearance"
+msgstr "Внешний вид блоков"
+
+#: admin/options.php:935
+msgid "Page properties that will be used:<br>- page title as text title<br>- page content as text content<br>- page featured image as text area background image"
+msgstr "Свойства страницы, которые будут использоваться:<br>- заголовок страницы в качестве заголовка раздела<br>- содержимое страницы в качестве описания<br>- изображение страницы в качестве фонового изображения"
+
+#: admin/options.php:1587
+msgid "No Crop"
+msgstr "Не обрезать"
+
+#: admin/options.php:495
+msgid "Title Accent"
+msgstr "Акцент заголовка"
+
+#: admin/options.php:497
+msgid "Letter index the accent should apply to. Set to zero to disable accent effect."
+msgstr "Индекс акцентирования для текста. Установите в ноль чтобы отключить эффект."
+
+#: admin/options.php:956 includes/setup.php:182
+msgid "Content Headings"
+msgstr "Заголовки"
+
+#: admin/options.php:489
+msgid "Header Image Behaviour"
+msgstr "Поведение изображения заголовка"
+
+#: admin/options.php:538
+msgid "Wide"
+msgstr "Широкий"
+
+#: admin/options.php:488 admin/options.php:538 admin/options.php:1578
+msgid "Contained"
+msgstr "Вместить"
+
+#: admin/options.php:1579
+msgid "Featured Image Behaviour"
+msgstr "Поведение изображения записи"
+
+#: admin/options.php:1699
+msgid "Enable on mobiles"
+msgstr "Включено для мобильных устройств"
+
+#: admin/options.php:1665
+msgid "Autoscroll"
+msgstr "Автопрокрутка"
+
+#: admin/options.php:1689
+msgid "Editor Styles"
+msgstr "Стили редактора"
+
+#: admin/options.php:969
+msgid "Secondary sidebar"
+msgstr "Вторая боковая колонка"
+
+#: admin/options.php:1015
+msgid "Footer Text"
+msgstr "Текст"
+
+#: admin/options.php:553
+msgid "More Posts Label"
+msgstr "Надпись «Ещё записи»"
+
+#: admin/options.php:656 admin/options.php:781
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: admin/options.php:663 admin/options.php:788
+msgid "Section Description"
+msgstr "Описание раздела"
+
+#: admin/options.php:685
+msgid "Configure the 'Read More' link text."
+msgstr "Укажите текст для ссылки «Читать далее»"
+
+#: admin/options.php:691
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "Сделать значки ссылками на соответствующие страницы."
+
+#: includes/tgmpa.php:53
+msgid "Fluida Addons"
+msgstr "Fluida дополнения"
+
+#: includes/tgmpa.php:52
+msgid "Fluida Suggested Plugins"
+msgstr "Fluida предлагаемые плагины"
+
+#: includes/tgmpa.php:110
+msgid "Return to Suggested Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: cryout/tgmpa-class.php:2726
+msgid "Activate"
+msgstr "Активация"
+
+#: cryout/tgmpa-class.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: cryout/tgmpa-class.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: cryout/tgmpa-class.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: cryout/tgmpa-class.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: cryout/tgmpa-class.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: cryout/tgmpa-class.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: cryout/tgmpa-class.php:2490
+msgid "Installed version:"
+msgstr "Установлена версия:"
+
+#: cryout/tgmpa-class.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: cryout/tgmpa-class.php:2273
+msgid "Required"
+msgstr "Обязательно"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установить и Активировать плагин %1$s (%2$d/%3$d) "
+
+#: cryout/tgmpa-class.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован"
+
+#: cryout/tgmpa-class.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начался. Этот процесс может занять некоторое время на разных серверах, поэтому, пожалуйста, будьте терпеливы. "
+
+#: cryout/tgmpa-class.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки были завершены"
+
+#. translators: 1: plugin name, 2: error message.
+#: cryout/tgmpa-class.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3158
+msgid "Plugin activation failed."
+msgstr "Ошибка активации плагина."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка Плагина %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс Установки начался. Этот процесс может занять некоторое время на разных серверах, поэтому, пожалуйста, будьте терпеливы. "
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ошибка установки %1$s ."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: cryout/tgmpa-class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации"
+
+#: cryout/tgmpa-class.php:2498
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия"
+
+#: cryout/tgmpa-class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: cryout/tgmpa-class.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#. translators: %s: version number
+#: cryout/tgmpa-class.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: cryout/tgmpa-class.php:1121 cryout/tgmpa-class.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: cryout/tgmpa-class.php:2292
+msgid "WordPress Repository"
+msgstr "Каталог WordPress"
+
+#: admin/options.php:565 admin/options.php:597
+msgid "Serious Slider"
+msgstr "Serious Slider"
+
+#: admin/options.php:608
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/options.php:616 admin/options.php:624 admin/options.php:640
+msgid "Text"
+msgstr "Текст"
+
+#: admin/options.php:577
+msgid "The default image can be replaced by setting a new static image."
+msgstr "Изображение по умолчанию может быть заменено установкой нового статического изображения."
+
+#: admin/options.php:591
+msgid "Enter shortcode provided by slider plugin. The plugin will be responsible for the slider's appearance."
+msgstr "Введите шорткод предоставленный плагином слайдера. Плагин будет отвечать за внешний вид и поведение слайдера."
+
+#: admin/options.php:599
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr " - Пожалуйста, установите, активируйте или обновите плагин Serious Slider - "
+
+#: admin/options.php:599
+msgid " - No sliders defined - "
+msgstr "- Слайдер не установлен -"
+
+#: admin/options.php:600
+msgid "Select the desired slider from the list. Sliders can be administered in the dashboard."
+msgstr "Выберите нужный слайдер из списка. Вы можете настраивать слайдеры через Консоль \t Serious Slider"
+
+#: admin/options.php:606
+msgid "Slider Caption"
+msgstr "Заголовок и подзаголовок"
+
+#: cryout/tgmpa-class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет плагинов доступных для активации."
+
+#: cryout/tgmpa-class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: cryout/tgmpa-class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: cryout/tgmpa-class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: cryout/tgmpa-class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: cryout/tgmpa-class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: cryout/tgmpa-class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: cryout/tgmpa-class.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Обновление доступно <span class=\"count\">(%s)</span>"
+
+#: cryout/tgmpa-class.php:397 includes/tgmpa.php:121
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: cryout/tgmpa-class.php:396 includes/tgmpa.php:120
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: cryout/tgmpa-class.php:395 includes/tgmpa.php:119
+msgid "Dismiss this notice"
+msgstr "Скрыть это уведомление"
+
+#. translators: 1: dashboard link.
+#: cryout/tgmpa-class.php:394 includes/tgmpa.php:118
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:392 includes/tgmpa.php:116
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:390 includes/tgmpa.php:114
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ничего не произошло. Плагин %1$s уже активирован."
+
+#: cryout/tgmpa-class.php:388 cryout/tgmpa-class.php:2952
+#: includes/tgmpa.php:112
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#: cryout/tgmpa-class.php:387 cryout/tgmpa-class.php:3159
+#: includes/tgmpa.php:111
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: cryout/tgmpa-class.php:386 cryout/tgmpa-class.php:827
+#: cryout/tgmpa-class.php:2533 cryout/tgmpa-class.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: cryout/tgmpa-class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: cryout/tgmpa-class.php:333 includes/tgmpa.php:58
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:332 includes/tgmpa.php:57
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: cryout/tgmpa-class.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: cryout/tgmpa-class.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: cryout/tgmpa-class.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: cryout/tgmpa-class.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: cryout/tgmpa-class.php:2321
+msgid "Active"
+msgstr "Активно"
+
+#: cryout/tgmpa-class.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: cryout/tgmpa-class.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: cryout/tgmpa-class.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: cryout/tgmpa-class.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Внешний пакет плагина содержит более одного файла вне отдельной папки."
+
+#: cryout/tgmpa-class.php:934 cryout/tgmpa-class.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: cryout/tgmpa-class.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: cryout/tgmpa-class.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: cryout/tgmpa-class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: cryout/tgmpa-class.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: cryout/tgmpa-class.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:330 includes/tgmpa.php:55
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: cryout/tgmpa-class.php:380 includes/tgmpa.php:105
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: cryout/tgmpa-class.php:375 includes/tgmpa.php:100
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновления плагина"
+msgstr[1] "Начать обновления плагинов"
+msgstr[2] "Начать обновления плагинов"
+
+#: cryout/tgmpa-class.php:370 includes/tgmpa.php:95
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: admin/options.php:590
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/options.php:196 admin/options.php:239 admin/options.php:520
+msgid "Landing Page"
+msgstr "Целевая страница"
+
+#: admin/options.php:546
+msgid "Posts"
+msgstr "Записи"
+
+#: admin/options.php:216
+msgid "Settings"
+msgstr "Параметры"
+
+#: admin/options.php:217 admin/options.php:562
+msgid "Slider"
+msgstr "Главное изображение"
+
+#: admin/options.php:218
+msgid "Featured Icon Blocks"
+msgstr "Ключевые преимущества"
+
+#: admin/options.php:220
+msgid "Featured Boxes 2"
+msgstr "Избранные записи 2"
+
+#: admin/options.php:221 admin/options.php:1033
+msgid "Text Areas"
+msgstr "Текстовые поля"
+
+#: admin/options.php:566
+msgid "Use Shortcode"
+msgstr "Использовать шорткод"
+
+#: admin/options.php:567
+msgid "Static Image"
+msgstr "Статическое изображение"
+
+#: admin/options.php:576
+msgid "Slider Image"
+msgstr "Изображение"
+
+#: admin/options.php:583
+msgid "Slider Link"
+msgstr "Ссылка на слайдер"
+
+#: admin/options.php:675
+msgid "Blocks Content"
+msgstr "Содержимое блоков"
+
+#: admin/options.php:677
+msgid "Full Content"
+msgstr "Страница полностью"
+
+#: admin/options.php:684 admin/options.php:883
+msgid "Read More Button"
+msgstr "Кнопка «Читать далее»"
+
+#: admin/options.php:800
+msgid "Boxes Content"
+msgstr "Избранные записи из Рубрики"
+
+#: admin/options.php:801 admin/options.php:802
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: admin/options.php:816
+msgid "Number of Boxes"
+msgstr "Количество блоков"
+
+#: admin/options.php:823
+msgid "Boxes Per Row"
+msgstr "Количество блоков в строке"
+
+#: admin/options.php:839
+msgid "Box Height"
+msgstr "Высота блока"
+
+#: admin/options.php:851
+msgid "Box Layout"
+msgstr "Макет для блоков"
+
+#: admin/options.php:853
+msgid "Full width"
+msgstr "На всю ширину"
+
+#: admin/options.php:853
+msgid "Boxed (content width)"
+msgstr "Блоком (по ширине содержимого)"
+
+#: admin/options.php:871
+msgid "Animated"
+msgstr "С анимацией"
+
+#: admin/options.php:871
+msgid "Static"
+msgstr "Статические"
+
+#: admin/options.php:902 admin/options.php:910 admin/options.php:918
+#: admin/options.php:926
+msgid "Text Area %d"
+msgstr "Поле для текста %d"
+
+#: includes/meta.php:50
+msgid "Default Theme Layout"
+msgstr "Макет темы по умолчанию"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "Макет статической страницы"
+
+#: includes/comments.php:92
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Искать:"
+
+#: admin/options.php:1354
+msgid "Article Animation on Scroll"
+msgstr "Эффект при прокрутке списка записей"
+
+#: admin/options.php:1356
+msgid "None"
+msgstr "Нет"
+
+#: admin/options.php:1356
+msgid "Fade"
+msgstr "Затухание"
+
+#: admin/options.php:1356
+msgid "Grow"
+msgstr "Свечение"
+
+#: admin/options.php:1648
+msgid "Masonry"
+msgstr "Masonry"
+
+#: admin/options.php:1697
+msgid "FitVids"
+msgstr "FitVids"
+
+#: admin/options.php:197
+msgid "General"
+msgstr "Основное"
+
+#: admin/main.php:112
+msgid "Fluida Homepage"
+msgstr "Официальный сайт"
+
+#: admin/main.php:113
+msgid "Theme Support"
+msgstr "Служба поддержки"
+
+#: admin/options.php:1656
+msgid "JS Defer loading"
+msgstr "Отложенная загрузка JS"
+
+#: includes/core.php:271
+msgid "Semantic Personal Publishing Platform"
+msgstr "Семантическая Персональная Платформа для Публикаций"
+
+#: admin/options.php:450
+msgid "Show Tagline"
+msgstr "Отображать Краткое описание"
+
+#: admin/main.php:96
+msgid "Fluida settings have been reset successfully."
+msgstr "Настройки темы оформления Fluida были успешно сброшены на значения по умолчанию."
+
+#: admin/options.php:308
+msgid "Left contained"
+msgstr "Вписано слева"
+
+#: admin/options.php:308
+msgid "Center (default)"
+msgstr "Центр (по умолчанию)"
+
+#: includes/core.php:353
+msgid "Post format"
+msgstr "Формат записи"
+
+#: image.php:38
+msgid "Published in"
+msgstr "Опубликовано в"
+
+#: admin/options.php:126
+msgid "Read the Docs"
+msgstr "Прочтите документы"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Оригинал"
+
+#: image.php:31
+msgid "pixels"
+msgstr "пикселей"
+
+#: admin/options.php:1319
+msgid "Tags Cloud Appearance"
+msgstr "Вид Облака меток"
+
+#: admin/options.php:1321
+msgid "Size Emphasis"
+msgstr "С акцентом на размер"
+
+#: admin/options.php:1321
+msgid "Uniform Boxes"
+msgstr "Единообразные блоки"
+
+#: includes/core.php:354
+msgid "Page"
+msgstr "Страница"
+
+#: includes/loop.php:86
+msgid "Categories"
+msgstr "Рубрики"
+
+#: includes/comments.php:128 includes/comments.php:129
+msgid "Email"
+msgstr "Email"
+
+#: includes/comments.php:124 includes/comments.php:125
+msgid "Name"
+msgstr "Имя"
+
+#: includes/comments.php:49
+msgctxt "%s = human-readable time difference"
+msgid "%1$s ago"
+msgstr "%1$s назад"
+
+#: cryout/tgmpa-class.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content/content.php:41 content/content-page.php:30 single.php:36
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: admin/options.php:632 admin/options.php:648
+msgid "Link"
+msgstr "Ссылка"
+
+#: content/user-bio.php:16
+msgid "Author:"
+msgstr "Автор:"
+
+#: image.php:66
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: admin/main.php:145
+msgid "Settings Management"
+msgstr "Управление настройками"
+
+#: admin/options.php:132
+msgid "Browse the Forum"
+msgstr "Просмотр форума"
+
+#: admin/options.php:144
+msgid "Rate %s on WordPress.org"
+msgstr "Оцените %s на WordPress.org"
+
+#: admin/options.php:150
+msgid "Manage Theme Settings"
+msgstr "Управление настройками темы"
+
+#: admin/options.php:158
+msgid "Background"
+msgstr "Фон"
+
+#: admin/options.php:159
+msgid "Background Settings."
+msgstr "Настройки фона."
+
+#: admin/options.php:167
+msgid "Header Image Settings."
+msgstr "Настройки изображения заголовка."
+
+#: admin/options.php:198
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/options.php:199
+msgid "Typography"
+msgstr "Типографика"
+
+#: admin/options.php:194 admin/options.php:536
+msgid "Layout"
+msgstr "Макет"
+
+#: admin/options.php:224 admin/options.php:1042
+msgid "General Font"
+msgstr "Основной шрифт"
+
+#: admin/options.php:228
+msgid "Formatting"
+msgstr "Форматирование"
+
+#: admin/options.php:230
+msgid "Structure"
+msgstr "Структура"
+
+#: admin/options.php:241
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#: admin/options.php:244
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/options.php:246
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: admin/options.php:306
+msgid "Theme alignment"
+msgstr "Выравнивание темы"
+
+#: admin/options.php:308 admin/options.php:435 admin/options.php:512
+#: admin/options.php:1258
+msgid "Left"
+msgstr "Слева"
+
+#: admin/options.php:334
+msgid "One column"
+msgstr "Одна колонка"
+
+#: admin/options.php:338
+msgid "Two columns"
+msgstr "Две колонки"
+
+#: admin/options.php:342
+msgid "Three columns"
+msgstr "Три колонки"
+
+#: admin/options.php:397 admin/options.php:1258
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/options.php:397 admin/options.php:435 admin/options.php:512
+#: admin/options.php:1258
+msgid "Center"
+msgstr "По центру"
+
+#: admin/options.php:435 admin/options.php:512 admin/options.php:1258
+msgid "Right"
+msgstr "Справа"
+
+#: admin/options.php:444 admin/options.php:1072
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: admin/options.php:444
+msgid "Logo"
+msgstr "Логотип"
+
+#: admin/options.php:444
+msgid "Empty"
+msgstr "Пусто"
+
+#: admin/options.php:456
+msgid "Logo Image"
+msgstr "Изображение логотипа"
+
+#: includes/core.php:352 404.php:15
+msgid "Not Found"
+msgstr "Что-то пошло не так…"
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Сожалеем, но страница, которую вы запросили, недоступна. Возможно, поиск сможет помочь."
+
+#: sidebar-right.php:18
+msgid "Right Sidebar"
+msgstr "Правая боковая колонка"
+
+#: sidebar-right.php:21 sidebar-left.php:21
+msgid "You currently have no widgets set in this sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "В настоящее время у вас не установлено ни одного Виджета для этой боковой колонки. Вы можете добавить Виджеты через <a href=\"%s\">Консоль</a>."
+
+#: sidebar-right.php:22 sidebar-left.php:22
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Customizations</a>."
+msgstr "Чтобы скрыть эту боковую колонку переключитесь на другой Макет в <a href=\"%s\">Настройках темы</a>."
+
+#: includes/setup.php:57 sidebar-left.php:18
+msgid "Left Sidebar"
+msgstr "Левая боковая колонка"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:12 searchform.php:14 includes/core.php:370
+msgid "Search"
+msgstr "Искать"
+
+#: includes/comments.php:93
+msgid "One Comment"
+msgstr "Один комментарий"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: content/content-page.php:22
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content/user-bio.php:30
+msgid "View all posts by "
+msgstr "Просмотреть все записи"
+
+#: content/content-notfound.php:12
+msgid "No search results for: <em>%s</em>"
+msgstr "Нет результатов поиска по запросу: <em>%s</em>"
+
+#: content/content-status.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: admin/main.php:65
+msgid "Reset Fluida Settings to Defaults?"
+msgstr "Сбросить настройки Fluida на значения по умолчанию?"
+
+#: admin/main.php:73
+msgid "Fluida Theme"
+msgstr "Тема оформления Fluida"
+
+#: admin/main.php:84
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Сожалеем, но у вас недостаточно прав для доступа к этой странице."
+
+#: admin/main.php:150
+msgid "Reset to Defaults"
+msgstr "Сбросить настройки"
+
+#: admin/options.php:174 admin/options.php:193
+msgid "Site Identity"
+msgstr "Брендирование сайта"
+
+#: admin/options.php:195 admin/options.php:237 admin/options.php:2243
+msgid "Header"
+msgstr "Заголовок сайта"
+
+#: admin/options.php:200
+msgid "Post Information"
+msgstr "Настройки записей"
+
+#: admin/options.php:225
+msgid "Header Fonts"
+msgstr "Шрифты в Заголовке"
+
+#: admin/options.php:226
+msgid "Content Fonts"
+msgstr "Шрифты основного содержимого"
+
+#: admin/options.php:227
+msgid "Widget Fonts"
+msgstr "Шрифты для Виджетов"
+
+#: admin/options.php:231
+msgid "Decorations"
+msgstr "Декоративное оформление"
+
+#: admin/options.php:233
+msgid "Search Box Locations"
+msgstr "Положение поля для поиска"
+
+#: admin/options.php:234 includes/setup.php:59
+msgid "Social Icons"
+msgstr "Значки социальных сетей"
+
+#: admin/options.php:238 admin/options.php:2221
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: admin/options.php:242
+msgid "Meta Information"
+msgstr "Мета"
+
+#: admin/options.php:243
+msgid "Excerpts"
+msgstr "Цитаты"
+
+#: admin/options.php:266
+msgid "Main Layout"
+msgstr "Главный макет"
+
+#: admin/options.php:269
+msgid "One column (no sidebars)"
+msgstr "Одна колонка (без боковых колонок)"
+
+#: admin/options.php:273
+msgid "Two columns, sidebar on the right"
+msgstr "Две колонки, боковая колонка справа"
+
+#: admin/options.php:277
+msgid "Two columns, sidebar on the left"
+msgstr "Две колонки, боковая колонка слева"
+
+#: admin/options.php:281
+msgid "Three columns, sidebars on the right"
+msgstr "Три колонки, обе боковые колонки справа"
+
+#: admin/options.php:285
+msgid "Three columns, sidebars on the left"
+msgstr "Три колонки, обе боковые колонки слева"
+
+#: admin/options.php:289
+msgid "Three columns, one sidebar on each side"
+msgstr "Три колонки, боковые колонки по сторонам"
+
+#: admin/options.php:308
+msgid "Center contained"
+msgstr "Вписано по центру"
+
+#: admin/options.php:309
+msgid "Control how the entire theme content is aligned in the browser"
+msgstr "Определяет как содержимое темы будет выровнено в браузере"
+
+#: admin/options.php:351
+msgid "Margin top"
+msgstr "Поле сверху (над основным содержимым)"
+
+#: admin/options.php:361
+msgid "Site left/right padding"
+msgstr "Отступы слева/справа для сайта"
+
+#: admin/options.php:371
+msgid "Post/page left/right padding"
+msgstr "Отступы слева/справа для записей/страниц"
+
+#: admin/options.php:382
+msgid "Footer Widgets Columns"
+msgstr "Расположение Виджетов в Подвале сайта"
+
+#: admin/options.php:398
+msgid "Footer Widgets Alignment"
+msgstr "Выравнивание Виджетов в Подвале сайта"
+
+#: admin/options.php:428
+msgid "Header/Menu Height"
+msgstr "Высота меню в Заголовоке сайта"
+
+#: admin/options.php:442
+msgid "Site Header Content"
+msgstr "Содержимое Заголовока сайта"
+
+#: admin/options.php:444
+msgid "Logo & Site Title"
+msgstr "Логотип и название сайта"
+
+#: admin/options.php:473
+msgid "Header Image Height"
+msgstr "Высота изображения в Заголовоке сайта"
+
+#: admin/options.php:488 admin/options.php:1578
+msgid "Cropped"
+msgstr "С обрезкой"
+
+#: admin/options.php:503
+msgid "Header Widget Width"
+msgstr "Ширина области для Виджета в Заголовоке сайта"
+
+#: admin/options.php:510
+msgid "Header Widget Alignment"
+msgstr "Положение области для Виджета в Заголовоке сайта"
+
+#: admin/options.php:522
+msgid "Enabled"
+msgstr "Включена"
+
+#: admin/options.php:522
+msgid "Disabled (use WordPress homepage)"
+msgstr "Отключена (используются настройки WordPress)"
+
+#: admin/options.php:546 admin/options.php:569 admin/options.php:677
+#: admin/options.php:713 admin/options.php:714 admin/options.php:732
+#: admin/options.php:733 admin/options.php:751 admin/options.php:752
+#: admin/options.php:770 admin/options.php:771 admin/options.php:801
+#: admin/options.php:802 admin/options.php:903 admin/options.php:904
+#: admin/options.php:911 admin/options.php:912 admin/options.php:919
+#: admin/options.php:920 admin/options.php:927 admin/options.php:928
+#: admin/options.php:1305
+msgid "Disabled"
+msgstr "Нет"
+
+#: admin/options.php:166 admin/options.php:568
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: admin/options.php:677 admin/options.php:1464 admin/options.php:1480
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: admin/options.php:944
+msgid "Site Background"
+msgstr "Фон сайта"
+
+#: admin/options.php:950 includes/setup.php:187
+msgid "Site Text"
+msgstr "Текст сайта"
+
+#: admin/options.php:962 includes/setup.php:192
+msgid "Content Background"
+msgstr "Фон основного содержимого"
+
+#: admin/options.php:968
+msgid "Secondary Content Background"
+msgstr "Дополнительный фон"
+
+#: admin/options.php:978
+msgid "Primary Accent"
+msgstr "Первичное акцентирование"
+
+#: admin/options.php:984
+msgid "Secondary Accent"
+msgstr "Вторичное акцентирование"
+
+#: admin/options.php:997
+msgid "Menu Text"
+msgstr "Текст меню"
+
+#: admin/options.php:1003
+msgid "Submenu Text"
+msgstr "Текст подменю"
+
+#: admin/options.php:1051 admin/options.php:1081 admin/options.php:1110
+#: admin/options.php:1140 admin/options.php:1169 admin/options.php:1199
+#: admin/options.php:1228
+msgid "300 ligher"
+msgstr "300 светлое"
+
+#: admin/options.php:1101
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: admin/options.php:1131
+msgid "Widget Title"
+msgstr "Заголовок Виджета"
+
+#: admin/options.php:1160
+msgid "Widget Content"
+msgstr "Содержимое Виджета"
+
+#: admin/options.php:1190
+msgid "Post/Page Titles"
+msgstr "Названия Записей/Страниц"
+
+#: admin/options.php:1219
+msgid "Headings"
+msgstr "Заголовки"
+
+#: admin/options.php:1258
+msgid "Justify"
+msgstr "По формату"
+
+#: admin/options.php:1281
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: admin/options.php:1295
+msgid "Page/Category Titles"
+msgstr "Название Страницы/Рубрики"
+
+#: admin/options.php:1297
+msgid "Always Visible"
+msgstr "Отображать везде"
+
+#: admin/options.php:1297
+msgid "Hide on Pages"
+msgstr "Скрывать на Страницах"
+
+#: admin/options.php:1297
+msgid "Hide on Categories"
+msgstr "Скрывать в Рубриках"
+
+#: admin/options.php:1297
+msgid "Always Hidden"
+msgstr "Скрывать везде"
+
+#: admin/options.php:1303
+msgid "Back to Top Button"
+msgstr "Кнопка Наверх"
+
+#: admin/options.php:1305
+msgid "Bottom of page"
+msgstr "«Плавающая» внизу экрана"
+
+#: admin/options.php:1305
+msgid "In footer"
+msgstr "Закреплена в Подвале сайта"
+
+#: admin/options.php:1311
+msgid "Tables Style"
+msgstr "Стиль таблиц"
+
+#: admin/options.php:1313
+msgid "No border"
+msgstr "Без рамок"
+
+#: admin/options.php:1313
+msgid "Clean"
+msgstr "Чистый"
+
+#: admin/options.php:1313
+msgid "Stripped"
+msgstr "В полоску"
+
+#: admin/options.php:1313
+msgid "Bordered"
+msgstr "С рамкой"
+
+#: admin/options.php:1327
+msgid "Custom Footer Text"
+msgstr "Текст в Подвале сайта"
+
+#: admin/options.php:1328
+msgid "Insert custom text or basic HTML code that will appear in your footer. <br /> You can use HTML to insert links, images and special characters."
+msgstr "Вставьте текст или основной HTML код, который будет отображаться в Подвале сайта.<br />Вы можете использовать HTML для вставки ссылок, изображений и специальных символов."
+
+#: admin/options.php:1336
+msgid "Border"
+msgstr "Рамки"
+
+#: admin/options.php:1342
+msgid "Shadow"
+msgstr "Тени"
+
+#: admin/options.php:1348
+msgid "Rounded Corners"
+msgstr "Скруглённые углы"
+
+#: admin/options.php:1349
+msgid "These decorations apply to certain theme elements."
+msgstr "Эти декоративные элементы применяются к некоторым участкам темы."
+
+#: admin/options.php:1365
+msgid "Add Search to Main Menu"
+msgstr "Добавить Поиск в Главное меню"
+
+#: admin/options.php:1371
+msgid "Add Search to Footer Menu"
+msgstr "Добавить Поиск в меню в Подвале сайта"
+
+#: admin/options.php:1380
+msgid "Post Images"
+msgstr "Оформление иллюстрации"
+
+#: admin/options.php:1383
+msgid "No Styling"
+msgstr "Без стилей"
+
+#: admin/options.php:1414
+msgid "Plain"
+msgstr "Простая"
+
+#: admin/options.php:1414
+msgid "With Border"
+msgstr "С рамкой"
+
+#: admin/options.php:1414
+msgid "With Background"
+msgstr "С фоном"
+
+#: admin/options.php:1424
+msgid "Display Author"
+msgstr "Отображать Автора"
+
+#: admin/options.php:1430
+msgid "Display Date"
+msgstr "Отображать Дату"
+
+#: admin/options.php:1436
+msgid "Display Time"
+msgstr "Отображать Время"
+
+#: admin/options.php:1442
+msgid "Display Category"
+msgstr "Отображать Рубрику"
+
+#: admin/options.php:1448
+msgid "Display Tags"
+msgstr "Отображать Метки"
+
+#: admin/options.php:1454
+msgid "Display Comments"
+msgstr "Отображать Комментарии"
+
+#: admin/options.php:1464 admin/options.php:1472 admin/options.php:1480
+msgid "Full Post"
+msgstr "Запись целиком"
+
+#: admin/options.php:1470
+msgid "Sticky Posts on Homepage"
+msgstr "Закреплённая запись на Главной"
+
+#: admin/options.php:1472
+msgid "Inherit"
+msgstr "Наследовать значения у родителя"
+
+#: admin/options.php:1495
+msgid "Excerpt Suffix"
+msgstr "Окончание цитаты"
+
+#: admin/options.php:1501
+msgid "Continue Reading Label"
+msgstr "Надпись «Читать далее»"
+
+#: admin/options.php:1511
+msgid "Show"
+msgstr "Показывать"
+
+#: admin/options.php:1511
+msgid "Hide in posts"
+msgstr "Скрывать для записей"
+
+#: admin/options.php:1511
+msgid "Hide in pages"
+msgstr "Скрывать для страниц"
+
+#: admin/options.php:1511
+msgid "Hide everywhere"
+msgstr "Скрывать везде"
+
+#: admin/options.php:1517
+msgid "Comment Date Format"
+msgstr "Формат даты комментария"
+
+#: admin/options.php:1525
+msgid "Comment Field Label"
+msgstr "Названия полей формы комментирования"
+
+#: admin/options.php:1527
+msgid "Placeholders"
+msgstr "Выводить текст внутри текстового поля"
+
+#: admin/options.php:1527
+msgid "Labels"
+msgstr "Надпись"
+
+#: admin/options.php:1537
+msgid "Comment Form Width"
+msgstr "Ширина формы для комментария"
+
+#: admin/options.php:1545
+msgid "Featured Images"
+msgstr "Изображения записей"
+
+#: admin/options.php:1563
+msgid "Featured Image Height"
+msgstr "Высота изображения записи"
+
+#: admin/options.php:1587
+msgid "Left Top"
+msgstr "Вверху слева"
+
+#: admin/options.php:1587
+msgid "Left Center"
+msgstr "По центру слева"
+
+#: admin/options.php:1587
+msgid "Left Bottom"
+msgstr "Внизу слева"
+
+#: admin/options.php:1587
+msgid "Right Top"
+msgstr "Вверху справа"
+
+#: admin/options.php:1587
+msgid "Right Center"
+msgstr "По центру справа"
+
+#: admin/options.php:1587
+msgid "Right Bottom"
+msgstr "Внизу справа"
+
+#: admin/options.php:1587
+msgid "Center Top"
+msgstr "Вверху по центру"
+
+#: admin/options.php:1587
+msgid "Center Center"
+msgstr "По центру"
+
+#: admin/options.php:1587
+msgid "Center Bottom"
+msgstr "Внизу по центру"
+
+#: admin/options.php:1603
+msgid "Use Featured Images in Header"
+msgstr "Использовать изображение записи в Заголовке"
+
+#: admin/options.php:1613
+msgid "Display in Header"
+msgstr "Отображать в Заголовоке сайта"
+
+#: admin/options.php:1619
+msgid "Display in Footer"
+msgstr "Отображать в Подвале сайта"
+
+#: admin/options.php:1625
+msgid "Display in Left Sidebar"
+msgstr "Отображать в Левой боковой колонке"
+
+#: admin/options.php:1631
+msgid "Display in Right Sidebar"
+msgstr "Отображать в Правой боковой колонке"
+
+#: admin/options.php:1632
+msgid "Select where social icons should be visible in.<br><br><strong>Social Icons are defined using the <a href=\"%1$s\" target=\"_blank\">social icons menu</a></strong>. Read the <a href=\"%2$s\" target=\"_blank\">theme documentation</a> on how to create a social menu."
+msgstr "Выберите где должны отображаться значки социальных сетей.<br><br><strong>Значки социальных сетей используют <a href=\"%1$s\" target=\"_blank\">меню значков социальных сетей</a></strong>. Прочтите <a href=\"%2$s\" target=\"_blank\">документацию к теме оформления</a> о том, как создать меню значков социальных сетей."
+
+#: admin/options.php:1699
+msgid "Enable"
+msgstr "Включено"
+
+#: admin/options.php:1699
+msgid "Disable"
+msgstr "Отключено"
+
+#: admin/options.php:2207
+msgid "Sidebar Left"
+msgstr "Левая боковая колонка"
+
+#: admin/options.php:2214
+msgid "Sidebar Right"
+msgstr "Правая боковая колонка"
+
+#: admin/options.php:2229
+msgid "Content Before"
+msgstr "Перед основным содержимым"
+
+#: admin/options.php:2236
+msgid "Content After"
+msgstr "После основного содержимого"
+
+#: includes/setup.php:56
+msgid "Primary Navigation"
+msgstr "Заголовок сайта"
+
+#: includes/setup.php:58
+msgid "Footer Navigation"
+msgstr "Подвал сайта"
+
+#: includes/setup.php:139
+msgid "Rainy"
+msgstr "Дождь"
+
+#: includes/setup.php:145
+msgid "Droplets"
+msgstr "Капли"
+
+#: includes/setup.php:151
+msgid "Underwater"
+msgstr "Под водой"
+
+#: includes/setup.php:157
+msgid "Waterfall"
+msgstr "Водопад"
+
+#: includes/setup.php:163
+msgid "Window"
+msgstr "Окно"
+
+#: includes/core.php:268
+msgid "Powered by"
+msgstr "Работает на"
+
+#: includes/core.php:347
+msgid "Home"
+msgstr "Главная"
+
+#: includes/core.php:348
+msgid "Archive for category"
+msgstr "Записи в рубрике"
+
+#: includes/core.php:349
+msgid "Search results for"
+msgstr "Результаты поиска"
+
+#: includes/core.php:350
+msgid "Posts tagged"
+msgstr "Записи с метками"
+
+#: includes/core.php:351
+msgid "Articles posted by"
+msgstr "Записи, опубликованные"
+
+#: includes/loop.php:111
+msgid "View all posts by %s"
+msgstr "Просмотреть все записи, опубликованные %s"
+
+#: includes/loop.php:135
+msgid "Date"
+msgstr "Дата"
+
+#: includes/loop.php:157
+msgid "Tagged"
+msgstr "С меткой"
+
+#: includes/loop.php:231
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: includes/loop.php:235
+msgid "Newer posts"
+msgstr "Следующие записи"
+
+#: includes/comments.php:24 includes/comments.php:54
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#. translators: 1: date, 2: time
+#: includes/comments.php:46
+msgid "at"
+msgstr "в"
+
+#: includes/comments.php:61
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает одобрения."
+
+#: includes/comments.php:69
+msgid "Reply"
+msgstr "Ответить"
+
+#: includes/comments.php:132 includes/comments.php:133
+msgid "Website"
+msgstr "Сайт"
+
+#: includes/loop.php:105
+msgid "By"
+msgstr "от"
+
+#: admin/options.php:991
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: admin/options.php:1009
+msgid "Footer Background"
+msgstr "Фон нижнего колонтитула"
+
+#: admin/options.php:110
+msgid "About %s"
+msgstr "Об авторе %s"
+
+#: cryout/prototypes.php:805
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: includes/comments.php:146 includes/comments.php:147
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментировать"
+
+#: includes/comments.php:24
+msgid "Pingback: "
+msgstr "Уведомление:"
+
+#. Theme URI of the theme
+msgid "http://www.cryoutcreations.eu/wordpress-themes/fluida"
+msgstr "http://www.cryoutcreations.eu/wordpress-themes/fluida"
+
+#. Author URI of the theme
+msgid "http://www.cryoutcreations.eu"
+msgstr "http://www.cryoutcreations.eu"
+
+#. Author of the theme
+msgid "Cryout Creations"
+msgstr "Cryout Creations"

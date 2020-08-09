@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Карьера &#8212; DC++</title>
+	<atom:link href="http://sitehome.ml/category/%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sitehome.ml</link>
+	<description>DC++ Общайся</description>
+	<lastBuildDate>Wed, 05 Aug 2020 14:07:20 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>http://sitehome.ml/wp-content/uploads/2020/07/cropped-646346346-1-32x32.png</url>
+	<title>Карьера &#8212; DC++</title>
+	<link>http://sitehome.ml</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>

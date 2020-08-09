@@ -1,0 +1,3184 @@
+# Translation of Themes - Agama in Russian
+# This file is distributed under the same license as the Themes - Agama package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-19 13:54:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Agama\n"
+
+#. Description of the theme
+msgid "Agama is a free Multi-Purpose WordPress theme. It’s perfect for web agency business, corporate business, personal and parallax business portfolio, photography sites and freelancer. Is built on BootStrap 4 framework with parallax support, is responsive, clean, modern, flat and minimal. Agama is e-commerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax. 3 Superb header variations. Check demo: http://demo.theme-vision.com"
+msgstr "Agama является бесплатной многоцелевой темой WordPress. Она идеально подходит для бизнеса веб-агентств, корпоративного бизнеса, личного и бизнес-портфеля, сайтов фотографий и фрилансеров. Построен на платформе BootRamp 4 с поддержкой параллакса, является отзывчивым, чистым, современным, плоским и минимальным. Agama - совместима с электронной коммерцией (WooCommerce), WPML, RTL, Reina-Ready, дружественна SEO и имеет параллакс. 3 превосходных варианта заголовка. Посмотри демонстрацию: http://demo.theme-vision.com"
+
+#. Theme Name of the theme
+#: framework/admin/pages/about.php:20
+msgid "Agama"
+msgstr "Agama (Агама)"
+
+#: framework/admin/customizer.php:905
+msgid "Waves"
+msgstr "Волны"
+
+#: framework/admin/customizer.php:899
+msgid "Select the header image bottom shape."
+msgstr "Выберите нижнюю фигуру изображения заголовка."
+
+#: framework/admin/customizer.php:898
+msgid "Bottom Shape"
+msgstr "Нижняя фигура"
+
+#: framework/admin/customizer.php:877
+msgid "Set header image viewport height."
+msgstr "Задайте высоту изображения верхнего колонтитула."
+
+#: framework/admin/customizer.php:876
+msgid "Viewport Height (vh)"
+msgstr "Высота окна просмотра"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "Промотать к содержимому"
+
+#: framework/admin/customizer.php:853
+msgid "Select header image background overlay colors."
+msgstr "Выберите фон цвета оверлея изображения заголовка."
+
+#: framework/admin/customizer.php:844
+msgid "Enable background overlay?"
+msgstr "Включить оверлей фона?"
+
+#: framework/admin/pages/about.php:69
+msgid "The Agama theme is coded with passion and love. More than 5 years of development says more than thousands words."
+msgstr "Тема Агама сделана со страстью и любовью. Более 5 лет развития говорят больше тысячи слов."
+
+#: framework/admin/pages/about.php:58
+msgid "The Agama theme is translated to multiple languages already such as Spanish, Russian & German."
+msgstr "Тема Агама переведена на многие языки, такие как испанский, русский и немецкий."
+
+#: framework/admin/pages/about.php:57
+msgid "Multilanguage"
+msgstr "Многоязычная"
+
+#: framework/admin/pages/about.php:49 framework/admin/pages/about.php:60
+#: framework/admin/pages/about.php:71
+msgid "Learn more"
+msgstr "Подробнее"
+
+#: framework/admin/pages/about.php:47
+msgid "The Agama theme is build in mind to be easily customizable/extendable by amateurs or skilled developers."
+msgstr "Тема Agama создана для того, чтобы быть легко настраиваемой/расширяемой любителями или квалифицированными разработчиками."
+
+#: framework/admin/pages/about.php:46
+msgid "Customizable"
+msgstr "Настраиваемая"
+
+#: framework/admin/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "Больше не показывать"
+
+#: framework/admin/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "Установить плагин"
+
+#: framework/admin/kirki/core/class-kirki-init.php:365
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема для значков использует шрифтAwesome. Чтобы избежать проблем с отсутствующими значками на внешнем интерфейсе, мы рекомендуем вам установить официальный плагин шрифта Awesome."
+
+#. Template Name of the theme
+msgid "Template Full Width"
+msgstr "Шаблон полной ширины"
+
+#. Template Name of the theme
+msgid "Template Empty"
+msgstr "Пустой шаблон"
+
+#. Template Name of the theme
+msgid "Template Fluid"
+msgstr "Жидкий шаблон"
+
+#: framework/agama-actions.php:345
+msgid "2015 - 2020 &copy; Powered by %s."
+msgstr "2015 - 2020 &copy; Приведено в действие %s."
+
+#: framework/admin/customizer.php:121
+msgid "Select site identity hover color."
+msgstr "Выберите цвет названия сайта при наведении."
+
+#: framework/admin/customizer.php:120
+msgid "Site Identity Hover Color"
+msgstr "Цвет названия сайта при наведении"
+
+#: framework/admin/customizer.php:105
+msgid "Site Identity Color"
+msgstr "Цвет названия сайта"
+
+#: framework/admin/customizer.php:528 framework/admin/customizer.php:2625
+msgid "Enable Social Icons"
+msgstr "Включить значки соцсетей"
+
+#: framework/admin/customizer.php:106
+msgid "Select site identity color."
+msgstr "Выберите цвет названия сайта."
+
+#: framework/admin/modules/agama-upsell/class-customize.php:101
+msgid "Preloader"
+msgstr "Предварительный загрузчик"
+
+#: framework/admin/customizer.php:2542
+msgid "Add social icon page url."
+msgstr "Добавьте ссылку страницы значков соцсетей"
+
+#: framework/admin/customizer.php:2541
+msgid "Page URL"
+msgstr "Ссылка страницы"
+
+#: framework/admin/customizer.php:2536
+msgid "YouTube"
+msgstr "YouTube"
+
+#: framework/admin/customizer.php:2535
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: framework/admin/customizer.php:2534
+msgid "VK"
+msgstr "ВКонтакте"
+
+#: framework/admin/customizer.php:2530
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: framework/admin/customizer.php:2529
+msgid "Telegram"
+msgstr "Telegram"
+
+#: framework/admin/customizer.php:2528
+msgid "Stumbleupon"
+msgstr "StumbleUpon"
+
+#: framework/admin/customizer.php:2527
+msgid "Steam"
+msgstr "Steam"
+
+#: framework/admin/customizer.php:2526
+msgid "StackOverflow"
+msgstr "StackOverflow"
+
+#: framework/admin/customizer.php:2525
+msgid "Spotify"
+msgstr "Spotify"
+
+#: framework/admin/customizer.php:2524
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: framework/admin/customizer.php:2523
+msgid "Skype"
+msgstr "Skype"
+
+#: framework/admin/customizer.php:2521
+msgid "Reddit"
+msgstr "Reddit"
+
+#: framework/admin/customizer.php:2519
+msgid "Phone"
+msgstr "Телефон"
+
+#: framework/admin/customizer.php:2518
+msgid "PayPal"
+msgstr "PayPal"
+
+#: framework/admin/customizer.php:2517
+msgid "MySpace"
+msgstr "MySpace"
+
+#: framework/admin/customizer.php:2515
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/admin/customizer.php:2514
+msgid "Google"
+msgstr "Google"
+
+#: framework/admin/customizer.php:2513
+msgid "GitHub"
+msgstr "GitHub"
+
+#: framework/admin/customizer.php:2512
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/admin/customizer.php:2509
+msgid "Digg"
+msgstr "Digg"
+
+#: framework/admin/customizer.php:2508
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: framework/admin/customizer.php:2507
+msgid "DropBox"
+msgstr "Dropbox"
+
+#: framework/admin/customizer.php:2506
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: framework/admin/customizer.php:2505
+msgid "Delicious"
+msgstr "Delicious"
+
+#: framework/admin/customizer.php:2504
+msgid "BitCoin"
+msgstr "Биткойн"
+
+#: framework/admin/customizer.php:2503
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: framework/admin/customizer.php:2502
+msgid "Behance"
+msgstr "Behance"
+
+#: framework/admin/customizer.php:2501
+msgid "Android"
+msgstr "Android"
+
+#: framework/admin/customizer.php:2500
+msgid "Amazon"
+msgstr "Amazon"
+
+#: framework/admin/customizer.php:2499
+msgid "-- Select --"
+msgstr "-Выберите-"
+
+#: framework/admin/customizer.php:2492
+msgid "Open in New Tab ?"
+msgstr "Открыть в новой вкладке?"
+
+#: framework/admin/customizer.php:2496
+msgid "Icon"
+msgstr "Значок"
+
+#: framework/admin/customizer.php:2497
+msgid "Select social icon."
+msgstr "Выберите значок соцсети."
+
+#: framework/admin/customizer.php:2478
+msgid "Social Icon"
+msgstr "Значок соцсетей"
+
+#: framework/admin/customizer.php:2533
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/admin/customizer.php:1212
+msgid "Customize mobile menu icon color."
+msgstr "Настройте цвет значков меню для мобильных устройств."
+
+#: framework/admin/customizer.php:1211
+msgid "Mobile Menu Icon Color"
+msgstr "Цвет значков меню для мобильных устройств"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:83
+msgid "Extend Agama"
+msgstr "Оценить Agama"
+
+#: framework/admin/customizer.php:753
+msgid "Set mobile logo max-height in PX."
+msgstr "Задайте максимальную высоту логотипа в пикселях для мобильных устройств."
+
+#: framework/admin/customizer.php:752
+msgid "Mobile Logo Max-height"
+msgstr "Максимальная высота логотипа для мобильных устройств"
+
+#: framework/admin/customizer.php:739
+msgid "Upload custom logo for mobile devices."
+msgstr "Загрузите свой логотип для мобильных устройств."
+
+#: framework/admin/customizer.php:738
+msgid "Mobile Logo"
+msgstr "Логотип для мобильных устройств"
+
+#: framework/admin/customizer.php:706
+msgid "Set tablet logo max-height in PX."
+msgstr "Задайте максимальную высоту логотипа в пикселях для планшетных устройств."
+
+#: framework/admin/customizer.php:705
+msgid "Tablet Logo Max-height"
+msgstr "Максимальная высота логотипа для планшетных устройств"
+
+#: framework/admin/customizer.php:692
+msgid "Upload custom logo for tablet devices."
+msgstr "Загрузите свой логотип для планшетных устройств."
+
+#: framework/admin/customizer.php:691
+msgid "Tablet Logo"
+msgstr "Логотип для планшетных устройств"
+
+#: framework/admin/customizer.php:659
+msgid "Set desktop logo max-height in PX."
+msgstr "Задайте максимальную высоту логотипа в пикселях для настольных устройств."
+
+#: framework/admin/customizer.php:658
+msgid "Desktop Logo Max-height"
+msgstr "Максимальная высота логотипа для настольных устройств"
+
+#: framework/admin/customizer.php:645
+msgid "Upload custom logo for desktop devices."
+msgstr "Загрузите свой логотип для настольных устройств."
+
+#: framework/admin/customizer.php:644
+msgid "Desktop Logo"
+msgstr "Логотип для настольных устройств"
+
+#: framework/widgets/widgets.php:96
+msgid "Appears on"
+msgstr "Появляется на"
+
+#: framework/widgets/widget-about.php:174
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: framework/widgets/widget-about.php:166
+msgid "Hide Divider"
+msgstr "Скрыть делитель"
+
+#: framework/widgets/widget-about.php:165
+msgid "Blinds"
+msgstr "Жалюзи"
+
+#: framework/widgets/widget-about.php:164
+msgid "Cog"
+msgstr "Винтик"
+
+#: framework/widgets/widget-about.php:163
+msgid "Sides"
+msgstr "Главное боковое меню"
+
+#: framework/widgets/widget-about.php:162
+msgid "Blocks"
+msgstr "Блоки"
+
+#: framework/widgets/widget-about.php:161
+msgid "Circle"
+msgstr "Круг"
+
+#: framework/widgets/widget-about.php:160
+msgid "Bookmark"
+msgstr "Закладка"
+
+#: framework/widgets/widget-about.php:159
+msgid "Plus"
+msgstr "Плюс"
+
+#: framework/widgets/widget-about.php:158
+msgid "Heart"
+msgstr "Сердце"
+
+#: framework/widgets/widget-about.php:157
+msgid "Chevron"
+msgstr "Chevron"
+
+#: framework/widgets/widget-about.php:156
+msgid "Asterisk"
+msgstr "Звездочка"
+
+#: framework/widgets/widget-about.php:155
+msgid "Bolt"
+msgstr "Болт"
+
+#: framework/widgets/widget-about.php:154
+msgid "Cross"
+msgstr "Крест"
+
+#: framework/widgets/widget-about.php:153
+msgid "Star"
+msgstr "Звезда"
+
+#: framework/widgets/widget-about.php:152
+msgid "Rhombus"
+msgstr "Ромб"
+
+#: framework/widgets/widget-about.php:149
+msgid "Title Divider:"
+msgstr "Делитель заголовка:"
+
+#: framework/widgets/widget-about.php:144
+msgid "Content:"
+msgstr "Содержимое:"
+
+#: framework/widgets/widget-about.php:140
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: framework/widgets/widget-about.php:136
+msgid "Subtitle:"
+msgstr "Подзаголовок:"
+
+#: framework/widgets/widget-about.php:59 framework/widgets/widget-about.php:125
+msgid "a little about.."
+msgstr "немного о..."
+
+#: framework/widgets/widget-about.php:40
+msgid "Agama About Section widget."
+msgstr "Agama о разделе виджетов."
+
+#: framework/widgets/widget-about.php:35
+msgid "Agama: About"
+msgstr "Agama: виджеты"
+
+#: framework/widgets/widget-about.php:33
+msgid "About"
+msgstr "Об"
+
+#: framework/agama-actions.php:110
+msgid "Add Widgets"
+msgstr "Добавить виджеты"
+
+#: framework/agama-actions.php:109
+msgid "You can replace this page with Agama Widgets."
+msgstr "Эту страницу можно заменить виджетами Agama."
+
+#: framework/admin/extra.php:18
+msgid "Save and close"
+msgstr "Сохранить и закрыть"
+
+#: framework/admin/extra.php:15
+msgid "Close"
+msgstr "Закрыть"
+
+#: framework/admin/customizer.php:79
+msgid "Select page to build."
+msgstr "Выбрать страницу для создания."
+
+#: framework/admin/customizer.php:78
+msgid "Page to Build"
+msgstr "Страница для создания"
+
+#: framework/admin/customizer.php:74
+msgid "Page Builder"
+msgstr "Конструктор страниц"
+
+#: framework/admin/customizer/controls/control-editor.php:27
+#: framework/widgets/widget-about.php:146
+msgid "Edit content"
+msgstr "Редактирование содержимого"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:103
+msgid "Coming Soon"
+msgstr "Скоро"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:102
+msgid "Maps"
+msgstr "Карты"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:100
+msgid "Countdown"
+msgstr "Счётчик"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:98
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:97
+msgid "Upgrade to PRO to unlock this widget."
+msgstr "Обнови до ПРО для разблокировки этого виджета."
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:96
+msgid "Other Widgets"
+msgstr "Другие виджеты"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:95
+msgid "Agama Widgets"
+msgstr "Виджеты темы"
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:364
+#: framework/class-agama-core.php:363
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:358
+#: framework/class-agama-core.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий необходимый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:352
+#: framework/class-agama-core.php:353
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление для: %1$s."
+msgstr[1] "Доступны обновления для: %1$s."
+msgstr[2] "Доступны обновления для: %1$s."
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:346
+#: framework/class-agama-core.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[1] "Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[2] "Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:340
+#: framework/class-agama-core.php:343
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: framework/class-agama-plugin-activation.php:334
+#: framework/class-agama-core.php:338
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для этой темы требуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы требуется следующие плагины: %1$s."
+msgstr[2] "Для этой темы требуется следующие плагины: %1$s."
+
+#: framework/agama-actions.php:222
+msgid "Share"
+msgstr "Поделиться"
+
+#: framework/agama-actions.php:220
+msgid "Share this Post"
+msgstr "Поделиться этой записью"
+
+#: framework/agama-actions.php:216
+msgid "Share this Page"
+msgstr "Поделиться этой страницей"
+
+#: framework/admin/customizer.php:2736
+msgid "Set custom color for social icons in footer area."
+msgstr "Настроить свой цвет для значков соцсетей в подвале."
+
+#: framework/admin/customizer.php:2735
+msgid "Social Icons Color"
+msgstr "Цвет значков соцсетей"
+
+#: framework/admin/customizer.php:2721
+msgid "Set custom color for copyright links in footer area."
+msgstr "Задайте свой цвет ссылки копирайта в подвале."
+
+#: framework/admin/customizer.php:2720
+msgid "Copyright Links Color"
+msgstr "Цвет ссылки авторских прав"
+
+#: framework/admin/customizer.php:2522 framework/admin/customizer.php:2586
+msgid "RSS"
+msgstr "RSS"
+
+#: framework/agama-actions.php:252 framework/admin/customizer.php:2516
+#: framework/admin/customizer.php:2585
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/admin/customizer.php:2520 framework/admin/customizer.php:2584
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/admin/customizer.php:2532 framework/admin/customizer.php:2583
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: framework/admin/customizer.php:2511 framework/admin/customizer.php:2582
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/admin/customizer.php:2577
+msgid "Enable and sort share icons per your own needs."
+msgstr "Включить и отсортировать значки расшаривания по вашему вкусу."
+
+#: framework/admin/customizer.php:2576
+msgid "Share Icons"
+msgstr "Значок расшаривания"
+
+#: framework/admin/customizer.php:2571
+msgid "Post & Pages"
+msgstr "Записи и страницы"
+
+#: framework/admin/customizer.php:2569
+msgid "Posts"
+msgstr "Записи"
+
+#: framework/admin/customizer.php:2564
+msgid "Select where to show share box."
+msgstr "Выберите где слайдер будет видимым."
+
+#: framework/admin/customizer.php:2556
+msgid "Enable social share icons ?"
+msgstr "Включить иконки расшаривания соцсетей?"
+
+#: framework/admin/customizer.php:1736
+msgid "Set custom heading for front page boxes. Empty = Disabled"
+msgstr "Задайте свой заголовок для боксов первой страницы. Пусто = выключено"
+
+#: framework/admin/customizer.php:1735
+msgid "Front Page Boxes Heading"
+msgstr "Боксы заголовка заглавной страницы"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-agama-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: framework/class-agama-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установлено."
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: framework/class-agama-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начался. В зависимости от мощности вашего сервера этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-agama-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: framework/class-agama-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Всё установлено и активировано."
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:3509
+#: framework/class-agama-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:3509
+#: framework/class-agama-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: framework/class-agama-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации запущен. В зависимости от мощности вашего сервера этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-agama-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-agama-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: framework/class-agama-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: framework/class-agama-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: framework/class-agama-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для активации. Никаких действий не предпринималось."
+
+#: framework/class-agama-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Нет доступных плагинов для обновления в настоящее время."
+
+#: framework/class-agama-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет доступных плагинов для установки в настоящее время."
+
+#: framework/class-agama-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления. Никаких действий не предпринималось."
+
+#: framework/class-agama-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки. Никаких действий не предпринималось."
+
+#: framework/class-agama-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активация"
+
+#: framework/class-agama-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновление"
+
+#: framework/class-agama-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установка"
+
+#: framework/class-agama-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об апгрейде от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-agama-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-agama-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-agama-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: framework/class-agama-plugin-activation.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#: framework/admin/pages/about.php:20
+#: framework/class-agama-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: framework/class-agama-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: framework/class-agama-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: framework/class-agama-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: framework/class-agama-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: framework/class-agama-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: framework/class-agama-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: framework/class-agama-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: framework/class-agama-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестен"
+
+#. translators: 1: number of plugins.
+#: framework/class-agama-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-agama-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Обновление доступно <span class=\"count\">(%s)</span>"
+msgstr[1] "Обновления доступны <span class=\"count\">(%s)</span>"
+msgstr[2] "Обновления доступны <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-agama-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-agama-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: framework/class-agama-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/class-agama-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: framework/class-agama-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: framework/class-agama-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: framework/class-agama-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: framework/class-agama-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: framework/class-agama-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: framework/class-agama-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: framework/class-agama-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: framework/class-agama-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: framework/class-agama-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: framework/class-agama-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/class-agama-plugin-activation.php:1121
+#: framework/class-agama-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: framework/class-agama-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет внешнего плагина состоит из нескольких файлов, но файлы не находятся в папке."
+
+#: framework/class-agama-plugin-activation.php:934
+#: framework/class-agama-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: framework/class-agama-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: framework/class-agama-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: framework/class-agama-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: framework/class-agama-plugin-activation.php:397
+#: framework/class-agama-core.php:391
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: framework/class-agama-plugin-activation.php:396
+#: framework/class-agama-core.php:390
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: framework/class-agama-plugin-activation.php:395
+#: framework/class-agama-core.php:389
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#. translators: 1: dashboard link.
+#: framework/class-agama-plugin-activation.php:394
+#: framework/class-agama-core.php:388
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:392
+#: framework/class-agama-core.php:387
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Более новая версия %s нужна для этой темы. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: framework/class-agama-plugin-activation.php:390
+#: framework/class-agama-core.php:386
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не предпринималось. Подключаемый модуль %1$s уже активен."
+
+#: framework/class-agama-plugin-activation.php:388
+#: framework/class-agama-plugin-activation.php:2952
+#: framework/class-agama-core.php:385
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин успешно активирован:"
+msgstr[1] "Следующие плагины успешно активированы:"
+msgstr[2] "Следующие плагины успешно активированы:"
+
+#: framework/class-agama-plugin-activation.php:387
+#: framework/class-agama-plugin-activation.php:3159
+#: framework/class-agama-core.php:384
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: framework/class-agama-plugin-activation.php:386
+#: framework/class-agama-plugin-activation.php:827
+#: framework/class-agama-plugin-activation.php:2533
+#: framework/class-agama-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: framework/class-agama-plugin-activation.php:385
+#: framework/class-agama-core.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: framework/class-agama-plugin-activation.php:380
+#: framework/class-agama-core.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: framework/class-agama-plugin-activation.php:375
+#: framework/class-agama-core.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: framework/class-agama-plugin-activation.php:370
+#: framework/class-agama-core.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: framework/class-agama-plugin-activation.php:333
+#: framework/class-agama-core.php:337
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: framework/class-agama-plugin-activation.php:332
+#: framework/class-agama-core.php:336
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: framework/class-agama-plugin-activation.php:330
+#: framework/class-agama-core.php:335
+msgid "Installing Plugin: %s"
+msgstr "Установите плагин: %s"
+
+#: framework/class-agama-plugin-activation.php:328
+#: framework/class-agama-core.php:334
+msgid "Install Plugins"
+msgstr "Установите плагины"
+
+#: framework/class-agama-plugin-activation.php:327
+#: framework/class-agama-core.php:333
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS по умолчанию"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Семейство шрифтов браузера по умолчанию"
+
+#: framework/admin/kirki/controls/views/image.php:40
+#: framework/admin/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Выберите изображение"
+
+#: framework/admin/kirki/controls/views/image.php:38
+#: framework/admin/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: framework/admin/kirki/controls/views/image.php:35
+#: framework/admin/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Сменить изображение"
+
+#: framework/admin/kirki/controls/views/image.php:34
+#: framework/admin/kirki/controls/views/image.php:39
+#: framework/admin/kirki/field/class-kirki-field-image.php:47
+#: framework/admin/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Зачёркивание"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Черта сверху"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:193
+#: framework/widgets/widget-about.php:151
+msgid "Underline"
+msgstr "Подчёркивание"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:140
+msgid "Front Page Box #7"
+msgstr "Бокс заглавной страницы №7"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:139
+msgid "Front Page Box #6"
+msgstr "Бокс заглавной страницы №6"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:138
+msgid "Front Page Box #5"
+msgstr "Бокс заглавной страницы №5"
+
+#: framework/admin/customizer.php:1746
+msgid "Front Page Box #1"
+msgstr "Бокс заглавной страницы №1"
+
+#: searchform.php:11
+msgctxt "Search for"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: framework/class-agama-breadcrumb.php:173
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: framework/admin/partial-refresh.php:267
+msgid "Optimized code that are completely customizable and deliver unmatched fast performance."
+msgstr "Оптимизированный код, полностью настраиваемый и обеспечивающий непревзойденную высокую производительность."
+
+#: framework/admin/partial-refresh.php:257
+msgid "Powerful Performance"
+msgstr "Мощная производительность"
+
+#: framework/admin/partial-refresh.php:237
+msgid "Stretch your Website to the Full Width or make it boxed to surprise your visitors."
+msgstr "Растяните свой веб-сайт до полной ширины или сделайте его фиксированного размера, чтобы удивить посетителей."
+
+#: framework/admin/partial-refresh.php:227
+msgid "Boxed & Wide Layouts"
+msgstr "Фиксированный и широкоэкранный вывод"
+
+#: framework/admin/partial-refresh.php:207
+msgid "Complete control on each & every element that provides endless customization possibilities."
+msgstr "Полный контроль над каждым элементом, который обеспечивает бесконечные возможности настройки."
+
+#: framework/admin/partial-refresh.php:197
+msgid "Endless Possibilities"
+msgstr "Бесконечные возможности"
+
+#: framework/admin/partial-refresh.php:177
+msgid "Powerful Layout with Responsive functionality that can be adapted to any screen size."
+msgstr "Мощная разметка с гибкой функциональностью, которые можно адаптировать к любому размеру экрана."
+
+#: framework/admin/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важное уведомление обновления:"
+
+#. translators: The title.
+#: framework/admin/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: framework/admin/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Настройка"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: framework/admin/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Ошибка в поле %1$s. Аргумент \"mode\" устарел с Kirki v0.8. Вместо этого используйте тип \"radio-%2$s\"."
+
+#: framework/admin/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Не используйте \"alpha\" в качестве аргумента в управлении цветом. Вместо этого используйте \"choices[alpha]\"."
+
+#: framework/class-agama-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#: framework/admin/customizer.php:2531
+msgid "Twitch"
+msgstr "Twitch"
+
+#: framework/admin/customizer.php:852
+msgid "Background"
+msgstr "Фон"
+
+#: framework/admin/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s или %2$s"
+
+#: framework/admin/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Поля Kirki не следует добавлять на customize_register. Пожалуйста, добавьте их напрямую или при инициализации."
+
+#: framework/admin/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Мы обнаружили, что вы используете Kirki_Init::get_variables(). Пожалуйста, вместо этого используйте Kirki_Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:498
+#: framework/admin/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "недопустимый формат вывода в поле %s. Аргумент \"output\" должен быть определен как массив массивов."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "недопустимая запись \"partial_refresh\" в поле %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Обнаружена ошибка в поле %s - \"theme_mods\" вместо \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: framework/admin/kirki/core/class-kirki-field.php:257
+#: framework/admin/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Конфигурация не определена для поля %1$s - Смотри сведения о правильном добавлении полей в %2$s."
+
+#. translators: %s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Обнаружена опечатка в поле %s - параметр вместо параметров."
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Нижнее поле"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Верхнее поле"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Запасной шрифт"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:83
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Выберите семью шрифта"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-switch.php:56
+#: framework/admin/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Выкл"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-switch.php:52
+#: framework/admin/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Вкл"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Сброс"
+
+#. translators: %s represents the label of the row.
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Добавить новую %s"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:134
+#: framework/admin/kirki/controls/views/image.php:36
+#: framework/admin/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "По умолчанию"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Ширина"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Интервал"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Авто"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:63
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Выберите файл"
+
+#: framework/admin/customizer.php:2640
+msgid "Add custom copyright text in footer area."
+msgstr "Добавьте свой копирайт в подвал."
+
+#: framework/admin/customizer.php:2395
+msgid "Enable single post author section."
+msgstr "Включить раздел автора одиночного записи."
+
+#: framework/admin/customizer.php:2352
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: framework/admin/customizer.php:2273
+msgid "Enable post featured image permalink ? If enabled the post featured images will become clickable links."
+msgstr "Включить изображение записи? Если включить, то изображения записи будут кликабельными ссылками."
+
+#: framework/admin/customizer.php:2110
+msgid "If disabled the front page box #4 will be hidden."
+msgstr "Если выключено, бокс заглавной страницы №4 будет скрыт."
+
+#: framework/admin/customizer.php:1991
+msgid "If disabled the front page box #3 will be hidden."
+msgstr "Если выключено, бокс заглавной страницы №3 будет скрыт."
+
+#: framework/admin/customizer.php:1958 framework/admin/customizer.php:2077
+#: framework/admin/customizer.php:2196
+msgid "Enable box appear loading animation."
+msgstr "Включить анимацию загрузки бокса."
+
+#: framework/admin/customizer.php:1944
+msgid "Write custom text."
+msgstr "Напишите свой текст."
+
+#: framework/admin/customizer.php:1872
+msgid "If disabled the front page box #2 will be hidden."
+msgstr "Если выключено, бокс заглавной страницы №2 будет скрыт."
+
+#: framework/admin/customizer.php:1825 framework/admin/customizer.php:2063
+#: framework/admin/customizer.php:2182
+msgid "Write box custom text."
+msgstr "Напишите свой текст бокса."
+
+#: framework/admin/customizer.php:1818 framework/admin/customizer.php:1937
+#: framework/admin/customizer.php:2056 framework/admin/customizer.php:2175
+msgid "Add box icon / image custom url. Ex: http://google.com"
+msgstr "Добавьте значок бокса/свою ссылку на картинку. Например: http://google.com"
+
+#: framework/admin/customizer.php:1775 framework/admin/customizer.php:1894
+#: framework/admin/customizer.php:2013 framework/admin/customizer.php:2132
+msgid "Select desired box icon."
+msgstr "Выберите нужный значок."
+
+#: framework/admin/customizer.php:1774 framework/admin/customizer.php:1893
+#: framework/admin/customizer.php:2012 framework/admin/customizer.php:2131
+msgid "Select Icon"
+msgstr "Выберите значок"
+
+#: framework/admin/partial-refresh.php:167 framework/admin/customizer.php:1765
+msgid "Responsive Layout"
+msgstr "Адаптивная разметка"
+
+#: framework/admin/customizer.php:1761 framework/admin/customizer.php:1880
+#: framework/admin/customizer.php:1999 framework/admin/customizer.php:2118
+msgid "Write box custom title."
+msgstr "Напишите свой заголовок бокса."
+
+#: framework/admin/customizer.php:1753
+msgid "If disabled the front page box #1 will be hidden."
+msgstr "Если выключено, бокс заглавной страницы №1 будет скрыт."
+
+#: framework/admin/customizer.php:1432 framework/admin/customizer.php:1543
+msgid "Set custom button title. If empty the button will be hidden."
+msgstr "Задайте свой заголовок кнопки. Если пусто, кнопка будет скрыта."
+
+#: framework/admin/customizer.php:1388 framework/admin/customizer.php:1499
+msgid "Add custom slide title. If empty the title will be hidden."
+msgstr "Добавьте свой заголовок слайда. Если пусто, заголовок будет скрыт."
+
+#: framework/admin/customizer.php:1335 framework/admin/customizer.php:1728
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#: framework/admin/customizer.php:1304
+msgid "Set slider height in pixels (px). Set 0 for full screen slider."
+msgstr "Задайте высоту слайдера в пикселях. Поставьте 0 для полноэкранного слайдера."
+
+#: framework/admin/customizer.php:1149
+msgid "Customize mobile navigation font."
+msgstr "Настройте шрифт навигации для мобильных устройств."
+
+#: framework/admin/customizer.php:1093
+msgid "Customize primary navigation font."
+msgstr "Настройте шрифт главной навигации."
+
+#: framework/admin/customizer.php:1037
+msgid "Customize top navigation font."
+msgstr "Настройте шрифт верхней навигации."
+
+#: framework/admin/customizer.php:1036 framework/admin/customizer.php:1092
+#: framework/admin/customizer.php:1148
+msgid "Font"
+msgstr "Шрифт"
+
+#: framework/admin/customizer.php:577
+msgid "Select header top border height in PX. This feature works with header V2 & V3."
+msgstr "Установите высоту верхней границы заголовка в пикселях. Это работает только с заголовком v2 и v3."
+
+#: framework/admin/customizer.php:549
+msgid "Set header top margin in PX. This feature works only with header V2"
+msgstr "Установите верхний отступ заголовка в пикселях. Это работает только с заголовком v2"
+
+#: framework/admin/customizer.php:450
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: framework/admin/customizer.php:368
+msgid "Extra"
+msgstr "Экстра"
+
+#: framework/admin/customizer.php:348
+msgid "Enable tags usage suggestion below comment form ?"
+msgstr "Включить предложение по использованию тегов под формой комментария?"
+
+#: framework/admin/customizer.php:347
+msgid "HTML Tags Suggestion"
+msgstr "Предложение HTML-тэгов"
+
+#: framework/admin/customizer.php:325
+msgid "Enable posts featured thumbnails on search page."
+msgstr "Включить миниатюры записей на странице поиска."
+
+#: framework/admin/customizer.php:1847 framework/admin/customizer.php:1966
+#: framework/admin/customizer.php:2085 framework/admin/customizer.php:2204
+msgid "Select box appear loading animation."
+msgstr "Выберите анимацию загрузки бокса."
+
+#: framework/admin/customizer.php:324
+msgid "Post Thumbnails"
+msgstr "Миниатюра записи"
+
+#: framework/admin/customizer.php:320
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: framework/admin/customizer.php:262
+msgid "Skins"
+msgstr "Скины"
+
+#: framework/admin/customizer.php:210
+msgid "Customize body font."
+msgstr "Настройте шрифт основного текста"
+
+#: framework/admin/customizer.php:209
+msgid "Body Font"
+msgstr "Шрифт основного текста"
+
+#: framework/admin/customizer.php:205
+msgid "Body"
+msgstr "Основная часть"
+
+#: framework/admin/customizer.php:161
+msgid "Select header shrinked site title font size."
+msgstr "Выберите размер шрифта уменьшенного заголовка."
+
+#: framework/admin/customizer.php:160
+msgid "Site Title Shrinked"
+msgstr "Уменьшенный заголовок сайта"
+
+#: framework/admin/customizer.php:142
+msgid "Site Title Font"
+msgstr "Шрифт заголовка сайта"
+
+#: framework/admin/customizer.php:143
+msgid "Select site title font."
+msgstr "Выберите шрифт заголовка сайта."
+
+#: framework/class-agama-helper.php:44
+msgid "Menu"
+msgstr "Меню"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:99
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: framework/admin/customizer.php:2570
+msgid "Pages"
+msgstr "Страницы"
+
+#: framework/admin/customizer.php:2550
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:100
+msgid "Headings"
+msgstr "Заголовки"
+
+#: framework/admin/customizer.php:343
+msgid "Comments"
+msgstr "Комментарии"
+
+#: framework/admin/customizer.php:1176
+msgid "Select mobile menu links hover color."
+msgstr "Выберите цвет ссылок при наведении для меню мобильных устройств."
+
+#: framework/admin/customizer.php:1204
+msgid "Set custom mobile menu title."
+msgstr "Задайте свой заголовок меню для мобильных устройств."
+
+#: framework/admin/customizer.php:1203
+msgid "Menu Icon Title"
+msgstr "Заголовок значка меню"
+
+#: framework/admin/customizer.php:1144
+msgid "agama_nav_panel"
+msgstr "agama_nav_panel"
+
+#: framework/admin/customizer.php:1143
+msgid "Navigation Mobile"
+msgstr "Навигация для мобильных устройств"
+
+#: framework/admin/customizer.php:1114
+msgid "Select navigation primary links hover color."
+msgstr "Задайте цвет ссылки первичной навигации при наведении."
+
+#: framework/admin/customizer.php:1087
+msgid "Navigation Primary"
+msgstr "Основная навигация"
+
+#: framework/admin/customizer.php:1058
+msgid "Select navigation top links hover color."
+msgstr "Задайте цвет ссылки верхней навигации при наведении."
+
+#: framework/admin/customizer.php:1057 framework/admin/customizer.php:1113
+#: framework/admin/customizer.php:1175
+msgid "Links Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: framework/admin/customizer.php:1031
+msgid "Navigation Top"
+msgstr "Верхняя навигация"
+
+#: framework/admin/customizer.php:1715
+msgid "Global enable | disable."
+msgstr "Глобально вкл | выкл."
+
+#: framework/admin/customizer.php:1714
+msgid "Enable ?"
+msgstr "Включить?"
+
+#: framework/admin/customizer.php:1350
+msgid "Enable particles on slider ?"
+msgstr "Включить частицы на слайдере?"
+
+#: framework/admin/customizer.php:1280
+msgid "Set custom overlay background color."
+msgstr "Задайте свой цвет фона наложения."
+
+#: framework/admin/customizer.php:1279
+msgid "Overlay BG Color"
+msgstr "Цвет фона наложения"
+
+#: framework/admin/customizer.php:1272
+msgid "Enable slider overlay ?"
+msgstr "Включить наложение на слайдер?"
+
+#: framework/admin/customizer.php:1271
+msgid "Overlay"
+msgstr "Наложение"
+
+#: framework/admin/customizer.php:829 framework/admin/customizer.php:1366
+msgid "Set particles custom lines color"
+msgstr "Задайте свой цвет линий частиц"
+
+#: framework/admin/customizer.php:828 framework/admin/customizer.php:1365
+msgid "Particles Lines Color"
+msgstr "Цвет линий частиц"
+
+#: framework/admin/customizer.php:813 framework/admin/customizer.php:1358
+msgid "Set particles custom circles color ?"
+msgstr "Задать свой цвет кругов частиц?"
+
+#: framework/admin/customizer.php:812 framework/admin/customizer.php:1357
+msgid "Particle Circles Color"
+msgstr "Цвет кругов частиц"
+
+#: framework/admin/customizer.php:804
+msgid "Enable particles?"
+msgstr "Включить частицы?"
+
+#: framework/admin/customizer.php:1344 framework/admin/customizer.php:1349
+msgid "Particles"
+msgstr "Частицы"
+
+#: framework/admin/customizer.php:2257
+msgid "Select posts loading animation."
+msgstr "Выберите анимацию загрузки записей."
+
+#: framework/admin/customizer.php:2256
+msgid "Posts Animation"
+msgstr "Анимация записей"
+
+#: framework/admin/customizer.php:2249
+msgid "Enable posts loading animation ?"
+msgstr "Включить анимацию загрузки записей?"
+
+#: framework/admin/customizer.php:2248
+msgid "Posts Animated"
+msgstr "Анимация записей"
+
+#: framework/admin/customizer.php:1846 framework/admin/customizer.php:1965
+#: framework/admin/customizer.php:2084 framework/admin/customizer.php:2203
+msgid "Box Animation"
+msgstr "Анимация бокса"
+
+#: framework/admin/customizer.php:1839
+msgid "Enable box loading animation."
+msgstr "Включить анимацию загрузки бокса."
+
+#: framework/admin/customizer.php:1838 framework/admin/customizer.php:1957
+#: framework/admin/customizer.php:2076 framework/admin/customizer.php:2195
+msgid "Box Animated"
+msgstr "Анимация бокса"
+
+#: framework/admin/customizer.php:404
+msgid "Additional CSS"
+msgstr "Дополнительные CSS"
+
+#: framework/admin/customizer.php:919
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: framework/admin/customizer.php:2440
+msgid "Enable post meta comments counter."
+msgstr "Включить счётчик комментариев записи."
+
+#: framework/admin/customizer.php:2439
+msgid "Post Meta Comments"
+msgstr "Мета Комментарии записи"
+
+#: framework/admin/customizer.php:2425
+msgid "Enable post category."
+msgstr "Включить категорию записи."
+
+#: framework/admin/customizer.php:2424
+msgid "Post Meta Category"
+msgstr "Мета Категория записи"
+
+#: framework/admin/customizer.php:2410
+msgid "Enable post publish date."
+msgstr "Включить дату публикации записи."
+
+#: framework/admin/customizer.php:2409
+msgid "Post Meta Date"
+msgstr "Мета Дата записи"
+
+#: framework/admin/customizer.php:2394
+msgid "Post Meta Author"
+msgstr "Мета Автор записи"
+
+#: framework/admin/customizer.php:2358
+msgid "Turn on to display featured images on single blog posts."
+msgstr "Включите для показа изображения записи на одиночной записи блога."
+
+#: framework/admin/customizer.php:2357
+msgid "Featured Image on Single Post"
+msgstr "Изображение записи на одиночной записи"
+
+#: framework/admin/customizer.php:2272
+msgid "Featured Image Permalink"
+msgstr "Постоянная ссылка изображения записи"
+
+#: framework/admin/customizer.php:2223
+msgid "Blog panel."
+msgstr "Панель блога."
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Выберите страницу"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:180
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Начальная буква"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Прописные"
+
+#: framework/admin/customizer.php:904
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:176
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Нет"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Трансформация текста"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Лимит: %s строк"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "строка"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:126
+#: framework/admin/customizer.php:2481
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: framework/admin/kirki/controls/php/class-kirki-control-dimension.php:41
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультражирный 900 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ультражирный 900"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Экстражирный 800 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Экстражирный 800"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Средний 500 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Нормальный 400 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Нормальный 400"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Книжный 300 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Книжный 300"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Лёгкий 200 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Лёгкий 200"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультралёгкий 100 наклонный"
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ультралёгкий 100"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Интервал"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Размер"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Вариант"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:59
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:408
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:413
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:132
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:419
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Сменить файл"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:419
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "По ширине"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "По центру"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: framework/admin/customizer.php:1024
+msgid "Navigations"
+msgstr "Навигация"
+
+#: framework/admin/customizer.php:978
+msgid "Select header borders color."
+msgstr "Выберите цвет границ заголовка."
+
+#: framework/admin/customizer.php:977
+msgid "Header Borders Color"
+msgstr "Цвет границ заголовка"
+
+#: framework/admin/customizer.php:949
+msgid "Work's only with header V1 & V3."
+msgstr "Работает только с заголовком v1 и v3."
+
+#: framework/admin/customizer.php:948
+msgid "Header Shrinked BG Color"
+msgstr "Цвет фона уменьшенного заголовка"
+
+#: framework/admin/customizer.php:920
+msgid "Doesn't work with header V1 style."
+msgstr "Не работает со стилем заголовка v1."
+
+#: framework/admin/modules/agama-upsell/class-customize.php:123
+msgid "Slide #10"
+msgstr "Слайд №10"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:122
+msgid "Slide #9"
+msgstr "Слайд №9"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:121
+msgid "Slide #8"
+msgstr "Слайд №8"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:120
+msgid "Slide #7"
+msgstr "Слайд №7"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:119
+msgid "Slide #6"
+msgstr "Слайд №6"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:118
+msgid "Slide #5"
+msgstr "Слайд №5"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:117
+msgid "Slide #4"
+msgstr "Слайд №4"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:116
+msgid "Slide #3"
+msgstr "Слайд №3"
+
+#: framework/admin/customizer.php:235
+msgid "Select body background color."
+msgstr "Выберите цвет фона основного текста."
+
+#: framework/admin/customizer.php:1730
+msgid "All Pages"
+msgstr "Все страницы"
+
+#: framework/admin/customizer.php:1723
+msgid "Select where you want front page boxes to be visible."
+msgstr "Выберите где вы хотите видеть боксы заглавной страницы."
+
+#: framework/admin/customizer.php:1336 framework/admin/customizer.php:1729
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: framework/admin/customizer.php:1330
+msgid "Select where the slider should be visible."
+msgstr "Выберите где слайдер будет видимым."
+
+#: framework/admin/customizer.php:1329 framework/admin/customizer.php:1722
+#: framework/admin/customizer.php:2563
+msgid "Visibility"
+msgstr "Видимость"
+
+#: framework/admin/customizer.php:1317
+msgid "Milliseconds between the end of the sliding effect and the start of the nex one. 1000ms = 1sec"
+msgstr "Миллисекунды между концом эффекта слайдера и началом следующего. 1000 мсек = 1 сек"
+
+#: framework/admin/customizer.php:1316
+msgid "Time"
+msgstr "Время"
+
+#: framework/admin/customizer.php:1303
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Высота"
+
+#: framework/admin/customizer.php:1264
+msgid "Enable slider ?"
+msgstr "Включить слайдер?"
+
+#: framework/admin/customizer.php:1263 framework/admin/customizer.php:1752
+#: framework/admin/customizer.php:1871 framework/admin/customizer.php:1990
+#: framework/admin/customizer.php:2109 framework/admin/customizer.php:2555
+msgid "Enable"
+msgstr "Включить"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:376
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Изображение не выбрано"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:62
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:386
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:418
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:443
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:133
+#: framework/admin/kirki/controls/views/image.php:37
+#: framework/admin/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Удалить"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:387
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Сменить изображение"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:387
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Добавить картинку"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Цвет"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Низ"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Верх"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Межсимвольный интервал"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Высота линии"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Семья шрифта"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:91
+msgid "Center Bottom"
+msgstr "По центру снизу"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:90
+msgid "Center Center"
+msgstr "По центру"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:89
+msgid "Center Top"
+msgstr "По центру сверху"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:88
+msgid "Right Bottom"
+msgstr "Справа снизу"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:87
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:86
+msgid "Right Top"
+msgstr "Справа сверху"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:85
+msgid "Left Bottom"
+msgstr "Слева снизу"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:84
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:83
+msgid "Left Top"
+msgstr "Слева сверху"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Фиксированный размер"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Содержит"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Обложка"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:139
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:181
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Повтор по вертикали"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Повтор по горизонтали"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Повторять всё"
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Без повтора"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:85
+msgid "Upgrade to Pro"
+msgstr "Обновить до PRO"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:172
+#: framework/admin/customizer.php:2609
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: framework/admin/customizer.php:335
+msgid "Static Front Page"
+msgstr "Статичная первая страница"
+
+#: framework/admin/customizer.php:1243
+msgid "Menus"
+msgstr "Меню"
+
+#: framework/admin/customizer.php:88
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: framework/admin/customizer.php:2639
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: framework/admin/customizer.php:2698
+msgid "Footer Area BG Color"
+msgstr "Цвет фона области подвала"
+
+#: framework/admin/customizer.php:2676
+msgid "Widget Area BG Color"
+msgstr "Цвет фона области виджета"
+
+#: framework/admin/customizer.php:279
+msgid "Set theme primary color."
+msgstr "Задайте основной цвет темы."
+
+#: framework/admin/customizer.php:278
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: framework/admin/customizer.php:267
+msgid "Select theme skin."
+msgstr "Выберите скин темы."
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:157
+#: framework/admin/customizer.php:101 framework/admin/customizer.php:914
+#: framework/admin/customizer.php:2671
+msgid "Styling"
+msgstr "Оформление"
+
+#: framework/admin/customizer.php:2324
+msgid "Button"
+msgstr "Кнопка"
+
+#: framework/admin/customizer.php:2323
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: framework/admin/customizer.php:2318
+msgid "Select infinite scroll trigger."
+msgstr "Выберите триггер бесконечной прокрутки."
+
+#: framework/admin/customizer.php:2317
+msgid "Infinite Trigger"
+msgstr "Бесконечный триггер"
+
+#: framework/admin/customizer.php:2302
+msgid "Enable about author section below single post content ?"
+msgstr "Включить раздел \"Об авторе\" ниже содержимого одиночной записи?"
+
+#: framework/admin/customizer.php:2294
+msgid "Enable read more url on blog excerpt ?"
+msgstr "Включить ссылку \"Читать больше\" на отрывках блога?"
+
+#: framework/admin/customizer.php:2281
+msgid "Set posts lenght on blog loop page."
+msgstr "Задайте длину записей на цикличной странице блога."
+
+#: framework/admin/customizer.php:2243
+msgid "Small Thumbs Layout"
+msgstr "Разметка в виде маленького списка"
+
+#: framework/admin/customizer.php:2242
+msgid "Grid Layout"
+msgstr "Разметка в виде сетки"
+
+#: framework/admin/customizer.php:2241
+msgid "List Layout"
+msgstr "Разметка в виде списка"
+
+#: framework/admin/customizer.php:2236
+msgid "Select blog layout."
+msgstr "Выберите разметку блога."
+
+#: framework/admin/customizer.php:1824 framework/admin/customizer.php:1943
+#: framework/admin/customizer.php:2062 framework/admin/customizer.php:2181
+msgid "Box Text"
+msgstr "Текст бокса"
+
+#: framework/admin/customizer.php:1789 framework/admin/customizer.php:1908
+#: framework/admin/customizer.php:2027 framework/admin/customizer.php:2146
+msgid "Select icon color."
+msgstr "Выберите цвет значка."
+
+#: framework/admin/customizer.php:1788 framework/admin/customizer.php:1907
+#: framework/admin/customizer.php:2026 framework/admin/customizer.php:2145
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: framework/admin/customizer.php:1701
+msgid "Front page boxes section."
+msgstr "Раздел боксов заглавной страницы."
+
+#: framework/admin/customizer.php:1662
+msgid "Select breadcrumb links color."
+msgstr "Выберите цвет ссылок навигационной цепочки."
+
+#: framework/admin/customizer.php:1661
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: framework/admin/customizer.php:1647
+msgid "Select breadcrumb font color."
+msgstr "Выберите цвет шрифта навигационной цепочки."
+
+#: framework/admin/customizer.php:1646
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: framework/admin/customizer.php:1632
+msgid "Select breadcrumb background color."
+msgstr "Выберите цвет фона навигационной цепочки."
+
+#: framework/admin/customizer.php:234 framework/admin/customizer.php:1631
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:48
+#: framework/widgets/widget-about.php:178
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: framework/admin/customizer.php:1620
+msgid "Select breadcrumb style."
+msgstr "Выберите стиль навигационной цепочки."
+
+#: framework/admin/customizer.php:1611
+msgid "Breadcrumb on Home Page"
+msgstr "Навигационная цепочка на домашней странице"
+
+#: framework/admin/customizer.php:1487
+msgid "Slide #2"
+msgstr "Слайд №2"
+
+#: framework/admin/customizer.php:1463 framework/admin/customizer.php:1574
+msgid "Select button background color."
+msgstr "Выберите цвет фона кнопки."
+
+#: framework/admin/customizer.php:1462 framework/admin/customizer.php:1573
+msgid "Button BG Color"
+msgstr "Цвет фона кнопки"
+
+#: framework/admin/customizer.php:1455 framework/admin/customizer.php:1566
+msgid "Set button url."
+msgstr "Задайте URL кнопки."
+
+#: framework/admin/customizer.php:1454 framework/admin/customizer.php:1565
+msgid "Button URL"
+msgstr "URL кнопки"
+
+#: framework/admin/customizer.php:1446 framework/admin/customizer.php:1557
+msgid "Select button slide animation."
+msgstr "Выберите анимацию кнопки слайда."
+
+#: framework/admin/customizer.php:1445 framework/admin/customizer.php:1556
+msgid "Button Animation"
+msgstr "Анимация кнопки"
+
+#: framework/admin/partial-refresh.php:130
+#: framework/admin/partial-refresh.php:148 framework/admin/customizer.php:1436
+#: framework/admin/customizer.php:1547
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: framework/admin/customizer.php:1431 framework/admin/customizer.php:1542
+msgid "Button Title"
+msgstr "Заголовок кнопки"
+
+#: framework/admin/customizer.php:1419 framework/admin/customizer.php:1530
+msgid "Set slider content top distance in %."
+msgstr "Задайте расстояние сверху содержимого слайдера в %."
+
+#: framework/admin/customizer.php:1418 framework/admin/customizer.php:1529
+msgid "Slider Content Top Distance"
+msgstr "Расстояние сверху содержимого слайдера"
+
+#: framework/admin/customizer.php:1411 framework/admin/customizer.php:1522
+msgid "Select slide title color."
+msgstr "Выберите цвет заголовка слайда."
+
+#: framework/admin/customizer.php:1410 framework/admin/customizer.php:1521
+#: framework/widgets/widget-about.php:170
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: framework/admin/customizer.php:1402 framework/admin/customizer.php:1513
+msgid "Select title slide animation."
+msgstr "Выберите анимацию заголовка слайда."
+
+#: framework/admin/customizer.php:1401 framework/admin/customizer.php:1512
+msgid "Title Animation"
+msgstr "Анимация заголовка"
+
+#: framework/admin/partial-refresh.php:121
+#: framework/admin/partial-refresh.php:139 framework/admin/customizer.php:1392
+#: framework/admin/customizer.php:1503
+msgid "Welcome to Agama"
+msgstr "Добро пожаловать в Agama"
+
+#: framework/admin/customizer.php:1387 framework/admin/customizer.php:1498
+#: framework/admin/customizer.php:1760 framework/admin/customizer.php:1879
+#: framework/admin/customizer.php:1998 framework/admin/customizer.php:2117
+msgid "Title"
+msgstr "Заголовок"
+
+#: framework/admin/customizer.php:1381 framework/admin/customizer.php:1492
+#: framework/admin/customizer.php:1810 framework/admin/customizer.php:1929
+#: framework/admin/customizer.php:2048 framework/admin/customizer.php:2167
+msgid "Image"
+msgstr "Изображение"
+
+#: framework/admin/customizer.php:1376
+msgid "Slide #1"
+msgstr "Слайд №1"
+
+#: framework/admin/customizer.php:1251
+msgid "Slider settings."
+msgstr "Настройки слайдера."
+
+#: framework/admin/customizer.php:799 framework/class-agama-core.php:243
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: framework/admin/customizer.php:576
+msgid "Top Border"
+msgstr "Верхняя граница"
+
+#: framework/admin/customizer.php:503
+msgid "Header V3"
+msgstr "Заголовок v3"
+
+#: framework/admin/customizer.php:502
+msgid "Header V2"
+msgstr "Заголовок v2"
+
+#: framework/admin/customizer.php:501
+msgid "Header V1"
+msgstr "Заголовок v1"
+
+#: framework/admin/customizer.php:456
+msgid "Select sidebar position."
+msgstr "Выберите положение области виджетов."
+
+#: framework/admin/customizer.php:432
+msgid "Boxed"
+msgstr "Фиксированная"
+
+#: framework/admin/customizer.php:431
+msgid "Full-Width"
+msgstr "Полная ширина"
+
+#: framework/admin/customizer.php:425
+msgid "Select layout style."
+msgstr "Выберите стиль разметки."
+
+#: framework/admin/customizer.php:373
+msgid "Enable browser nicescroll."
+msgstr "Включить красивую прокрутку в браузере."
+
+#: framework/admin/animate.php:87
+msgid "Roll Out"
+msgstr "Развертывание"
+
+#: framework/admin/animate.php:86
+msgid "Roll In"
+msgstr "Свёртывание"
+
+#: framework/admin/animate.php:85
+msgid "Hinge"
+msgstr "Петля"
+
+#: framework/admin/animate.php:84
+msgid "Zoom Out Up"
+msgstr "Уменьшение сверху"
+
+#: framework/admin/animate.php:83
+msgid "Zoom Out Right"
+msgstr "Уменьшение справа"
+
+#: framework/admin/animate.php:82
+msgid "Zoom Out Left"
+msgstr "Уменьшение слева"
+
+#: framework/admin/animate.php:81
+msgid "Zoom Out Down"
+msgstr "Уменьшение снизу"
+
+#: framework/admin/animate.php:80
+msgid "Zoom Out"
+msgstr "Уменьшение"
+
+#: framework/admin/animate.php:79
+msgid "Zoom In Up"
+msgstr "Увеличение сверху"
+
+#: framework/admin/animate.php:78
+msgid "Zoom In Right"
+msgstr "Увеличение справа"
+
+#: framework/admin/animate.php:77
+msgid "Zoom In Left"
+msgstr "Увеличение слева"
+
+#: framework/admin/animate.php:76
+msgid "Zoom In Down"
+msgstr "Увеличение снизу"
+
+#: framework/admin/animate.php:75
+msgid "Zoom In"
+msgstr "﻿Увеличение"
+
+#: framework/admin/animate.php:74
+msgid "Slide Out Right"
+msgstr "Выдвигание справа"
+
+#: framework/admin/animate.php:73
+msgid "Slide Out Left"
+msgstr "Выдвигание слева"
+
+#: framework/admin/animate.php:72
+msgid "Slide Out Down"
+msgstr "Выдвигание снизу"
+
+#: framework/admin/animate.php:71
+msgid "Slide Out Up"
+msgstr "Выдвигание сверху"
+
+#: framework/admin/animate.php:70
+msgid "Slide In Right"
+msgstr "Выдвигание справа"
+
+#: framework/admin/animate.php:69
+msgid "Slide In Left"
+msgstr "Выдвигание слева"
+
+#: framework/admin/animate.php:68
+msgid "Slide In Down"
+msgstr "Выдвигание снизу"
+
+#: framework/admin/animate.php:67
+msgid "Slide In Up"
+msgstr "Сдвигание вверх"
+
+#: framework/admin/animate.php:66
+msgid "Rotate Out Up Right"
+msgstr "Вращение наружу вверх-вправо"
+
+#: framework/admin/animate.php:65
+msgid "Rotate Out Up Left"
+msgstr "Вращение наружу вверх-влево"
+
+#: framework/admin/animate.php:64
+msgid "Rotate Out Down Right"
+msgstr "Вращение наружу вниз-вправо"
+
+#: framework/admin/animate.php:63
+msgid "Rotate Out Down Left"
+msgstr "Вращение наружу вниз-влево"
+
+#: framework/admin/animate.php:62
+msgid "Rotate Out"
+msgstr "Вращение наружу"
+
+#: framework/admin/animate.php:61
+msgid "Rotate In Up Right"
+msgstr "Вращение внутрь вверх-вправо"
+
+#: framework/admin/animate.php:60
+msgid "Rotate In Up Left"
+msgstr "Вращение внутрь вверх-влево"
+
+#: framework/admin/animate.php:59
+msgid "Rotate In Down Right"
+msgstr "Вращение внутрь вниз-вправо"
+
+#: framework/admin/animate.php:58
+msgid "Rotate In Down Left"
+msgstr "Вращение внутрь вниз-влево"
+
+#: framework/admin/animate.php:57
+msgid "Rotate In"
+msgstr "Вращение внутрь"
+
+#: framework/admin/animate.php:56
+msgid "Light Speed Out"
+msgstr "Light Speed Out"
+
+#: framework/admin/animate.php:55
+msgid "Light Speed In"
+msgstr "Light Speed In"
+
+#: framework/admin/animate.php:54
+msgid "Flip Out Y"
+msgstr "Flip Out Y"
+
+#: framework/admin/animate.php:53
+msgid "Flip Out X"
+msgstr "Flip Out X"
+
+#: framework/admin/animate.php:52
+msgid "Flip In Y"
+msgstr "Flip In Y"
+
+#: framework/admin/animate.php:51
+msgid "Flip In X"
+msgstr "Flip In X"
+
+#: framework/admin/animate.php:50
+msgid "Flip"
+msgstr "Отражение"
+
+#: framework/admin/animate.php:49
+msgid "Fade Out Up Big"
+msgstr "Исчезание сверху (большое)"
+
+#: framework/admin/animate.php:48
+msgid "Fade Out Up"
+msgstr "Исчезание сверху"
+
+#: framework/admin/animate.php:47
+msgid "Fade Out Right Big"
+msgstr "Исчезание справа (большое)"
+
+#: framework/admin/animate.php:46
+msgid "Fade Out Right"
+msgstr "Исчезание справа"
+
+#: framework/admin/animate.php:45
+msgid "Fade Out Left Big"
+msgstr "Исчезание слева (большое)"
+
+#: framework/admin/animate.php:44
+msgid "Fade Out Left"
+msgstr "Исчезание слева"
+
+#: framework/admin/animate.php:43
+msgid "Fade Out Down Big"
+msgstr "Исчезание снизу (большое)"
+
+#: framework/admin/animate.php:42
+msgid "Fade Out Down"
+msgstr "Исчезание снизу"
+
+#: framework/admin/animate.php:41
+msgid "Fade Out"
+msgstr "Исчезание"
+
+#: framework/admin/animate.php:40
+msgid "Fade In Up Big"
+msgstr "Появление сверху (большое)"
+
+#: framework/admin/animate.php:39
+msgid "Fade In Up"
+msgstr "Появление сверху"
+
+#: framework/admin/animate.php:38
+msgid "Fade In Right Big"
+msgstr "Появление справа (большое)"
+
+#: framework/admin/animate.php:37
+msgid "Fade In Right"
+msgstr "Появление справа"
+
+#: framework/admin/animate.php:36
+msgid "Fade In Left Big"
+msgstr "Появление слева (большое)"
+
+#: framework/admin/animate.php:35
+msgid "Fade In Left"
+msgstr "Появление слева"
+
+#: framework/admin/animate.php:34
+msgid "Fade In Down Big"
+msgstr "Появление снизу (большое)"
+
+#: framework/admin/animate.php:33
+msgid "Fade In Down"
+msgstr "Появление снизу"
+
+#: framework/admin/animate.php:32
+msgid "Fade In"
+msgstr "Постепенное появление"
+
+#: framework/admin/animate.php:31
+msgid "Bounce Out Up"
+msgstr "Выброс вверх"
+
+#: framework/admin/animate.php:30
+msgid "Bounce Out Right"
+msgstr "Выброс вправо"
+
+#: framework/admin/animate.php:29
+msgid "Bounce Out Left"
+msgstr "Выброс влево"
+
+#: framework/admin/animate.php:28
+msgid "Bounce Out Down"
+msgstr "Выброс вниз"
+
+#: framework/admin/animate.php:27
+msgid "Bounce Out"
+msgstr "Выброс"
+
+#: framework/admin/animate.php:26
+msgid "Bounce In Up"
+msgstr "Возврат вверх"
+
+#: framework/admin/animate.php:25
+msgid "Bounce In Right"
+msgstr "Возврат вправо"
+
+#: framework/admin/animate.php:24
+msgid "Bounce In Left"
+msgstr "Возврат влево"
+
+#: framework/admin/animate.php:23
+msgid "Bounce In Down"
+msgstr "Возврат вниз"
+
+#: framework/admin/animate.php:22
+msgid "Bounce In"
+msgstr "Возврат"
+
+#: framework/admin/animate.php:21
+msgid "Jello"
+msgstr "Желе"
+
+#: framework/admin/animate.php:20
+msgid "Wobble"
+msgstr "Колебание"
+
+#: framework/admin/animate.php:19
+msgid "Tada"
+msgstr "Tada"
+
+#: framework/admin/animate.php:18
+msgid "Swing"
+msgstr "Качение"
+
+#: framework/admin/animate.php:17
+msgid "Shake"
+msgstr "Встряска"
+
+#: framework/admin/animate.php:16
+msgid "Rubber Band"
+msgstr "Круглая резинка"
+
+#: framework/admin/animate.php:15
+msgid "Pulse"
+msgstr "Пульс"
+
+#: framework/admin/animate.php:14
+msgid "Flash"
+msgstr "Вспышка"
+
+#: framework/admin/animate.php:13
+msgid "Bounce"
+msgstr "Прыжок"
+
+#: framework/admin/customizer.php:1817 framework/admin/customizer.php:1936
+#: framework/admin/customizer.php:2055 framework/admin/customizer.php:2174
+msgid "Box Icon / Image URL"
+msgstr "Значок бокса / URL изображения"
+
+#: framework/admin/customizer.php:2699
+msgid "Set footer area background color."
+msgstr "Задать цвет фона области подвала."
+
+#: framework/admin/customizer.php:2677
+msgid "Set footer widget area background color."
+msgstr "Задать цвет фона виджета подвала."
+
+#: framework/class-agama-breadcrumb.php:63
+msgid "Home"
+msgstr "Домой"
+
+#: framework/class-agama-breadcrumb.php:137
+#: framework/class-agama-breadcrumb.php:138
+msgid "Shop"
+msgstr "Магазин"
+
+#: framework/class-agama-breadcrumb.php:174
+msgid "Page not Found"
+msgstr "Страница не найдена"
+
+#: framework/class-agama-breadcrumb.php:113
+msgid "Tag"
+msgstr "Метка"
+
+#: framework/class-agama-breadcrumb.php:157
+#: framework/class-agama-breadcrumb.php:158
+msgid "Yearly Archives"
+msgstr "Архивы за год"
+
+#: framework/class-agama-breadcrumb.php:154
+#: framework/class-agama-breadcrumb.php:155
+msgid "Monthly Archives"
+msgstr "Архивы за месяц"
+
+#: framework/class-agama-breadcrumb.php:151
+#: framework/class-agama-breadcrumb.php:152
+msgid "Daily Archives"
+msgstr "Архивы за день"
+
+#: framework/admin/customizer.php:2309
+msgid "Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+#: framework/admin/customizer.php:2301
+msgid "About Author"
+msgstr "Об авторе"
+
+#: framework/admin/customizer.php:2280
+msgid "Excerpt"
+msgstr "Фрагмент"
+
+#: framework/admin/customizer.php:2381 framework/admin/customizer.php:2386
+msgid "Post Meta"
+msgstr "Метаданные записи"
+
+#: framework/admin/customizer.php:2103
+msgid "Front Page Box #4"
+msgstr "Бокс заглавной страницы №4"
+
+#: framework/admin/customizer.php:1984
+msgid "Front Page Box #3"
+msgstr "Бокс заглавной страницы №3"
+
+#: framework/admin/customizer.php:1865
+msgid "Front Page Box #2"
+msgstr "Бокс заглавной страницы №2"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:141
+msgid "Front Page Box #8"
+msgstr "Бокс заглавной страницы №8"
+
+#: framework/admin/customizer.php:1626
+msgid "Normal"
+msgstr "Обычный"
+
+#: framework/admin/customizer.php:1625
+msgid "Mini"
+msgstr "Маленький"
+
+#: framework/admin/customizer.php:1619
+msgid "Breadcrumb Style"
+msgstr "Стиль навигационной цепочки"
+
+#: framework/admin/customizer.php:1612
+msgid "Enable breadcrumb on home page ?"
+msgstr "Включить навигационную цепочку на домашней странице?"
+
+#: framework/admin/customizer.php:1604
+msgid "Enable breadcrumb ?"
+msgstr "Включить навигационную цепочку?"
+
+#: framework/admin/modules/agama-upsell/class-customize.php:156
+#: framework/admin/customizer.php:94 framework/admin/customizer.php:198
+#: framework/admin/customizer.php:419 framework/admin/customizer.php:490
+#: framework/admin/customizer.php:1258 framework/admin/customizer.php:1708
+#: framework/admin/customizer.php:2230 framework/admin/customizer.php:2620
+msgid "General"
+msgstr "Основные"
+
+#: framework/admin/customizer/builder/class-agama-page-builder.php:101
+msgid "Contact"
+msgstr "Контакт"
+
+#: framework/admin/customizer.php:2387
+msgid "Enable blog post meta."
+msgstr "Включить метаданные записи блога."
+
+#: framework/admin/customizer.php:1598 framework/admin/customizer.php:1603
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: framework/admin/customizer.php:1811 framework/admin/customizer.php:1930
+#: framework/admin/customizer.php:2049 framework/admin/customizer.php:2168
+msgid "You can use image instead of FontAwesome icon, just upload it here."
+msgstr "Вы можете использовать изображение вместо значка шрифта Awesome, просто загрузив ее здесь."
+
+#: framework/class-agama-helper.php:111
+msgid "Load More"
+msgstr "Загрузить еще"
+
+#: framework/agama-functions.php:273
+msgid "author"
+msgstr "автор"
+
+#: framework/admin/customizer.php:495
+msgid "Header Style"
+msgstr "Стиль заголовка"
+
+#: framework/class-agama-frontpage-boxes.php:35
+#: framework/admin/customizer.php:1700 framework/admin/customizer.php:1740
+msgid "Front Page Boxes"
+msgstr "Боксы заглавной страницы"
+
+#: framework/blog/list.php:52 single.php:73
+msgid "<i class=\"fa fa-edit\"></i> Edit"
+msgstr "<i class=\"fa fa-edit\"></i> Редактировать"
+
+#: framework/admin/customizer.php:2293 framework/class-agama-filters.php:208
+msgid "Read More"
+msgstr "Читать далее"
+
+#: framework/admin/customizer.php:462 framework/admin/customizer.php:860
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:157
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Справа"
+
+#: framework/class-agama-filters.php:317
+msgid "Log out?"
+msgstr "Выйти?"
+
+#: framework/class-agama-filters.php:322
+msgid "You may use these"
+msgstr "Вы можете использовать эти"
+
+#: framework/class-agama-filters.php:322
+msgid "tags and attributes"
+msgstr "теги и атрибуты"
+
+#: framework/admin/customizer.php:455
+msgid "Sidebar Position"
+msgstr "Положение бокового меню"
+
+#: framework/admin/customizer.php:461 framework/admin/customizer.php:859
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:145
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Слева"
+
+#: framework/class-agama-filters.php:317
+msgid "Log out of this account"
+msgstr "Выход из этого аккаунта"
+
+#: framework/class-agama-filters.php:317
+msgid "Logged in as"
+msgstr "Вы вошли как "
+
+#: framework/class-agama-filters.php:298
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: framework/admin/customizer.php:2510 framework/admin/customizer.php:2587
+#: framework/class-agama-filters.php:297
+msgid "Email"
+msgstr "Электронная почта"
+
+#: framework/class-agama-filters.php:296
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:42
+msgid "<span>%1$s</span> Comment"
+msgid_plural "<span>%1$s</span> Comments"
+msgstr[0] "<span>%1$s</span> Комментарий "
+msgstr[1] "<span>%1$s</span> Комментарий"
+msgstr[2] "<span>%1$s</span> Комментарий"
+
+#: framework/class-agama-filters.php:325
+msgid "Leave a"
+msgstr "Оставить"
+
+#: framework/class-agama-filters.php:318 framework/class-agama-filters.php:325
+msgid "Comment"
+msgstr "комментарий"
+
+#: framework/admin/customizer.php:424
+msgid "Layout Style"
+msgstr "Стиль разметки"
+
+#: framework/admin/customizer.php:496
+msgid "Select header style."
+msgstr "Выбрать стиль заголовка."
+
+#: framework/admin/customizer.php:412 framework/admin/customizer.php:2235
+msgid "Layout"
+msgstr "Разметка"
+
+#: framework/admin/customizer.php:138
+msgid "Typography"
+msgstr "Типографика"
+
+#: tag.php:28
+msgid "Tag Archives: %s"
+msgstr "Метка архивов: %s"
+
+#: framework/class-agama.php:294
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: framework/class-agama.php:293
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:52
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но нет совпадений с вашим поисковым запросом. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: searchform.php:10
+msgctxt "screen-reader"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: framework/class-agama-breadcrumb.php:125
+#: framework/class-agama-breadcrumb.php:126 searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: index.php:41
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните отсюда</a>."
+
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для %s"
+
+#: framework/agama-actions.php:328 framework/class-agama.php:277
+msgid " comments"
+msgstr " комментариев"
+
+#: index.php:37
+msgid "No posts to display"
+msgstr "Нет записей для отображения"
+
+#: framework/agama-functions.php:335
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Эта запись была опубликована %3$s<span class=\"by-author\"> %4$s</span>."
+
+#: framework/agama-functions.php:333
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Эта запись была опубликована в %1$s на %3$s<span class=\"by-author\"> %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: framework/agama-functions.php:331
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Эта запись была опубликована в %1$s и помечена %2$s на %3$s<span class=\"by-author\"> %4$s</span>."
+
+#: framework/agama-functions.php:325
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: framework/agama-functions.php:311 framework/agama-functions.php:314
+msgid ", "
+msgstr ", "
+
+#: framework/agama-functions.php:289
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#. translators: 1: date, 2: time
+#: framework/agama-functions.php:279
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: framework/agama-functions.php:250
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: framework/agama-functions.php:250
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: framework/agama-functions.php:225
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: framework/agama-functions.php:224
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: framework/agama-functions.php:223 framework/class-agama.php:292
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: framework/class-agama-core.php:215
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: framework/class-agama-core.php:216
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: image.php:45
+msgid "Next &rarr;"
+msgstr "Далее &rarr;"
+
+#: image.php:44
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+#: framework/widgets/widgets.php:65
+msgid "Footer Widget 3"
+msgstr "Виджет 3 нижней части"
+
+#: image.php:29
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубликовано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> с разрешением <a href=\"%3$s\" title=\"Ссылка на полноразмерное изображение\">%4$s &times; %5$s</a> в галерее <a href=\"%6$s\" title=\"Вернуться: %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: framework/widgets/widgets.php:75
+msgid "Footer Widget 4"
+msgstr "Виджет 4 нижней части"
+
+#: framework/widgets/widgets.php:37
+msgid "Appears on posts and pages."
+msgstr "Появляется на записях и страницах."
+
+#: framework/widgets/widgets.php:47 framework/widgets/widgets.php:57
+#: framework/widgets/widgets.php:67 framework/widgets/widgets.php:77
+msgid "Appears on footer area."
+msgstr "Появляется в нижней части."
+
+#: framework/widgets/widgets.php:45
+msgid "Footer Widget 1"
+msgstr "Виджет 1 нижней части"
+
+#: framework/widgets/widgets.php:55
+msgid "Footer Widget 2"
+msgstr "Виджет 2 нижней части"
+
+#: framework/admin/customizer.php:381
+msgid "Enable back to top button."
+msgstr "Включить кнопку \"Наверх\"."
+
+#: framework/widgets/widgets.php:35
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+#: framework/admin/customizer.php:380
+msgid "Back to Top"
+msgstr "Вернуться наверх"
+
+#: framework/admin/customizer.php:2310
+msgid "Enable infinite scroll ?"
+msgstr "Включить бесконечную прокрутку?"
+
+#: framework/admin/customizer.php:2602
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: framework/admin/customizer.php:2616
+msgid "Footer"
+msgstr "Подвал"
+
+#: framework/class-agama-breadcrumb.php:65 framework/admin/customizer.php:2222
+msgid "Blog"
+msgstr "Блог"
+
+#: framework/admin/customizer.php:1250
+msgid "Slider"
+msgstr "Слайдер"
+
+#: framework/admin/customizer.php:2626
+msgid "Enable social icons in footer right area."
+msgstr "Включить значки соцсетей в нижней части справа."
+
+#: framework/admin/customizer.php:2467 framework/admin/customizer.php:2473
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: framework/admin/customizer.php:273
+msgid "Dark"
+msgstr "Тёмный"
+
+#: framework/admin/customizer.php:266
+msgid "Skin"
+msgstr "Скин"
+
+#: framework/admin/customizer.php:272
+msgid "Light"
+msgstr "Светлый"
+
+#: framework/admin/customizer.php:508
+msgid "Enable Top Navigation"
+msgstr "Включить верхнюю навигацию"
+
+#: framework/admin/customizer.php:548
+msgid "Top Margin"
+msgstr "Верхнее поле"
+
+#: framework/admin/customizer.php:620
+msgid "Logo"
+msgstr "Логотип"
+
+#: framework/admin/customizer.php:372
+msgid "Nicescroll"
+msgstr "Красивая прокрутка"
+
+#: framework/admin/customizer.php:483
+msgid "Header"
+msgstr "Заголовок"
+
+#: framework/admin/class-menu.php:78 framework/admin/class-menu.php:79
+msgid "About Agama"
+msgstr "Об Agama"
+
+#: framework/class-agama.php:326
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Посмотреть все записи автора %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: framework/blog/grid.php:40 framework/blog/list.php:31 single.php:41
+msgid "Featured post"
+msgstr "Избранная запись"
+
+#: index.php:52
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Извините, результатов не найдено. Попробуйте найти нужную запись с помощью поиска."
+
+#: search.php:48 index.php:48
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-page.php:38 framework/blog/grid.php:51 image.php:40
+msgid "Edit"
+msgstr "Редактировать"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:53
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: content-page.php:32 framework/blog/grid.php:47 framework/blog/list.php:47
+#: single.php:66 image.php:105 bbpress.php:27
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: author.php:63 author.php:108 framework/class-agama.php:322
+msgid "About %s"
+msgstr "Об авторе %s"
+
+#: framework/class-agama-breadcrumb.php:160
+#: framework/class-agama-breadcrumb.php:161
+msgid "Archives"
+msgstr "Архивы"
+
+#: framework/class-agama-breadcrumb.php:157
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: framework/class-agama-breadcrumb.php:154
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: 404.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную страницу найти не удалось. Возможно будет полезен поиск по сайту."
+
+#: 404.php:27
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Это несколько неловко, не правда ли?"
+
+#. Author of the theme
+msgid "Theme Vision"
+msgstr "Theme Vision"
+
+#. Theme URI of the theme
+msgid "http://theme-vision.com/agama/"
+msgstr "http://theme-vision.com/agama/"
+
+#. Author URI of the theme
+msgid "http://theme-vision.com/"
+msgstr "http://theme-vision.com/"

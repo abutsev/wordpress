@@ -1,0 +1,158 @@
+/*
+Theme Name: Bistro
+Theme URI: http://athemes.com/theme/bistro
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Description: Bistro is a child theme for Sydney that helps you build a great website for your restaurant. Built-in support is provided for the Restaurant plugin so you can easily create your menus.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bistro
+Tags: light, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-colors, custom-background, custom-header, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+
+/* General menu */
+.menu-entry {
+	margin-bottom: 15px;
+}
+.menu-item-title {
+	margin: 15px 0 0;
+}
+.menu-price {
+	line-height: 1;
+}
+.widget_menu-type-a .panel-widget-style,
+.widget_menu-type-b .panel-widget-style {
+	overflow: hidden;
+}
+/* Menu type A widget */
+.type-a-inner {
+	position: relative;
+}
+.menu-item-title {
+	text-align: center;
+	font-weight: 400;
+	font-size: 18px;
+}
+.menu-item-title a {
+	color: #443f3f;
+}
+.menu-type-a .menu-price {
+	display: table;
+	margin: 15px auto 0;
+	text-align: center;
+	padding: 5px;
+	border-bottom: 1px solid;
+}
+.widget_menu-type-a .menu-type-a:nth-of-type(4n+1) {
+	clear: left;
+}
+
+/* Menu type B widget */
+.menu-type-b .menu-item-title {
+	text-align: left;
+	margin: 0;
+}
+.menu-type-b .col-md-9 {
+	padding: 0;
+}
+.menu-type-b .menu-thumb {
+	padding-left: 0;
+}
+.menu-type-b .menu-price {
+	display: table;
+	padding-top: 5px;
+	border-top: 1px solid;
+	margin-top: 10px;
+}
+.widget_menu-type-b .menu-type-b:nth-of-type(3n+1) {
+	clear: left;
+}
+
+/* Single menu item */
+.single-restaurant_item .content-wrapper {
+	width: 640px;
+	max-width: 100%;
+}
+.single-restaurant_item .title-post,
+.post-type-archive-restaurant_item .title-post,
+.tax-restaurant_tag .title-post{
+	text-align: center;
+}
+.single-restaurant_item .menu-price,
+.post-type-archive-restaurant_item .menu-price,
+.tax-restaurant_tag .menu-price {
+	display: table;
+	margin: 0 auto;
+	text-align: center;
+	padding: 5px;
+	border-top: 1px solid;
+}
+
+/* Restaurant archives */
+.post-type-archive-restaurant_item .archive-title,
+.tax-restaurant_tag .archive-title {
+	text-align: center;
+}
+.post-type-archive-restaurant_item .content-area .hentry:after,
+.tax-restaurant_tag .content-area .hentry:after {
+	width: 0;
+	height: 0;
+}
+.post-type-archive-restaurant_item .hentry:nth-of-type(3n+1),
+.tax-restaurant_tag .hentry:nth-of-type(3n+1) {
+	clear: left;
+}
+.post-type-archive-restaurant_item .entry-header,
+.tax-restaurant_tag .entry-header {
+	margin-bottom: 15px;
+}
+
+/* Page builder */
+.no-col-padding .panel-grid-cell {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+/* Responsive */
+@media only screen and (max-width: 991px) {
+	.widget_menu-type-a .menu-type-a:nth-of-type(4n+1),
+	.widget_menu-type-b .menu-type-b:nth-of-type(3n+1) {
+		clear: none;
+	}
+	.widget_menu-type-a .menu-type-a:nth-of-type(3n+1),
+	.widget_menu-type-b .menu-type-b:nth-of-type(2n+1) {
+		clear: left;
+	}	
+
+}
+
+@media only screen and (max-width: 767px) {
+	.post-type-archive-restaurant_item .hentry:nth-of-type(3n+1),
+	.tax-restaurant_tag .hentry:nth-of-type(3n+1),
+	.widget_menu-type-a .menu-type-a:nth-of-type(3n+1) {
+		clear: none;
+	}
+	.post-type-archive-restaurant_item .hentry:nth-of-type(2n+1),
+	.tax-restaurant_tag .hentry:nth-of-type(2n+1),
+	.widget_menu-type-a .menu-type-a:nth-of-type(2n+1) {
+		clear: left;
+	}	
+}
+@media only screen and (max-width: 540px) {
+	.post-type-archive-restaurant_item .hentry,
+	.tax-restaurant_tag .hentry {
+		width: 100%;
+		padding: 0;
+	}
+}
+@media only screen and (max-width: 400px) {
+	.widget_menu-type-a .menu-type-a {
+		width: 100%;
+		padding: 0;
+	}
+}

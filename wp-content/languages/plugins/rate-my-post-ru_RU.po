@@ -1,0 +1,1194 @@
+# Translation of Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-21 11:53:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release)\n"
+
+#: admin/class-rate-my-post-admin.php:128
+msgid "Invalid vote count or average rating!"
+msgstr "Неверное количество оценок или средний рейтинг!"
+
+#: admin/class-rate-my-post-admin.php:118
+#: admin/class-rate-my-post-admin.php:170
+#: admin/class-rate-my-post-admin.php:209
+#: admin/class-rate-my-post-admin.php:247
+#: admin/class-rate-my-post-admin.php:301
+#: admin/class-rate-my-post-admin.php:343
+#: admin/class-rate-my-post-admin.php:397
+#: admin/class-rate-my-post-admin.php:437
+#: admin/class-rate-my-post-admin.php:488
+#: admin/class-rate-my-post-admin.php:528
+#: admin/class-rate-my-post-admin.php:599
+#: admin/class-rate-my-post-admin.php:645
+msgid "You do not have adequate permissions for this action!"
+msgstr "У вас нет разрешения на совершение этого действия."
+
+#: admin/class-rate-my-post-admin.php:94 admin/class-rate-my-post-admin.php:160
+#: admin/class-rate-my-post-admin.php:332
+#: admin/class-rate-my-post-admin.php:426
+#: admin/class-rate-my-post-admin.php:517
+msgid "Successfully Saved!"
+msgstr "Успешно сохранено"
+
+#: admin/templates/menu-options.php:266
+msgid "For more information about structured data and rich snippets see the %sdocumentation%s"
+msgstr "Больше информации о структурированных данных или расширенных сниппетах в %sdocumentation%s"
+
+#: admin/templates/menu-options.php:249
+msgid "Without structured data"
+msgstr "Без структурированных данных"
+
+#: admin/templates/menu-options.php:223
+msgid "Adds a minimalistic rating and results widget on AMP pages. Check the %sdocumentation%s before enabling"
+msgstr "Добавляет минималистичный виджет рейтинга и результатов на AMP-страницах. Проверьте %sdocumentation%s перед включением"
+
+#: admin/templates/menu-options.php:139
+msgid "Automatically adds result widget to all your pages, before the content."
+msgstr "Автоматически добавлять виджет результатов на все страницы, перед содержимым."
+
+#: admin/templates/menu-options.php:124
+msgid "Automatically adds result widget to all your posts, before the content."
+msgstr "Автоматически добавлять виджет результатов ко всем записям, перед содержимым."
+
+#: admin/templates/menu-options.php:106
+msgid "Automatically adds rating widget to all your pages, after the content."
+msgstr "Автоматически добавлять виджет результатов на все страницы, после содержимого."
+
+#: admin/templates/menu-options.php:91
+msgid "Automatically adds rating widget to all your posts, after the content."
+msgstr "Автоматически добавлять виджет результатов ко всем записям, после содержимого."
+
+#: admin/templates/meta-box.php:90
+msgid "Rating ID to which the feedback is associated. You can find details about the action in the analytics section."
+msgstr "Идентификатор рейтинга, с которым связана обратная связь. Подробные сведения об этом действии можно найти в разделе Аналитика."
+
+#: admin/templates/meta-box.php:67
+msgid "Average rating will be rounded to the nearest mathematically valid average rating!"
+msgstr "Средний рейтинг округляется до ближайшего среднего рейтинга по математическим правилам!"
+
+#: admin/templates/meta-box.php:61
+msgid "Reset Rating"
+msgstr "Сбросить рейтинг"
+
+#: admin/templates/menu-migration.php:26
+msgid "The plugin allows you to easily migrate ratings from the following plugins: %s. More rating plugins will be supported in the future. You can submit requests on the %ssupport forum%s."
+msgstr "Плагин позволяет легко переносить рейтинги из следующих плагинов: %s. в будущем будет поддерживаться больше рейтинговых плагинов. Вы можете задать вопрос на форуме %ssupport%s."
+
+#: admin/templates/pro-version.php:54
+msgid "Read More"
+msgstr "Подробнее"
+
+#: admin/templates/pro-version.php:49
+msgid "Premium support and more..."
+msgstr "Премиальная поддержка и другое..."
+
+#: admin/templates/pro-version.php:46
+msgid "Read-only ratings with structured data for reviews (review rating)."
+msgstr "Рейтинги только для чтения структурированных данных для обзоров (обзор рейтинг)."
+
+#: admin/templates/pro-version.php:43
+msgid "Shortcode generator."
+msgstr "Генератор шоткодов."
+
+#: admin/templates/pro-version.php:40
+msgid "Add rating widgets to archives, taxonomies etc."
+msgstr "Добавить виджеты рейтинга на страницы архивов, таксономии и т. д."
+
+#: admin/templates/pro-version.php:37
+msgid "Each custom widget is completely customizable, including structured data for rich snippets."
+msgstr "Каждый пользовательский виджет полностью настраивается, включая структурированные данные для расширенных сниппетов."
+
+#: admin/templates/pro-version.php:34
+msgid "Create custom rating widgets which work independently of posts. "
+msgstr "Создайте пользовательские виджеты рейтинга, которые работают независимо от записей."
+
+#: admin/templates/pro-version.php:31
+msgid "Add structured data for rich snippets with not only the required fields but also the optional fields."
+msgstr "Добавить структурированные данные для расширенных сниппетов с не только обязательными, но и необязательными полями."
+
+#: admin/templates/pro-version.php:27
+msgid "Rate my Post Pro is under development and will include the following features:"
+msgstr "Rate my Post Pro находится в стадии разработки и будет включать в себя следующие функции:"
+
+#: admin/templates/pro-version.php:22
+msgid "Rate my Post Pro"
+msgstr "Rate my Post Pro"
+
+#: admin/templates/menu-security.php:118
+msgid "The plugin supports Google reCAPTCHA v3 which verifies if an interaction is legitimate without any user interaction. You will need reCAPTCHA v3 site key and secret key to use this option. The service is free of charge. You can create keys on the %sGoogle reCAPTCHA website%s - choose the reCAPTCHA v3 type. ReCaptcha library adds a badge to your website with terms of use and privacy policy. You can hide it with custom css %s. However, note that you have to include a link to the terms of use and privacy policy according to the reCAPTCHA v3 Terms of Use."
+msgstr "Плагин поддерживает Google reCAPTCHA v3, который проверяет, кто выполняет действие (человек или робот) без какого-либо взаимодействия с пользователем. Вам понадобится reCAPTCHA v3 Site key и Secret key, чтобы использовать эту опцию. Услуга предоставляется бесплатно. Вы можете создать ключи на веб-сайте %sGoogle reCAPTCHA%s - выберите тип reCAPTCHA v3. Библиотека ReCaptcha добавляет значок на ваш сайт с условиями использования и политикой конфиденциальности. Вы можете скрыть его с помощью пользовательского CSS %s. Однако обратите внимание, что вы должны включить ссылку на Условия использования и Политику конфиденциальности в соответствии с условиями использования reCAPTCHA v3."
+
+#: admin/templates/menu-customize.php:356
+#: admin/templates/menu-customize.php:369
+#: admin/templates/menu-customize.php:382
+#: admin/templates/menu-customize.php:397
+#: admin/templates/menu-customize.php:410
+#: admin/templates/menu-customize.php:423
+#: admin/templates/menu-customize.php:438
+#: admin/templates/menu-customize.php:451
+#: admin/templates/menu-customize.php:464
+#: admin/templates/menu-customize.php:486
+#: admin/templates/menu-customize.php:499
+#: admin/templates/menu-customize.php:512
+#: admin/templates/menu-customize.php:527
+#: admin/templates/menu-customize.php:540
+#: admin/templates/menu-customize.php:553
+#: admin/templates/menu-customize.php:575
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/templates/menu-customize.php:39 admin/templates/menu-customize.php:54
+msgid "Leave empty to disable"
+msgstr "Оставьте пустым, чтобы выключить"
+
+#: admin/templates/analytics.php:68
+msgid "Shows time spent on page before the rating was submitted."
+msgstr "Показывает время, проведенное на странице до отправки рейтинга."
+
+#: admin/templates/analytics.php:57 admin/templates/meta-box.php:100
+msgid "Shows username if visitor was logged in and tracking is enabled in the security options."
+msgstr "Показывает имя пользователя, если посетитель вошел в систему и отслеживание включено в параметрах безопасности."
+
+#: admin/templates/analytics.php:47
+msgid "Shows IP address if enabled in the security options."
+msgstr "Показывает IP-адрес, если он включен в параметрах безопасности."
+
+#: admin/templates/menu-about.php:27
+msgid "Hi there,%s Thank you for installing Rate my Post plugin. If you like the plugin please rate it %shere%s - it will take you 5 minutes (less if you are already registered on WordPress) and it means a lot to me since I made this plugin completely for free. If you encounter problems with the plugin, let me know in the %ssupport forum%s. I hope you will enjoy the plugin. %s %s Best regards,%s %s - the developer of Rate my Post plugin"
+msgstr "Привет, %s! Спасибо за установку плагина Rate my Post. Если вам понравился плагин, пожалуйста, оцените его %shere%s - это займет у вас 5 минут (меньше, если вы уже зарегистрированы на WordPress), и это очень много значит для меня, так как я сделал этот плагин совершенно бесплатно. Если у вас возникнут проблемы с плагином, дайте мне знать в форуме %ssupport forum%s. Надеюсь, что вам понравится плагин. %s %s С наилучшими пожеланиями,%s %s - разработчик плагина Rate my Post"
+
+#: admin/templates/menu-alerts.php:54
+msgid "reCaptcha is not configured correctly. Make sure you have inserted secret and site key in the security options"
+msgstr "reCaptcha не настроена правильно. Убедитесь, что вы вставили Secret key и Site key в параметры безопасности"
+
+#: admin/templates/menu.php:42
+msgid "Pro Version"
+msgstr "Версия PRO"
+
+#: public/class-rate-my-post-public.php:1088
+msgid "No rating submitted!"
+msgstr "Рейтинг не представлен!"
+
+#: admin/class-rate-my-post-admin.php:123
+#: admin/class-rate-my-post-admin.php:175
+#: admin/class-rate-my-post-admin.php:213
+#: admin/class-rate-my-post-admin.php:252
+#: admin/class-rate-my-post-admin.php:348
+#: admin/class-rate-my-post-admin.php:402
+#: admin/class-rate-my-post-admin.php:442
+#: admin/class-rate-my-post-admin.php:493
+#: admin/class-rate-my-post-admin.php:533
+#: admin/class-rate-my-post-admin.php:604
+#: admin/class-rate-my-post-admin.php:650
+#: public/class-rate-my-post-public.php:1062
+msgid "Invalid nonce!"
+msgstr "Неправильный nonce."
+
+#: public/class-rate-my-post-public.php:912
+#: public/class-rate-my-post-public.php:916
+msgid "Invalid Token"
+msgstr "Токен недействителен"
+
+#: public/class-rate-my-post-public.php:198
+#: public/class-rate-my-post-public.php:1084
+msgid "You cannot rate a web page without an id!"
+msgstr "Вы не можете оценить веб-страницу без идентификатора!"
+
+#. Description of the plugin
+msgid "Allows you to easily add rating functionality to your WordPress website."
+msgstr "Позволяет легко добавить функциональность рейтинга на ваш сайт WordPress."
+
+#. Plugin Name of the plugin
+msgid "Rate my Post - WP Rating System"
+msgstr "Rate my Post - система оценки для WordPress"
+
+#: public/class-rate-my-post-public.php:617
+msgid "Feedback on"
+msgstr "Отзыв на"
+
+#: public/class-rate-my-post-public.php:616
+msgid "Somebody left feedback on"
+msgstr "Кто-то оставил отзыв на"
+
+#: public/class-rate-my-post-public.php:587
+msgid "See the post: "
+msgstr "Смотрите запись:"
+
+#: public/class-rate-my-post-public.php:585
+msgid "based on"
+msgstr "на основе"
+
+#: public/class-rate-my-post-public.php:584
+msgid "and now has an average rating of"
+msgstr "и теперь средний рейтинг"
+
+#: public/class-rate-my-post-public.php:583
+msgid "was rated"
+msgstr "оценено"
+
+#: public/class-rate-my-post-public.php:581
+msgid "Somebody rated"
+msgstr "Кто-то оценил"
+
+#: admin/templates/menu-alerts.php:46
+msgid "We detected a caching system. It is recommended that you enable Ajax Load in the advanced settings for better user experience."
+msgstr "Мы обнаружили систему кеширования. Рекомендуется включить загрузку Ajax в расширенных настройках для лучшего взаимодействия с пользователем."
+
+#: admin/templates/menu-options.php:579
+msgid "If you are utilizing page caching, enable this option. Not required if you use WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket or SG Optimizer"
+msgstr "Если вы кешируете страницы, включите эту опцию. Не требуется, если вы используете W3 Total Cache, WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket или SG Optimizer"
+
+#: admin/templates/menu-options.php:576
+msgid "AJAX load results"
+msgstr "Результаты AJAX-загрузки"
+
+#: admin/templates/menu-options.php:190
+msgid "Vote has to be confirmed by clicking the rate button"
+msgstr "Голосование должно быть подтверждено нажатием кнопки"
+
+#: admin/templates/menu-about.php:47
+msgid "Become a supporter and ensure further development of the plugin!"
+msgstr "Станьте сторонником и помогите развитию плагина!"
+
+#: admin/templates/menu-about.php:44
+msgid "Donate"
+msgstr "Пожертвование"
+
+#: admin/templates/menu-about.php:38
+msgid "Please do read the documentation before posting in the support forum."
+msgstr "Перед тем как задать вопрос, рекомендуем прочитать документацию."
+
+#: admin/templates/menu-about.php:35
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/templates/menu-about.php:32
+msgid "My Website"
+msgstr "Мой сайт"
+
+#: admin/class-rate-my-post-admin.php:286
+msgid "Stats"
+msgstr "Статистика"
+
+#. Author URI of the plugin
+msgid "https://blazzdev.com"
+msgstr "https://blazzdev.com"
+
+#: admin/class-rate-my-post-admin.php:288
+msgid "Analytics"
+msgstr "Анализ"
+
+#: admin/templates/menu-security.php:75 admin/templates/menu-security.php:90
+#: admin/templates/menu-security.php:105
+msgid "Yes"
+msgstr "Да"
+
+#: admin/templates/menu-security.php:72 admin/templates/menu-security.php:87
+#: admin/templates/menu-security.php:102
+msgid "No"
+msgstr "Нет"
+
+#: admin/templates/menu-security.php:54
+msgid "Logged in users"
+msgstr "Авторизованные пользователи"
+
+#: admin/templates/menu-security.php:51
+msgid "Everybody"
+msgstr "Все"
+
+#: admin/templates/menu-security.php:39
+msgid "Admin"
+msgstr "Администратор"
+
+#: admin/templates/menu-security.php:36
+msgid "Editor"
+msgstr "Редактор"
+
+#: admin/templates/menu-security.php:33
+msgid "Author"
+msgstr "Автор"
+
+#: admin/templates/menu-options.php:246
+msgid "Type of structured data for rich snippets"
+msgstr "Тип структурированных данных для расширенных сниппетов"
+
+#: admin/templates/menu-options.php:67
+msgid "Right"
+msgstr "Справа"
+
+#: admin/templates/menu-options.php:64
+msgid "Left"
+msgstr "Слева"
+
+#: admin/templates/menu-options.php:61
+msgid "Center"
+msgstr "По центру"
+
+#: admin/templates/menu-options.php:48
+msgid "Trophies"
+msgstr "Награды"
+
+#: admin/templates/menu-options.php:45
+msgid "Smileys"
+msgstr "Смайлики"
+
+#: admin/templates/menu-options.php:42
+msgid "Hearts"
+msgstr "Сердца"
+
+#: admin/templates/menu-options.php:39
+msgid "Thumbs"
+msgstr "Пальцы"
+
+#: public/class-rate-my-post-public.php:989
+msgid "You need to be logged in to rate!"
+msgstr "Авторизуйтесь, чтобы поставить оценку"
+
+#: public/class-rate-my-post-public.php:970
+msgid "Blocked by reCAPTCHA"
+msgstr "Заблокировано reCAPTCHA"
+
+#: public/class-rate-my-post-public.php:965
+msgid "Wrong reCAPTCHA keys"
+msgstr "Неверный ключ reCAPTCHA"
+
+#: admin/templates/menu-security.php:94
+msgid "Prevent double votes by checking via IP if user already rated that post. This feature will only work if \"Track IP addresses\" is also enabled and is by default disabled for admins"
+msgstr "Предотвратить повторные оценки с одного IP, если пользователь уже оценил запись. Эта настройка работает только если включена опция \"Отслеживать IP\" и по умолчанию отключена для администраторов"
+
+#: admin/templates/menu-security.php:83
+msgid "Prevent double votes via IP"
+msgstr "Предотвратить повторные оценки по IP"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+msgid "Try clearing all caches, especially your browser cache!"
+msgstr "Попробуйте очистить кеши, в частности кеш браузера!"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+msgid "Settings Partially Saved. Unable to save: "
+msgstr "Настройки частично сохранены. Не удается сохранить:"
+
+#: admin/class-rate-my-post-admin.php:820
+msgid "Not logged in"
+msgstr "Не авторизован"
+
+#: admin/class-rate-my-post-admin.php:810
+#: admin/class-rate-my-post-admin.php:825
+msgid "Tracking Disabled"
+msgstr "Отслеживание выключено"
+
+#: admin/templates/menu-alerts.php:38
+msgid "Rate my Post requires WordPress version 4.7.0 or higher. Please update your WordPress"
+msgstr "Для корректной работы плагина Rate my Post необходима версия WordPress не ниже 4.7.0. Пожалуйста, обновите WordPress"
+
+#: admin/templates/menu.php:39
+msgid "About"
+msgstr "О плагине"
+
+#: admin/templates/menu-security.php:109
+msgid "This feature enables you to see who rated your posts and left you feedback!"
+msgstr "Показывать, кто оценил записи и оставил отзыв!"
+
+#: admin/templates/menu-security.php:98
+msgid "Track users"
+msgstr "Отслеживать пользователей"
+
+#: admin/templates/menu-security.php:79
+msgid "Track IP addresses of users who rate your posts or leave you feedback! This feature is NOT COMPLIANT WITH GDPR!"
+msgstr "Отслеживать IP пользователь, которые поставили оценку или оставили отзыв! Эта возможность не совместима с политикой GDPR!"
+
+#: admin/templates/menu-security.php:68
+msgid "Track IP addresses"
+msgstr "Отслеживать IP"
+
+#: admin/templates/menu-security.php:64
+msgid "Tracking"
+msgstr "Отслеживание"
+
+#: admin/templates/analytics.php:79
+msgid "Rated"
+msgstr "Оцененные"
+
+#: admin/templates/analytics.php:76
+msgid "Total Votes"
+msgstr "Всего оценок"
+
+#: admin/templates/analytics.php:65
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: admin/templates/analytics.php:61
+msgid "Post"
+msgstr "Запись"
+
+#: admin/templates/analytics.php:54 admin/templates/meta-box.php:97
+msgid "User"
+msgstr "Пользователь"
+
+#: admin/templates/analytics.php:44
+msgid "IP"
+msgstr "IP"
+
+#: admin/templates/analytics.php:39 admin/templates/meta-box.php:82
+msgid "Time"
+msgstr "Время"
+
+#: admin/templates/analytics.php:36 admin/templates/meta-box.php:87
+msgid "ID"
+msgstr "ID"
+
+#: admin/templates/analytics.php:29
+msgid "Here you can see the details about the last 100 votes on your website."
+msgstr "Здесь отображаются подробности о последних 100 оценках на вашем сайте."
+
+#: admin/templates/analytics.php:26
+msgid "Rate my Post Analytics"
+msgstr "Аналитика Rate my Post"
+
+#: widgets/rate-my-post-top-rated-widget.php:101
+msgid "Minimum votes required:"
+msgstr "Минимальное количество обязательных оценок:"
+
+#: admin/templates/meta-box.php:108 admin/templates/meta-box.php:131
+msgid "Delete"
+msgstr "Удалить"
+
+#: widgets/rate-my-post-top-rated-widget.php:112
+msgid "Show star rating"
+msgstr "Показывать рейтинг звездами"
+
+#: widgets/rate-my-post-top-rated-widget.php:107
+msgid "Show featured image"
+msgstr "Показать избранное изображение"
+
+#: widgets/rate-my-post-top-rated-widget.php:96
+msgid "Minimum average rating required:"
+msgstr "Минимальная обязательная средняя оценка:"
+
+#: widgets/rate-my-post-top-rated-widget.php:91
+msgid "Number of posts to show:"
+msgstr "Количество записей для отображения:"
+
+#: widgets/rate-my-post-top-rated-widget.php:86
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: widgets/rate-my-post-top-rated-widget.php:19
+msgid "Displays top rated posts from Rate my Post plugin."
+msgstr "Показывать лучшие записи плагина Rate my Post."
+
+#: admin/templates/menu-options.php:71
+msgid "You can align the widget left, right or center"
+msgstr "Вы можете выровнять виджет влево, вправо или по центру."
+
+#: admin/templates/menu-options.php:57
+msgid "Rating widget alignment"
+msgstr "Положение виджета оценки"
+
+#: admin/templates/menu-security.php:58
+msgid "Select who can rate your posts. By default every visitor can rate posts."
+msgstr "Выберите, кто может оценить ваши записи. По умолчанию любой посетитель может поставить оценку."
+
+#: admin/templates/menu-security.php:47
+msgid "Who can rate posts"
+msgstr "Кто может оценивать записи"
+
+#: admin/templates/menu-options.php:539
+msgid "Ratings will be shown on archive pages (categories, tags, author pages etc.) next to the title"
+msgstr "Результаты оценки будут показаны на страницах архивов (категорий, тегов, страниц авторов и т. д.) после заголовка"
+
+#: admin/templates/menu-options.php:536
+msgid "Show ratings on archive pages"
+msgstr "Показывать результаты оценок на архивных страницах"
+
+#: admin/templates/menu-options.php:522
+msgid "Archive Pages"
+msgstr "Страницы архивов"
+
+#: admin/templates/menu-options.php:376
+msgid "Enable this option if you want to show social share links instead of social follow links. Supported networks: Facebook, Pinterest, Twitter and Reddit"
+msgstr "Включите эту опцию, если хотите показать ссылки \"Поделиться\" в социальных сетях вместо ссылок \"Присоединиться\": Facebook, Pinterest, Twitter и Reddit"
+
+#: admin/templates/menu-options.php:373
+msgid "Show social share links"
+msgstr "Показывать ссылки \"Поделиться\" в соцсетях"
+
+#: admin/class-rate-my-post-admin.php:681
+msgid "No existing ratings found! Nothing to migrate!"
+msgstr "Нет существующих оценок! Нечего переносить!"
+
+#: admin/class-rate-my-post-admin.php:679
+msgid "Migration successful! Number of posts affected"
+msgstr "Перенос успешно завершен! Количество затронутых записей"
+
+#: admin/class-rate-my-post-admin.php:669
+msgid "No rating plugin found! Migration is not possible!"
+msgstr "Плагинов оценки не найдено! Перенос невозможен!"
+
+#: admin/templates/menu.php:33
+msgid "Security"
+msgstr "Безопасность"
+
+#: admin/templates/menu-security.php:170 admin/templates/menu-security.php:177
+msgid "Save Security Options"
+msgstr "Сохранить настройки безопасности"
+
+#: admin/templates/menu-security.php:163
+msgid "Automatically verifies if interactions are legitimate. Unlike the reCAPTCHA v2, it does not require any interaction from the visitor"
+msgstr "Автоматически проверяет, принадлежат ли действия пользователям. В отличие от reCAPTCHA V2, версия 3 не требует взаимодействия с посетителем"
+
+#: admin/templates/menu-security.php:160
+msgid "Enable reCAPTCHA v3"
+msgstr "Включить reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:146
+msgid "Insert Google reCAPTCHA v3 secret key"
+msgstr "Вставьте секретный ключ (Secret Key) Google reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:136
+msgid "reCAPTCHA v3 Secret Key"
+msgstr "Секретный ключ (Secret Key) reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:132
+msgid "Insert Google reCAPTCHA v3 site key"
+msgstr "Вставьте ключ сайта (Site Key) Google reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:122
+msgid "reCAPTCHA v3 Site Key"
+msgstr "Ключ сайта (Site Key) reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:115
+msgid "Spam Protection - Google reCAPTCHA v3"
+msgstr "Защита от спама - Google reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:43
+msgid "Select which role is required to manipulate ratings in the backend. Authors can only manipulate ratings of their own posts."
+msgstr "Выберите, какие роли необходима, чтобы изменять оценки в административной части сайта. Авторы могут изменять только свои оценки записей."
+
+#: admin/templates/menu-security.php:29
+msgid "Ratings manipulation requires role of"
+msgstr "Для изменения оценки необходима роль"
+
+#: admin/templates/menu-security.php:25
+msgid "Privileges"
+msgstr "Преимущества"
+
+#: admin/templates/menu-migration.php:43
+msgid "Start Migration"
+msgstr "Начать перенос"
+
+#: admin/templates/menu-migration.php:40
+msgid "Note: If you already used Rate my Post plugin, the Rate my Post ratings will be overwritten during the migration!"
+msgstr "Заметьте: если ранее вы пользовались плагином Rate my Post, оценки будут перезаписаны в течение переноса!"
+
+#: admin/templates/menu-migration.php:50
+msgid "No rating plugin found. Migration is not possible."
+msgstr "Плагинов оценки не найдено. Перенос невозможен."
+
+#: admin/templates/menu-migration.php:31
+msgid "Detected Rating Plugin"
+msgstr "Обнаружен плагин оценки"
+
+#: admin/templates/menu-migration.php:22
+msgid "Migration Tools"
+msgstr "Инструмент переноса"
+
+#: public/templates/amp-rating-widget.php:133
+msgid "There was an error rating this post!"
+msgstr "При оценке записи возникла ошибка!"
+
+#: public/templates/amp-rating-widget.php:115
+msgid "Processing your rating..."
+msgstr "Обработка оценки..."
+
+#: admin/templates/menu-options.php:220
+msgid "AMP compatibility mode (BETA)"
+msgstr "Режим AMP-совместимости (бета)"
+
+#: common/class-rate-my-post-settings.php:147
+#: public/class-rate-my-post-public.php:1547
+msgid "Submit Rating"
+msgstr "Отправить оценку"
+
+#: admin/templates/meta-box.php:139
+msgid "Delete Feedback"
+msgstr "Удалить отзыв"
+
+#: admin/templates/menu-options.php:597
+msgid "If enabled all plugin data (settings, customization, vote count, rating and feedback) will be deleted when you uninstall the plugin"
+msgstr "Если включить, все данные плагина (настройки, кастомизация, количество и результаты оценок, отзывы) будут утрачены, когда вы удалите плагин"
+
+#: admin/templates/menu-options.php:594
+msgid "Delete all plugin data on uninstall"
+msgstr "Стереть все данные при удалении плагина"
+
+#: admin/templates/menu-options.php:498
+msgid "Add result widget automatically to custom post types"
+msgstr "Добавить виджет с результатами автоматически на пользовательские типы записей"
+
+#: admin/templates/menu-options.php:487 admin/templates/menu-options.php:508
+msgid "Insert comma separated post types. Registered custom post types"
+msgstr "Введите типы записей через запятую. Зарегистрированные пользовательские типы записей"
+
+#: admin/templates/menu-options.php:476
+msgid "Add rating widget automatically to custom post types"
+msgstr "Добавлять виджет рейтинга автоматически к пользовательским типам записей"
+
+#: admin/templates/menu-options.php:472
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: admin/templates/menu-options.php:187
+msgid "Prevent accidental votes"
+msgstr "Предотвращать случайные оценки"
+
+#: admin/templates/menu-customize.php:189
+msgid "Submit rating button text"
+msgstr "Текст на кнопке отправки отзыва"
+
+#: admin/class-rate-my-post-admin.php:200
+msgid "Feedback successfully deleted!"
+msgstr "Отзыв успешно удален!"
+
+#: common/class-rate-my-post-settings.php:135
+#: public/class-rate-my-post-public.php:1101
+#: public/class-rate-my-post-public.php:1546
+msgid "Please insert your feedback in the box above!"
+msgstr "Напишите отзыв"
+
+#: common/class-rate-my-post-settings.php:113
+#: public/class-rate-my-post-public.php:1530
+msgid "Vote count:"
+msgstr "Количество оценок:"
+
+#: admin/templates/menu-options.php:565
+msgid "If your website is available in multiple languages enable this option. You will not be able to customize strings in the customize section. Instead customize strings through your plugin for translations"
+msgstr "Если ваш сайт доступен на нескольких языках, включите эту опцию. Вы не сможете изменять текст в разделе \"Кастомизация\". Вместо пользовательского текста будут работать файлы перевода"
+
+#: admin/templates/menu-options.php:562
+msgid "Multilingual website compatibility mode"
+msgstr "Режим совместимости с многоязычным сайтом"
+
+#: admin/templates/menu-options.php:548
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: admin/templates/menu-options.php:361
+msgid "Encourage users to follow you on social media. Insert links to your social media profiles below. The social widget will be shown in case of a positive rating"
+msgstr "Поощряйте пользователей следить за вами в социальных сетях. Вставьте ссылки на профили в социальных сетях ниже. Социальный виджет будет показан в случае положительного рейтинга"
+
+#: admin/templates/menu-options.php:319
+msgid "Encourage users to help you improve your posts. Only you can see the feedback. The feedback widget will be shown in case of a negative rating"
+msgstr "Поощряйте пользователей помогать улучшать записи. Только вы можете увидеть обратную связь. Виджет обратной связи будет отображаться в случае отрицательного рейтинга"
+
+#: admin/templates/menu-options.php:172
+msgid "When a visitor hovers over a star, a descriptive rating will be shown under the stars"
+msgstr "Когда пользователь наведет курсор над звездой, под ней появится описание"
+
+#: admin/templates/menu-options.php:169
+msgid "Show star hover texts"
+msgstr "Показывать подсказки при наведении на звезды"
+
+#: admin/templates/menu-customize.php:210
+msgid "Replace the generic vote count and average rating text under the stars. Use {{votecount}} for number of votes and {{avgrating}} for average rating. Leave empty for default. This feature does not work in the multilingual website compatibility mode."
+msgstr "Заменяет общее количество оценок и текст средней оценки под звездами. Используйте {{votecount}} для количества оценок и {{avgrating}} для среднего рейтинга. Оставьте пустым по умолчанию. Эта функция не работает в режиме многоязычной совместимости веб-сайтов."
+
+#: admin/templates/menu-alerts.php:30
+msgid "You need to be logged in as administrator to save settings for Rate my Post plugin"
+msgstr "Войдите под учетной записью администратора, чтобы сохранить настройки для плагина Rate my Post."
+
+#: admin/templates/menu-customize.php:550
+msgid "Icon Margin"
+msgstr "Отступ иконки"
+
+#: admin/templates/menu-customize.php:461
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: admin/templates/menu-customize.php:448
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: admin/templates/menu-customize.php:435
+msgid "Border Radius"
+msgstr "Радиус рамки"
+
+#: admin/templates/menu-customize.php:420
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: admin/templates/menu-customize.php:201
+msgid "Custom results text"
+msgstr "Произвольный текст реузльтатов"
+
+#: admin/templates/menu-options.php:358
+msgid "Show social widget if rating is positive"
+msgstr "Показывать виджет соцсетей для положительных оценок"
+
+#: admin/templates/menu-options.php:344
+msgid "Social Widget Settings"
+msgstr "Настройки виджета соцсетей"
+
+#: admin/templates/menu-options.php:334
+msgid "You will get an email whenever somebody leaves you private feedback"
+msgstr "Вы получите письмо когда кто-нибудь оставит частый отзыв"
+
+#: admin/templates/menu-options.php:331
+msgid "Send me email whenever feedback is left"
+msgstr "Присылать эл. письмо о новых отзывах"
+
+#: admin/templates/menu-options.php:316
+msgid "Show feedback widget if rating is negative"
+msgstr "Показывать виджет обратной связи при негативной оценке"
+
+#: admin/templates/menu-options.php:302
+msgid "Feedback Widget Settings"
+msgstr "Настройка виджета обратной связи"
+
+#: admin/templates/menu-options.php:295
+msgid "Define what is a negative rating to use the feedback and social widget."
+msgstr "Определите, что какую оценку считать негативной, чтобы использовать обратную связь и социальный виджет."
+
+#: admin/templates/menu-options.php:285
+msgid "If post or page is rated X/5 stars or less, consider rating negative. X="
+msgstr "Если оценка записи или страницы равна или меньше X, считать оценку негативной. X = "
+
+#: admin/templates/menu-options.php:270
+msgid "Exclude rating and result widget from"
+msgstr "Исключить рейтинг и виджет результатов из"
+
+#: admin/templates/menu-options.php:238
+msgid "Enable only while you are cutomizing the plugin"
+msgstr "Включается только на время настройки плагина"
+
+#: admin/templates/menu-options.php:235
+msgid "Delete cookie on page load"
+msgstr "Удалить файлы cookie при загрузке страницы"
+
+#: admin/templates/menu-options.php:205
+msgid "Removes average rating and vote count information under the rating widget"
+msgstr "Удаляет информацию о среднем рейтинге и количестве оценок под виджетом рейтинга"
+
+#: admin/templates/menu-options.php:202
+msgid "Do not show average rating"
+msgstr "Не показывать средний рейтинг"
+
+#: admin/templates/menu-options.php:157
+msgid "You will get an email whenever somebody rates your post or page"
+msgstr "Вы получите письмо, когда кто-нибудь оценит запись или страницу"
+
+#: admin/templates/menu-options.php:154
+msgid "Send me email whenever post gets rated"
+msgstr "Присылать письмо, когда запись получила оценку"
+
+#: admin/templates/menu-options.php:136
+msgid "Add result widget to all pages"
+msgstr "Добавлять виджет результатов на все страницы"
+
+#: admin/templates/menu-options.php:121
+msgid "Add result widget to all posts"
+msgstr "Добавлять виджет результатов ко всем записям"
+
+#: admin/templates/menu-options.php:103
+msgid "Add rating widget to all pages"
+msgstr "Добавлять виджет рейтинга на все страницы"
+
+#: admin/templates/menu-options.php:88
+msgid "Add rating widget to all posts"
+msgstr "Добавлять виджет рейтинга ко всем записям"
+
+#: admin/templates/menu-options.php:52
+msgid "Rate my Post supports the following icons: Stars, thumbs and hearts"
+msgstr "Rate my Post поддерживает иконки: Звезды, Пальцы вверх и Сердца"
+
+#: admin/templates/menu-options.php:32
+msgid "Type of rating widget"
+msgstr "Тип виджета рейтинга"
+
+#: admin/templates/menu-options.php:24
+msgid "Rating Widget Settings"
+msgstr "Настройки виджета рейтинга"
+
+#: admin/templates/menu-customize.php:589
+msgid "Note: If you are using a cache plugin, clear page cache after saving customization options."
+msgstr "Заметка: если вы используете плагин кеширования, очистить кеш после сохранения настроек."
+
+#: admin/templates/menu-customize.php:565
+msgid "Style - Social Widget"
+msgstr "Оформление - Виджет соцсетей"
+
+#: admin/templates/menu-customize.php:537
+msgid "Highlight Color"
+msgstr "Цвет подсветки"
+
+#: admin/templates/menu-customize.php:524
+msgid "Rated Color"
+msgstr "Цвет оценки"
+
+#: admin/templates/menu-customize.php:509
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: admin/templates/menu-customize.php:496
+msgid "Results Color"
+msgstr "Цвет результатов"
+
+#: admin/templates/menu-customize.php:483
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: admin/templates/menu-customize.php:346
+msgid "Insert hexadecimal colors - for example, #ff0000 for red. You can use"
+msgstr "Вставляйте цвет в формате #ff0000 (красный). Можно использовать"
+
+#: admin/templates/menu-customize.php:476
+msgid "Style - Rating Widget"
+msgstr "Оформление - Виджет рейтинга"
+
+#: admin/templates/menu-customize.php:339
+msgid "Style - Global"
+msgstr "Оформление - Глобальное"
+
+#: admin/templates/menu-customize.php:343
+msgid "Leave empty for default style."
+msgstr "Оставьте пустым для стиля по умолчанию."
+
+#: admin/templates/menu-customize.php:321
+msgid "Text if feedback is empty"
+msgstr "Текст, если отзыв пустой"
+
+#: admin/templates/menu-about.php:22
+msgid "About Plugin"
+msgstr "О плагине"
+
+#: admin/templates/stats.php:26
+msgid "Displaying only rated posts and pages! To see feedback or change ratings click on a post/page title below and find the Rate my Post meta box at the bottom."
+msgstr "Отображаются только оцененные записи и страницы! Чтобы увидеть отзыв или изменить оценку, нажмите на заголовок записи или страницы и найдите ниже блок Rate my Post"
+
+#: admin/templates/menu-customize.php:597
+msgid "Reset Customization Options"
+msgstr "Сбросить настройки кастомизации"
+
+#: admin/templates/menu-customize.php:593
+#: admin/templates/menu-customize.php:604
+msgid "Save Customization Options"
+msgstr "Сохранить настройки кастомизации"
+
+#: admin/templates/menu-customize.php:407
+msgid "Subtitle Bottom Margin"
+msgstr "Нижний отступ от подзаголовка"
+
+#: admin/templates/menu-customize.php:394
+msgid "Title Bottom Margin"
+msgstr "Нижний отступ от заголовка"
+
+#: admin/templates/menu-customize.php:572
+msgid "Social Icon Size"
+msgstr "Размер иконок соцсетей"
+
+#: admin/templates/menu-customize.php:379
+msgid "Text Font Size"
+msgstr "Размер текста"
+
+#: admin/templates/menu-customize.php:366
+msgid "Subtitle Font Size"
+msgstr "Размер подзаголовка"
+
+#: admin/templates/menu-customize.php:353
+msgid "Title Font Size"
+msgstr "Размер заголовка"
+
+#: admin/templates/menu-customize.php:309
+msgid "Feedback button text"
+msgstr "Текст кнопки отправки отзыва"
+
+#: admin/templates/menu-customize.php:295
+msgid "Text after sending feedback"
+msgstr "Текст после отправки отзыва"
+
+#: admin/templates/menu-customize.php:283
+msgid "Text"
+msgstr "Текст"
+
+#: admin/templates/menu-customize.php:253
+msgid "Strings - Feedback Widget"
+msgstr "Настройки - Виджет обратной связи"
+
+#: admin/templates/menu-customize.php:219
+msgid "Strings - Social Widget"
+msgstr "Подписи - Виджет обратной связи"
+
+#: admin/templates/menu-customize.php:177
+msgid "Five stars hover text"
+msgstr "Текст подсказки для пятой звезды"
+
+#: admin/templates/menu-customize.php:167
+msgid "Four stars hover text"
+msgstr "Текст подсказки для четвертой звезды"
+
+#: admin/templates/menu-customize.php:155
+msgid "Three stars hover text"
+msgstr "Текст подсказки для третьей звезды"
+
+#: admin/templates/menu-customize.php:145
+msgid "Two stars hover text"
+msgstr "Текст подсказки для второй звезды"
+
+#: admin/templates/menu-customize.php:132
+msgid "One star hover text"
+msgstr "Текст подсказки для первой звезды"
+
+#: admin/templates/menu-customize.php:120
+msgid "Text after vote"
+msgstr "Текст после отправки оценки"
+
+#: admin/templates/menu-customize.php:106
+msgid "Result text if no votes"
+msgstr "Текст если не было оценок"
+
+#: admin/templates/menu-customize.php:94
+msgid "Text if somebody tries to vote twice"
+msgstr "Текст, если кто-нибудь пытается оценивать дважды"
+
+#: admin/templates/menu-customize.php:80
+msgid "Result text - vote count"
+msgstr "Текст результата - количество оценок"
+
+#: admin/templates/menu-customize.php:68
+msgid "Result text - average rating"
+msgstr "Текст результата - средний рейтинг"
+
+#: admin/templates/menu-customize.php:51 admin/templates/menu-customize.php:237
+#: admin/templates/menu-customize.php:270
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: admin/templates/menu-customize.php:29
+msgid "Strings - Rating Widget"
+msgstr "Подписи - Виджет рейтинга"
+
+#: admin/templates/menu-customize.php:24
+msgid "Tip: First enable delete cookie on page load in settings. Add shortcode [ratemypost] to one of your posts and open it in the preview mode. Then custmize this plugin to your liking - after saving settings reload the post in the preview mode to see the changes you have made. After testing you can reset the ratings in meta box in edit post."
+msgstr "Подсказка: сначала включите опцию Удалить cookie при загрузке страницы в настройках. Добавьте шоткод [ratemypost] в один из ваших записей и откройте его в режиме предварительного просмотра. Затем настройте плагин по своему вкусу - после сохранения настроек перезагрузите запись в режиме предварительного просмотра, чтобы увидеть внесенные изменения. После тестирования можно сбросить рейтинги в метаполе в редактировании записи."
+
+#: admin/templates/menu-options.php:612
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: admin/templates/menu-options.php:457
+msgid "Your Linkedin Page URL"
+msgstr "Linkedin URL"
+
+#: admin/templates/menu-options.php:445
+msgid "Your Twitter Page URL"
+msgstr "Twitter URL"
+
+#: admin/templates/menu-options.php:435
+msgid "Your Instagram Page URL"
+msgstr "Instagram URL"
+
+#: admin/templates/menu-options.php:383
+msgid "If you do not want an icon to be displayed, leave the field below empty!"
+msgstr "Если вы не хотите, чтобы иконки отображались, оставьте поле ниже пустым!"
+
+#: admin/templates/menu-options.php:281
+msgid "Read more"
+msgstr "Подробнее"
+
+#: admin/templates/menu-options.php:280
+msgid "Insert comma separated post/page IDs"
+msgstr "Введите ID записей или страниц через запятую"
+
+#: admin/templates/menu.php:30
+msgid "Customize"
+msgstr "Кастомизация"
+
+#: admin/templates/meta-box.php:57
+msgid "Update Rating"
+msgstr "Обновить рейтинг"
+
+#: admin/class-rate-my-post-admin.php:389
+#: admin/class-rate-my-post-admin.php:480
+msgid "Settings Reset Done"
+msgstr "Настройки сброшены"
+
+#: admin/class-rate-my-post-admin.php:59
+msgid "Are your sure you want to reset the settings?"
+msgstr "Уверены, что хотите сбросить настройки?"
+
+#. Author of the plugin
+msgid "Blaz K."
+msgstr "Blaz K."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/rate-my-post/"
+msgstr "https://ru.wordpress.org/plugins/rate-my-post/"
+
+#: admin/templates/stats.php:33
+msgid "Votes"
+msgstr "Оценки"
+
+#: admin/templates/stats.php:32 admin/templates/menu-customize.php:36
+#: admin/templates/menu-customize.php:225
+#: admin/templates/menu-customize.php:259
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/templates/stats.php:22
+msgid "Rate my Post Stats"
+msgstr "Статистика Rate my Post"
+
+#: admin/templates/menu-options.php:608 admin/templates/menu-options.php:619
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: admin/templates/menu-options.php:423
+msgid "Your Flickr Page URL"
+msgstr "Flickr URL"
+
+#: admin/templates/menu-options.php:413
+msgid "Your Youtube Page URL"
+msgstr "Youtube URL"
+
+#: admin/templates/menu-options.php:401
+msgid "Your Pinterest Page URL"
+msgstr "Pinterest URL"
+
+#: admin/templates/menu-options.php:390
+msgid "Your Facebook Page URL"
+msgstr "Facebook URL"
+
+#: admin/templates/menu-options.php:36
+msgid "Stars"
+msgstr "Звезды"
+
+#: admin/class-rate-my-post-admin.php:284 admin/templates/menu.php:27
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/templates/stats.php:35 admin/templates/meta-box.php:75
+#: admin/templates/meta-box.php:105
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: admin/templates/analytics.php:73 admin/templates/stats.php:34
+#: admin/templates/meta-box.php:45
+msgid "Average Rating"
+msgstr "Средняя оценка"
+
+#: admin/templates/meta-box.php:31
+msgid "Number of Votes"
+msgstr "Количество оценок"
+
+#: common/class-rate-my-post-settings.php:127
+#: public/class-rate-my-post-public.php:1544
+msgid "Thanks for your feedback!"
+msgstr "Спасибо за отзыв!"
+
+#: common/class-rate-my-post-settings.php:128
+#: public/class-rate-my-post-public.php:1545
+msgid "Submit Feedback"
+msgstr "Отправить отзыв"
+
+#: common/class-rate-my-post-settings.php:126
+#: public/class-rate-my-post-public.php:1543
+msgid "Tell us how we can improve this post?"
+msgstr "Расскажите, как нам стать лучше?"
+
+#: common/class-rate-my-post-settings.php:125
+#: public/class-rate-my-post-public.php:1542
+msgid "Let us improve this post!"
+msgstr "Позвольте нам стать лучше!"
+
+#: common/class-rate-my-post-settings.php:124
+#: public/class-rate-my-post-public.php:1541
+msgid "We are sorry that this post was not useful for you!"
+msgstr "Сожалеем, что вы поставили низкую оценку!"
+
+#: common/class-rate-my-post-settings.php:123
+#: public/class-rate-my-post-public.php:1540
+msgid "Follow us on social media!"
+msgstr "Подписывайтесь на нас в соцсетях!"
+
+#: common/class-rate-my-post-settings.php:122
+#: public/class-rate-my-post-public.php:1539
+msgid "As you found this post useful..."
+msgstr "Так как вы нашли эту публикацию полезной..."
+
+#: public/class-rate-my-post-public.php:586
+msgid "vote(s)"
+msgstr "голос (-са)"
+
+#: common/class-rate-my-post-settings.php:112
+#: public/class-rate-my-post-public.php:1529
+msgid "Average rating"
+msgstr "Средняя оценка"
+
+#: common/class-rate-my-post-settings.php:121
+#: public/class-rate-my-post-public.php:1538
+msgid "Very useful"
+msgstr "Очень полезно"
+
+#: common/class-rate-my-post-settings.php:120
+#: public/class-rate-my-post-public.php:1537
+msgid "Fairly useful"
+msgstr "Довольно полезно"
+
+#: common/class-rate-my-post-settings.php:119
+#: public/class-rate-my-post-public.php:1536
+msgid "Useful"
+msgstr "Полезно"
+
+#: common/class-rate-my-post-settings.php:118
+#: public/class-rate-my-post-public.php:1535
+msgid "Somewhat useful"
+msgstr "Отчасти полезно"
+
+#: common/class-rate-my-post-settings.php:117
+#: public/class-rate-my-post-public.php:1534
+msgid "Not at all useful"
+msgstr "Бесполезно"
+
+#: common/class-rate-my-post-settings.php:111
+#: public/class-rate-my-post-public.php:1528
+msgid "Click on a star to rate it!"
+msgstr "Нажмите на звезду, чтобы оценить!"
+
+#: common/class-rate-my-post-settings.php:110
+#: public/class-rate-my-post-public.php:1527
+msgid "How useful was this post?"
+msgstr "Насколько публикация полезна?"
+
+#: admin/templates/meta-box.php:144
+msgid "No feedback so far!"
+msgstr "Отзывов пока нет!"
+
+#: admin/class-rate-my-post-admin.php:58
+msgid "Saving"
+msgstr "Сохранение…"
+
+#: common/class-rate-my-post-settings.php:116
+#: public/class-rate-my-post-public.php:1533
+msgid "Thank you for rating this post!"
+msgstr "Спасибо за оценку!"
+
+#: common/class-rate-my-post-settings.php:114
+#: public/class-rate-my-post-public.php:1531
+msgid "You already voted! This vote will not be counted!"
+msgstr "Вы уже ставили оценку. Текущая оценка не засчитана!"
+
+#: common/class-rate-my-post-settings.php:115
+#: public/class-rate-my-post-public.php:1532
+msgid "No votes so far! Be the first to rate this post."
+msgstr "Оценок пока нет. Поставьте оценку первым."

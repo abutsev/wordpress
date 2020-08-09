@@ -1,0 +1,180 @@
+# Translation of Themes - Nifty Lite in Russian
+# This file is distributed under the same license as the Themes - Nifty Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-14 08:50:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Nifty Lite\n"
+
+#. Description of the theme
+msgid "Nifty Lite is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. Nifty premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of Nifty Premium https://demo.speciatheme.com/pro/?theme=nifty"
+msgstr "Nifty Lite — это популярная тема WordPress с множеством сильных функций. Она мгновенно придаст профессиональный вид вашему онлайн присутствию. Подходит для бизнеса, портфолио, кулинарии и ресторанов, спортивных залов и фитнеса, спа-салонов, медицинских учреждений и больниц, лендингов, страниц товаров, корпораций, цифровых агентств, витрин товаров, финансовых консультантов и советников, бухгалтерии, юристов, фотографов, личных сайтов и любых магазинов электронной коммерции. Премиум-версия поддерживает более 10 различных макетов и поддерживает популярные плагины WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO и многие другие. Демо премиум-версии Fabify по ссылке: https://demo.speciatheme.com/pro/?theme=nifty"
+
+#. Theme Name of the theme
+msgid "Nifty Lite"
+msgstr "Nifty Lite"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: inc/customize/specia-features.php:94
+msgid "Description"
+msgstr "Описание"
+
+#: inc/customize/specia-features.php:74
+msgid "Title"
+msgstr "Заголовок"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Домашняя страница 1"
+
+#: sections/specia-slider.php:57
+msgid "Read More"
+msgstr "Читать далее"
+
+#: sections/specia-navigation.php:9
+msgid "Toggle navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: sections/specia-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: inc/customize/specia-premium.php:26
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: inc/customize/specia-premium.php:24
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/customize/specia-premium.php:22
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: inc/customize/specia-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Обновить до Premium"
+
+#: inc/customize/specia-header-section.php:104
+msgid "Button URL"
+msgstr "URL кнопки"
+
+#: inc/customize/specia-header-section.php:86
+msgid "Button Label"
+msgstr "Текст кнопки"
+
+#: inc/customize/specia-header-section.php:77
+msgid "Book Now"
+msgstr "Заказать сейчас"
+
+#: inc/customize/specia-header-section.php:70
+msgid "Want to get more icons <a href='https://fontawesome.com/v4.7.0/icons/' target='_blank'>Click Here</a>"
+msgstr "Хотите больше иконок? <a href='https://fontawesome.com/v4.7.0/icons/' target='_blank'>Жми сюда</a>"
+
+#: inc/customize/specia-header-section.php:66
+msgid "Button Icon"
+msgstr "Иконка кнопки"
+
+#: inc/customize/specia-header-section.php:42
+msgid "Hide/ Show Header Cart"
+msgstr "Показать/Скрыть корзину в заголовке"
+
+#: inc/customize/specia-header-section.php:24
+msgid "Header Cart & Button"
+msgstr "Корзина и кнопка в заголовке"
+
+#: inc/customize/specia-header-section.php:12
+msgid "Header Section"
+msgstr "Шапка сайта (Header)"
+
+#: inc/customize/specia-features.php:147
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: inc/customize/specia-features.php:146
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/customize/specia-features.php:140
+msgid "Image Position"
+msgstr "Позиция изображения"
+
+#: inc/customize/specia-features.php:122
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/customize/specia-features.php:106
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customize/specia-features.php:56
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customize/specia-features.php:46
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/customize/specia-features.php:45
+msgid "Show"
+msgstr "Показать"
+
+#: inc/customize/specia-features.php:39
+msgid "Hide / Show Section"
+msgstr "Скрыть/Показать Раздел"
+
+#: inc/customize/specia-features.php:21
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/customize/specia-features.php:12
+msgid "Features Section"
+msgstr "Раздел Возможности"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Theme URI of the theme
+msgid "https://speciatheme.com/nifty-free/"
+msgstr "https://speciatheme.com/nifty-free/"
+
+#. Author URI of the theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+msgid "Specia"
+msgstr "Specia"

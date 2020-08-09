@@ -1,0 +1,234 @@
+# Translation of Themes - Maya Blog in Russian
+# This file is distributed under the same license as the Themes - Maya Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-28 15:01:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Maya Blog\n"
+
+#. Description of the theme
+msgid "Maya Blog Theme is a simple, easy to use, clean, and modern WordPress blog Theme ideal for WordPress beginners or even for advanced users. It is fully responsive and fits any size of display from lower to higher resolutions and supports all modern browsers. Elevate your content with Maya Blog's honest, refined design and rest easy knowing that you’ve got Solo Pine’s highly acclaimed customer support team by your side."
+msgstr "Maya Blog — это простая, лёгкая в использовании, чистая и современная тема для блога на WordPress, идеально подходящая для начинающих и даже опытных пользователей. Она полностью адаптивна и подходит для дисплеев любого размера: от низкого до высокого; и поддерживает все современные браузеры. Повысьте качество своего сайта с помощью настоящего, утончённого дизайна Maya Blog, и будьте спокойны, зная, что на своей стороне вы получите высокоуровневую поддержку клиентов Solo Pine."
+
+#. Theme Name of the theme
+#: footer.php:69
+msgid "Maya Blog"
+msgstr "Maya Blog"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: template-parts/content-single.php:23 template-parts/content-page.php:18
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/template-functions.php:261
+msgid "Oops! That page can&#39;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: inc/template-functions.php:259
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:108
+msgid "Edit %s"
+msgstr "Изменить «%s»"
+
+#. translators: %s: post title
+#: inc/template-tags.php:85
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:62
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Комментариев<span class=\"screen-reader-text\"> к записи %s</span> нет"
+
+#: inc/customizer.php:153
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:147 inc/template-functions.php:171
+msgid "Copyright © All rights reserved."
+msgstr "© Все права защищены."
+
+#: inc/customizer.php:138
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:128
+msgid "Read More Text"
+msgstr "Текст «Читать далее»"
+
+#: inc/customizer.php:122 inc/template-functions.php:170
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer.php:111
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer.php:97
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: inc/customizer.php:96
+msgid "Right Sidebar"
+msgstr "Область виджетов справа"
+
+#: inc/customizer.php:95
+msgid "Left Sidebar"
+msgstr "Область виджетов слева"
+
+#: inc/customizer.php:90
+msgid "Default Sidebar Layout"
+msgstr "Стандартная разметка области виджетов"
+
+#: inc/customizer.php:75
+msgid "Layouts"
+msgstr "Разметка"
+
+#: inc/customizer.php:66
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:58
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/customizer.php:48
+msgid "BUY PRO"
+msgstr "Купить PRO"
+
+#: inc/customizer.php:47
+msgid "Maya Blog Pro"
+msgstr "Maya Blog Pro"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Кажется, ничего не найдено. Может быть воспользуетесь ссылками ниже или поиском?"
+
+#: footer.php:69
+msgid "%1$s by %2$s"
+msgstr "%1$s от %2$s"
+
+#: functions.php:215
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: Widget number.
+#: functions.php:194
+msgid "Footer Sidebar %d"
+msgstr "Нижняя часть %d области виджетов"
+
+#: functions.php:183
+msgid "Primary Sidebar"
+msgstr "Основная область виджетов"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:149
+msgid "huge"
+msgstr "огромный"
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: functions.php:143
+msgid "larger"
+msgstr "большой"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: functions.php:137
+msgid "regular"
+msgstr "обычный"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#: functions.php:131
+msgid "small"
+msgstr "маленький"
+
+#: functions.php:122
+msgid "Grey"
+msgstr "Серый"
+
+#: functions.php:117
+msgid "Black"
+msgstr "Чёрный"
+
+#: functions.php:112
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: functions.php:107
+msgid "Green"
+msgstr "Зелёный"
+
+#: functions.php:102
+msgid "Blue"
+msgstr "Синий"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Основной"
+
+#. Author URI of the theme
+msgid "http://karunathemes.com/"
+msgstr "http://karunathemes.com/"
+
+#. Author of the theme
+#: footer.php:69
+msgid "Karuna Themes"
+msgstr "Karuna Themes"
+
+#. Theme URI of the theme
+msgid "https://karunathemes.com/downloads/maya-blog-free/"
+msgstr "https://karunathemes.com/downloads/maya-blog-free/"
